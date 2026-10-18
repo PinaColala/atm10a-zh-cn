@@ -56,7 +56,7 @@ def main():
     (root / 'world/session.lock').write_bytes(b'\xe2\x98\x83')
     (root / 'options.txt').write_bytes(b'CLIENT OPTIONS MUST NOT BE TOUCHED')
     merged_file = root / 'config/ftbquests/quests/lang/zh_cn.snbt'
-    original_zh = parse(merged_file.read_text('utf-8-sig'))
+    original_zh = parse(merged_file.read_text('utf-8-sig')) if merged_file.exists() else {}
     original_zh['custom.test.title'] = '"保留自定义译文"'
     merged_file.write_bytes(language_bytes(original_zh))
     script = root / manifest['scripts'][0]['path']
