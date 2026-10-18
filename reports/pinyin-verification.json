@@ -1,0 +1,17 @@
+{
+  "result": "passed",
+  "checks": [
+    "check leaves instance unchanged",
+    "exact upstream binary installed",
+    "repeat install is no-op",
+    "modified file blocks removal without partial deletion",
+    "remove deletes owned files",
+    "translation backup and options preserved",
+    "renamed existing mod detected through modId",
+    "reinstall after removal",
+    "forged ownership record rejected"
+  ],
+  "shell": "Windows PowerShell 5.1",
+  "gameStarted": false,
+  "jarSha256": "b622c1ec7860bf776012fa8262d5425bd128889661b325028a1f407b35621dff"
+}

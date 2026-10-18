@@ -12,6 +12,10 @@ VaultPatcher 作者：FengMing3093，GPL-3.0-only。
 未修改的官方二进制及完整对应源码压缩包同时提供在 third_party/vaultpatcher/。
 离线验证使用 ASM、Gson、fastutil；测试依赖不随汉化安装到游戏。
 
+可选拼音搜索 Just Enough Characters 4.5.29：Towdium、yzl210、Death-123、vfyjxf_，MIT。
+项目：https://github.com/Towdium/JustEnoughCharacters
+沿用原 ATM10 r27-beta1 汉化包附带的未修改 JAR；来源、SHA-256 与 MIT 全文在 optional/pinyin/。
+
 译文：CC BY-NC-SA 4.0（署名、非商业性使用、相同方式共享）。
 安装器、构建和测试代码：GPL-3.0-or-later；第三方许可证保持各自原有声明。
 AllTheMods 的脚本代码与模组原始配方定义不随此仓库或发布包分发，安装时读取用户本地副本。

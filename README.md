@@ -6,6 +6,10 @@
 
 ## 安装
 
+**可选拼音搜索：**原 ATM10 汉化包附带的 Just Enough Characters 4.5.29 已补回，下载 [拼音搜索独立补装包](https://github.com/PinaColala/atm10a-zh-cn/releases/tag/pinyin-4.5.29-atm0.7.1)，退出游戏后解压，双击 `install-pinyin-windows.bat` 并输入实例目录。已有 r2 汉化无需重装。支持全拼及声母组合搜索；提供检查、独立卸载与重复模组检测。此组件仅用于客户端。原先发布的 r2 ZIP 不含它，仍需单独下载；从当前源码构建的客户端包会包含 `optional-pinyin` 文件夹，需自行运行其中的安装入口。
+
+原包功能对照及尚未迁移项目见 [功能差异清单](docs/UPSTREAM-FEATURE-AUDIT.md)。当前适配尚未完整保留原包的全部附加功能。
+
 **Linux 云端服务器：**下载 [Linux 服务端包](https://github.com/PinaColala/atm10a-zh-cn/releases/tag/r2.1-linux-atm0.7.1)，解压后停服，用服务端文件的所属用户执行（Python 3.8+）：
 
 ```sh
@@ -38,7 +42,7 @@ sh install.sh --restore "/srv/minecraft/ATM10A"
 - 对 65 个 JSON 数据文件仅修改 161 个显示字段。安装时读取用户的原文件或目标模组 JAR，保留配方材料、法术组成等非显示数据。
 - 使用官方 VaultPatcher 1.5.3-fix-all；随包提供原始二进制、对应源码和许可证。
 
-本项目延续基础汉化的覆盖范围，补齐本轮验收发现的缺口；**不承诺整合包每个模组的全部英文均已汉化**。字节码补丁限于选定的 10 个模块。
+本项目迁移了基础汉化中的部分内容并补译航空版；**不承诺整合包每个模组的全部英文均已汉化，也未完整迁移原包全部功能**。字节码补丁限于选定的 10 个模块，其他已确认差异见功能差异清单。
 
 ## 验证范围
 
@@ -54,6 +58,8 @@ Python 3.10+，仅用标准库：
 
 ```powershell
 python tools/build.py
+# 仅构建客户端拼音补装包：
+python tools/build_pinyin.py
 # Linux 服务端包（此构建脚本支持 Python 3.8+）：
 python tools/build_linux.py
 ```
@@ -70,6 +76,7 @@ python tests/verify.py --reference D:/test/ATM10AERO-0.7.1/overrides --mod-dir D
 
 - 基础汉化：星野夢華（Hoshino Yumeka），[chiba233/atm10-zh-cn](https://github.com/chiba233/atm10-zh-cn)，以及 CFPA 社区。译文按 **CC BY-NC-SA 4.0** 共享，须署名、非商业性使用、相同方式共享。
 - 安装、构建与测试代码：**GPL-3.0-or-later**；VaultPatcher：**GPL-3.0-only**。
+- 可选 Just Enough Characters 4.5.29：**MIT**，原始二进制、许可与来源位于 `optional/pinyin/`。安装器离线测试见 [报告](reports/pinyin-verification.json)，Windows 上执行 `python tests/verify_pinyin.py` 复验；先构建补装包并退出 Java 程序。未进行真实游戏搜索验证。
 - 整合包：[AllTheMods/ATM-10-a](https://github.com/AllTheMods/ATM-10-a)。此项目不是 AllTheMods 或基础汉化作者的官方发布。
 
 详细范围见 [LICENSE](LICENSE)、[上游许可](LICENSE-UPSTREAM)、[CREDITS.txt](CREDITS.txt)。

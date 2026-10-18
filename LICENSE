@@ -8,4 +8,6 @@ installer/、tools/、tests/ 代码：GPL-3.0-or-later，完整正文见 LICENSE
 src/common/files/kubejs/server_scripts/pb_hanhua_cage_migrate.js 的代码沿用其 GPL-3.0-or-later 声明，译文沿用 CC BY-NC-SA 4.0。
 
 third_party/vaultpatcher/：GPL-3.0-only，许可正文与对应源码均在该目录。
+optional/pinyin/install.ps1：GPL-3.0-or-later。
+optional/pinyin/jecharacters-1.21.1-neoforge-4.5.29.jar：MIT，正文见同目录 LICENSE-just-enough-characters.txt。
 其他第三方内容按原有许可与署名保留，未声明对其拥有独占版权。

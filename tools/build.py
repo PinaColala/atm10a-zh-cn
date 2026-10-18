@@ -1,5 +1,6 @@
 """SPDX-License-Identifier: GPL-3.0-or-later. Python 3.10+, standard library only."""
 import pathlib,json,zipfile,hashlib,shutil
+from build_pinyin import copy_addon
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 def load(p):return json.loads(p.read_text('utf-8-sig'))
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
@@ -19,6 +20,7 @@ for side in ['client','server']:
  copy_tree(ROOT/'third_party',out/'third_party')
  pack='ATM10A-zh_CN-0.7.1-r2.zip'
  if side=='client':
+  copy_addon(out/'optional-pinyin')
   (payload/'resourcepacks').mkdir(exist_ok=True)
   with zipfile.ZipFile(payload/'resourcepacks'/pack,'w',zipfile.ZIP_DEFLATED) as z:
    for p in sorted((ROOT/'src/resourcepack').rglob('*')):
