@@ -1,0 +1,22 @@
+{
+  "name": "玻璃",
+  "icon": "bigreactors:fluidizerglass",
+  "category": "bigreactors:fluidizer-parts",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:fluidizerglass",
+      "link_recipe": true,
+      "title": "玻璃",
+      "text": "玻璃方块是装饰性方块，可以替代机壳方块使用，以展示流化器内部。"
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "玻璃",
+      "crafting.recipe1": "bigreactors:fluidizer/glass",
+      "usage.text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面上（不在框架上）$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

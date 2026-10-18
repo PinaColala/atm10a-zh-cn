@@ -1,0 +1,6 @@
+{
+  "name": "轮机",
+  "description": "本节包含关于涡轮机及如何使用它来生产能量所需了解的一切。",
+  "icon": "bigreactors:basic_turbinerotorbearing",
+  "sortnum": 3
+}

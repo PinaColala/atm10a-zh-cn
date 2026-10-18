@@ -1,0 +1,166 @@
+{
+  "name": "环境控制器",
+  "icon": "rftoolsutility:environmental_controller",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:environmental_controller": 0,
+    "rftoolsutility:module_template": 0,
+    "rftoolsutility:moduleplus_template": 0,
+    "rftoolsutility:blindness_module": 0,
+    "rftoolsutility:featherfalling_module": 0,
+    "rftoolsutility:featherfallingplus_module": 0,
+    "rftoolsutility:haste_module": 0,
+    "rftoolsutility:hasteplus_module": 0,
+    "rftoolsutility:flight_module": 0,
+    "rftoolsutility:glowing_module": 0,
+    "rftoolsutility:luck_module": 0,
+    "rftoolsutility:nightvision_module": 0,
+    "rftoolsutility:noteleport_module": 0,
+    "rftoolsutility:peaceful_module": 0,
+    "rftoolsutility:poison_module": 0,
+    "rftoolsutility:regeneration_module": 0,
+    "rftoolsutility:regenerationplus_module": 0,
+    "rftoolsutility:saturation_module": 0,
+    "rftoolsutility:saturationplus_module": 0,
+    "rftoolsutility:slowness_module": 0,
+    "rftoolsutility:speed_module": 0,
+    "rftoolsutility:speedplus_module": 0,
+    "rftoolsutility:waterbreathing_module": 0,
+    "rftoolsutility:weakness_module": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)环境控制器$()可用于为一片区域“注入”各种效果。$(thing)最多可同时支持七种效果$()，但这会提高能量消耗。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:environmental_controller"
+    },
+    {
+      "type": "image",
+      "images": [
+        "rftoolsutility:textures/manual/env_controller_gui.png"
+      ],
+      "text": "控制器的 GUI"
+    },
+    {
+      "type": "text",
+      "text": "这个界面中有几个值得注意的元素。$(br2)左侧有七个$(item)模块槽$()，用于放入正在生效的模块。$(br2)顶部有一个滑块，用于指定机器的作用半径，下方则是最小和最大 Y 高度的输入框。"
+    },
+    {
+      "type": "text",
+      "text": "其下方是过滤器，你可以在其中指定玩家名称，以决定他们是会受到还是免疫这些模块效果。过滤器有七种模式：所有生物和玩家、玩家黑名单、玩家白名单、被动生物、敌对生物，或敌对与被动生物。$(br2)最后，还有一个红石控制按钮（通电激活、断电激活或忽略）以及左下角的能量表。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:module_template",
+      "recipe2": "rftoolsutility:moduleplus_template"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:speed_module",
+      "text": "该模块会给予范围内所有有效目标速度 I 效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:regeneration_module",
+      "text": "该模块会给予范围内所有有效目标生命恢复 I 效果。$(br2)消耗：0.0015 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:featherfalling_module",
+      "text": "该模块会使范围内所有有效目标受到的摔落伤害减半。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:glowing_module",
+      "text": "该模块会给予范围内所有有效目标发光效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:haste_module",
+      "text": "该模块会给予范围内所有有效目标急迫 I 效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:nightvision_module",
+      "text": "该模块会给予范围内所有有效目标夜视效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:saturation_module",
+      "text": "该模块会给予范围内所有有效目标饱和效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:luck_module",
+      "text": "该模块会给予范围内所有有效目标幸运效果。$(br2)消耗：0.002 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:peaceful_module",
+      "text": "该模块会阻止范围内生成敌对生物。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:featherfallingplus_module",
+      "text": "该模块会使范围内所有有效目标受到的摔落伤害完全无效化。$(br2)消耗：0.003 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:hasteplus_module",
+      "text": "该模块会给予范围内所有有效目标急迫 III 效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:waterbreathing_module",
+      "text": "该模块会给予范围内所有有效目标水下呼吸效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:flight_module",
+      "text": "该模块会给予范围内所有有效目标$(thing)创造模式飞行$()能力。$(br2)消耗：0.004 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:regenerationplus_module",
+      "text": "该模块会给予范围内所有有效目标生命恢复 III 效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:speedplus_module",
+      "text": "该模块会给予范围内所有有效目标速度 III 效果。$(br2)消耗：0.003 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:saturationplus_module",
+      "text": "该模块会给予范围内所有有效目标饱和 III 效果。$(br2)消耗：0.003 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:noteleport_module",
+      "text": "该模块会阻止范围内的潜影贝和末影人进行传送。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:blindness_module",
+      "text": "该模块会给予范围内所有有效目标失明效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:poison_module",
+      "text": "该模块会使范围内所有有效目标中毒。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:weakness_module",
+      "text": "该模块会给予范围内所有有效目标虚弱效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsutility:slowness_module",
+      "text": "该模块会给予范围内所有有效目标缓慢效果。$(br2)消耗：0.001 RF / Tick（按范围内每个方块计算）"
+    }
+  ]
+}

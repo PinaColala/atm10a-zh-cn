@@ -1,0 +1,17 @@
+{
+  "name": "自动炼药机",
+  "icon": "industrialforegoing:potion_brewer",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 9,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台自动原版酿造台。$(br2)当为其提供$(6)能量$()时，它会利用所提供的材料酿造药水。$(br)若内部$(6)水$()容器已装满，则空玻璃瓶将被自动灌装，且水不会被消耗。$(br2)需在绿色过滤器中配置一种药水，才能提取对应药水。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:potion_brewer"
+    }
+  ]
+}

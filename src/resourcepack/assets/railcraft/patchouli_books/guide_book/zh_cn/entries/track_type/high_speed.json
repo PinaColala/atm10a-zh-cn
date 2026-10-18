@@ -1,0 +1,11 @@
+{
+  "name": "高速",
+  "icon": "railcraft:high_speed_track",
+  "category": "railcraft:track_type",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "此类轨道与普通轨道略有不同。任何在这些轨道上行驶的矿车，其直线行驶速度均为普通轨道的2.5倍——该速度可调节。此外，若矿车未提前减速便试图驶离此类轨道，必将引发爆炸。碰撞同样危险。更多详情请参见此处。"
+    }
+  ]
+}

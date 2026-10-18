@@ -1,0 +1,30 @@
+{
+  "name": "灯柱",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:lamp_post",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/lamp.png"
+      ],
+      "text": "带弓形装饰的灯柱！"
+    },
+    {
+      "type": "spotlight",
+      "title": "灯柱",
+      "item": "merrymaking:lamp_post",
+      "text": "灯柱方块叠放时可向上延伸，且具备方向朝向以便装饰。$(br)若在其顶部放置火把，灯柱顶端将发光。$(br2)移除火把并空手点击灯柱，即可“关闭”灯柱。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "装饰灯柱",
+      "text": "当灯柱方块堆叠至3格高时，细长灯杆部分可通过在其上放置弓或任一类型花环进行装饰。$(br2)空手点击灯杆即可移除装饰。"
+    },
+    {
+      "type": "crafting",
+      "title": "灯柱",
+      "recipe": "merrymaking:lamp_post"
+    }
+  ]
+}

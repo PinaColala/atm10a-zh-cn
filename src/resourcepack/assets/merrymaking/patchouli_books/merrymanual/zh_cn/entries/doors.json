@@ -1,0 +1,30 @@
+{
+  "name": "装饰门",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:doors",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/door.png"
+      ],
+      "text": "已装饰的云杉木门！"
+    },
+    {
+      "type": "spotlight",
+      "item": "merrymaking:oak_wreath_lights_white_door",
+      "text": "要为任意原版木门添加花环，只需在工作台中将该门与花环组合即可。$(br2)装有亮灯花环的门自身也会发出光照。"
+    },
+    {
+      "type": "crafting",
+      "title": "带花环的门",
+      "recipe": "merrymaking:spruce_wreath_door",
+      "recipe2": "merrymaking:cherry_wreath_lights_white_door"
+    },
+    {
+      "type": "crafting",
+      "title": "带花环的门",
+      "recipe": "merrymaking:dark_oak_wreath_lights_multi_door"
+    }
+  ]
+}

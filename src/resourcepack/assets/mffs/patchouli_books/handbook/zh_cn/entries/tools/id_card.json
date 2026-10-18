@@ -1,0 +1,23 @@
+{
+  "name": "识别卡",
+  "icon": "mffs:id_card",
+  "category": "mffs:tools",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:id_card",
+      "link_recipe": true,
+      "text": "MFFS $(5)识别卡$()需与$(l:mffs:machines/biometric_identifier)生物识别器$()配合使用，以管理玩家的权限与特权。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:id_card",
+      "text": "合成$(5)识别卡$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "使用",
+      "text": "识别卡在启用前，需先分配给某位玩家。您可通过手持识别卡并按住Shift键右击，将卡片分配给自己；亦可通过按住Shift键右击其他玩家，将卡片分配给他们。再次激活卡片，即可清除其中已存储的身份信息。"
+    }
+  ]
+}

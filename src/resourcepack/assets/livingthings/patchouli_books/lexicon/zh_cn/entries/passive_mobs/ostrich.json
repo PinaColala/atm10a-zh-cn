@@ -1,0 +1,32 @@
+{
+  "name": "鸵鸟",
+  "icon": "livingthings:ostrich_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "奔跑迅捷的鸟类，无需马鞍即可骑乘。$(br2)$(bold)生命值：$()10颗心$(br2)$(bold)繁殖物品：$()$(li)小麦$(br2)$(bold)繁殖行为：$()$(br)    下一页 …"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:ostrich",
+      "rotate": false,
+      "scale": 1.0,
+      "default_rotation": 45,
+      "offset": 0.1,
+      "text": "可在所有$(bold)热带草原$()生物群系中找到。"
+    },
+    {
+      "type": "text",
+      "text": "$(bold)繁殖行为：$()$(br2)当两只鸵鸟相恋后，其中一只将寻找最近的沙方块并在其上筑巢。$(br)若附近已有空置的孵化巢，鸵鸟将直接选择该巢产卵。$(br)蛋需要一段时间才能孵化出幼年鸵鸟。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "livingthings:textures/other/ostrich_laying_egg.png"
+      ],
+      "border": true,
+      "text": "一只正在孵化巢中产卵的鸵鸟。"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "丑毛衣盔甲",
+  "icon": "merrymaking:red_santa_hat_leather",
+  "category": "merrymaking:armor",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/ugly_armor.png"
+      ],
+      "text": "一套丑毛衣圣诞盔甲"
+    },
+    {
+      "type": "spotlight",
+      "item": "merrymaking:red_ugly_christmas_sweater",
+      "title": "丑毛衣盔甲",
+      "text": "这套风格浮夸、主题鲜明的节日盔甲提供两种配色，且可自由混搭。$(br2)帽子与毛衣（头盔与胸甲）有一定几率由穿戴该盔甲的怪物掉落。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "该盔甲分为多个阶段，可通过锻造台进行升级。$(br2)$(li)阶段1（皮革）：通过合成或掉落获得 $(li)阶段2（铁）：于锻造台升级 $(li)阶段3（钻石）：于锻造台升级 $(li)阶段4（下界合金）：于锻造台升级"
+    },
+    {
+      "type": "spotlight",
+      "item": "merrymaking:iron_upgrade_smithing_template",
+      "title": "锻造模板",
+      "text": "若要将盔甲升级至阶段2及以上，你需要一种特殊的锻造模板。这些模板散落在主世界各处的宝箱中，亦可通过以下配方复制："
+    },
+    {
+      "type": "crafting",
+      "title": "复制模板",
+      "recipe": "merrymaking:iron_upgrade_template_dupe",
+      "recipe2": "merrymaking:diamond_upgrade_template_dupe"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "“红色”款丑毛衣圣诞盔甲由皮革与红色羊毛合成。$(br2)“绿色”款则由皮革与绿色羊毛合成。$(br2)阶段1部件的合成配方如下："
+    },
+    {
+      "type": "crafting",
+      "title": "头盔",
+      "recipe": "merrymaking:red_santa_hat_leather",
+      "recipe2": "merrymaking:reindeer_antlers_leather"
+    },
+    {
+      "type": "crafting",
+      "title": "胸甲",
+      "recipe": "merrymaking:red_ugly_sweater_leather",
+      "recipe2": "merrymaking:green_ugly_sweater_leather"
+    },
+    {
+      "type": "crafting",
+      "title": "护腿",
+      "recipe": "merrymaking:plaid_pants_leather",
+      "recipe2": "merrymaking:striped_pants_leather"
+    },
+    {
+      "type": "crafting",
+      "title": "靴子",
+      "recipe": "merrymaking:reindeer_slippers_leather",
+      "recipe2": "merrymaking:santa_slippers_leather"
+    },
+    {
+      "type": "patchouli:smithing",
+      "title": "2级升级示例",
+      "recipe": "minecraft:iron_santa_hat_smithing",
+      "recipe2": "minecraft:iron_green_sweater_smithing",
+      "text": "阶段2的锻造配方需使用铁质升级锻造模板。"
+    },
+    {
+      "type": "patchouli:smithing",
+      "title": "3级升级示例",
+      "recipe": "minecraft:iron_plaid_leggings_smithing",
+      "recipe2": "minecraft:diamond_reindeer_slippers_smithing",
+      "text": "阶段3的锻造配方需使用钻石升级锻造模板。"
+    }
+  ]
+}

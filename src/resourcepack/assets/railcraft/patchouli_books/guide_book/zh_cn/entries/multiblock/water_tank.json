@@ -1,0 +1,16 @@
+{
+  "name": "水储罐",
+  "icon": "railcraft:water_tank_siding",
+  "category": "railcraft:multiblock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "水槽是铁路的水源，它是一种被动式系统，可从环境中收集水分以保持水槽始终充满。水槽本身可储存400桶水，可用于为蒸汽机车（或其他耗水设备）补水。水槽的自动补水速率取决于所处生物群系、天气状况以及水槽是否位于室外（即能否看到天空）。通常建议您不要让铁路穿越沙漠。$(br2)要建造水槽，请使用蓄水器壁板搭建一个3×3×3的空心结构，其建造方式与焦炉类似。"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "水储罐",
+      "multiblock_id": "railcraft:water_tank"
+    }
+  ]
+}

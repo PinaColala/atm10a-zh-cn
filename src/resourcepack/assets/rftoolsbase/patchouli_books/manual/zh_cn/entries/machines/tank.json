@@ -1,0 +1,29 @@
+{
+  "name": "储罐",
+  "icon": "rftoolsutility:tank",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:tank": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种用于盛装流体的容器，（默认）最多可容纳 32 桶。你可以在过滤槽中放入装有指定流体的桶，以限制可存储的流体种类。"
+    },
+    {
+      "type": "crafting",
+      "heading": "储罐",
+      "recipe": "rftoolsutility:tank"
+    },
+    {
+      "type": "text",
+      "title": "使用中",
+      "text": "使用桶或其他流体容器对储罐进行右键点击，可实现填充或排空操作。管道亦可与其流体功能交互。"
+    },
+    {
+      "type": "text",
+      "title": "过滤器",
+      "text": "在滤网槽中放入装满液体的桶，即可将储罐锁定为仅处理该种液体。移除滤网物品后，储罐将恢复为可处理任意液体。"
+    }
+  ]
+}

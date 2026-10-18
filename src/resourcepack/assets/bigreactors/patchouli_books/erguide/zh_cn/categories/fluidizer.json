@@ -1,0 +1,6 @@
+{
+  "name": "流化器",
+  "description": "流化器是一种多方块机器，可让你将固体燃料转化为流体，并混合现有燃料来创造新的燃料。",
+  "icon": "bigreactors:fluidizersolidinjector",
+  "sortnum": 5
+}

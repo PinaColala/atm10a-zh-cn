@@ -1,0 +1,13 @@
+{
+  "name": "海苔",
+  "icon": "minecraft:kelp",
+  "category": "sushigocrafting:world",
+  "sortnum": 1,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "text",
+      "text": "你可在海洋中找到海苔。"
+    }
+  ]
+}

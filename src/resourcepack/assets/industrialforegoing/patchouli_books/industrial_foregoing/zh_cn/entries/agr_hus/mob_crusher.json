@@ -1,0 +1,17 @@
+{
+  "name": "屠宰机",
+  "icon": "industrialforegoing:mob_crusher",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种用于$(6)击杀$()生物的机器，其效果如同玩家手动击杀，可正常掉落战利品与精华。掉落物直接源自对应生物的战利品表。$(br2)该机器具备备用模式：此时不生成精华，而是生成带有随机$(6)幸运$()等级的掉落物。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_crusher"
+    }
+  ]
+}

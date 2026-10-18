@@ -1,0 +1,22 @@
+{
+  "name": "输出端口",
+  "icon": "bigreactors:fluidizeroutputport",
+  "category": "bigreactors:fluidizer-parts",
+  "read_by_default": true,
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:fluidizeroutputport",
+      "link_recipe": true,
+      "title": "输出端口",
+      "text": "输出端口可以让你从流化器中提取流体燃料。$(br2)你可以连接任意类型的管道来自动提取燃料。"
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "输出端口",
+      "crafting.recipe1": "bigreactors:fluidizer/outputport",
+      "usage.text": "$(l)必需：$()至少需要一个$(br)$(l)有效位置：$()任意面上（不在框架上）$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

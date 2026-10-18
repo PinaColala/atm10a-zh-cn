@@ -1,0 +1,39 @@
+{
+  "name": "红石端口",
+  "icon": "bigreactors:reinforced_turbineredstoneport",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbineredstoneport",
+      "link_recipe": true,
+      "title": "红石端口",
+      "text": "红石端口允许你使用红石来自动化你的涡轮机。$(br2)打开端口的图形界面即可进行配置。之后，你可以在三种输入设置（侦听红石信号）和四种输出设置（发出红石信号）之间进行选择。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)输入设置$()$(br2)当接收到红石信号时，执行以下操作之一$(br2)$(li)$(o)开 / 关：$()根据接收到的信号开启或关闭涡轮机$(li)$(o)感应线圈：$()接合或脱开感应线圈$(li)$(o)流量：$()改变涡轮机内部蒸汽的最大流量。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)输出设置$()$(br2)当满足以下条件之一时发出红石信号$(br2)$(li)$(o)转子速度：$()涡轮机转子的转速高于、低于或处于给定数值区间内$(li)$(o)冷却液数量：$()涡轮机中的冷却液量高于、低于或处于给定数值区间内$(li)$(o)蒸汽数量：$()涡轮机中的蒸汽量高于、低于或处于给定数值区间内"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(o)能源储量：$()内部能量缓冲区中储存的能量高于、低于或处于给定数值区间内。$(br2)要想完全自动化一台涡轮机，你通常需要两个或更多红石端口。$(br2)如果你想实现更复杂的自动化，请查看$(l:bigreactors:turbine/part-computerport)计算机端口$(/l)。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:turbine/basic/redstoneport",
+      "title2": "加固",
+      "recipe2": "bigreactors:turbine/reinforced/redstoneport"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面（不能在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()是"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pages": [
+
+    {
+      "type": "standard",
+
+      "summary": "现在你可以动手务农，用一道道能摆能吃的菜把家填满了。\n\n有疑问或需要即时帮助，欢迎加入 Discord：\n\nhttps://discord.gg/2QWyQ8fkUr",
+
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/mama.png",
+          "caption": "herbsandharvest.guide_book.chapters.mama_caption",
+          "image_width": 30,
+          "image_height": 30
+        },
+        {
+          
+		  "type": "text",
+		  "literal_text": "\n\n希望你喜欢我的模组家族里的这一位。\n\n爱你们的，\n~ Mama Michelle",
+		  "text": null
+			 
+
+        }
+      ]
+    }
+
+
+
+  ]
+}

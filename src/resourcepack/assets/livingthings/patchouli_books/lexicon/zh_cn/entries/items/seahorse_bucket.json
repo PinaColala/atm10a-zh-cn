@@ -1,0 +1,15 @@
+{
+  "name": "一桶海马",
+  "icon": "livingthings:seahorse_bucket",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)用空水桶对海马右键点击，即可将其捕获至水桶中"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:seahorse_bucket"
+    }
+  ]
+}

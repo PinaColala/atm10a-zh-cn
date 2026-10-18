@@ -1,0 +1,26 @@
+{
+  "name": "矿石",
+  "icon": "bigreactors:yellorite_ore",
+  "category": "bigreactors:intro",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "bigreactors:spotlight-smelting",
+      "spotlightItem": "bigreactors:yellorite_ore",
+      "spotlightText": "为反应堆提供动力的常见燃料来源是黄铀。$(br2)黄铀几乎可以在所有生物群系中找到，并且可以通过冶炼制成黄铀锭。",
+      "recipe": "bigreactors:smelting/yellorium_from_ore"
+    },
+    {
+      "type": "bigreactors:spotlight-item",
+      "spotlightItem": "bigreactors:benitoite_ore",
+      "spotlightText": "蓝锥矿晶体只出现在地狱最深邃的角落，它们拥有一些不同寻常的性质，而你至今仍未发现它们的用途。",
+      "smallItem": "bigreactors:benitoite_crystal"
+    },
+    {
+      "type": "bigreactors:spotlight-item",
+      "spotlightItem": "bigreactors:anglesite_ore",
+      "spotlightText": "你需要抵达旅程的终点——末地，才能找到这些难觅的水晶，尽管你依然不知道该如何利用它们。",
+      "smallItem": "bigreactors:anglesite_crystal"
+    }
+  ]
+}

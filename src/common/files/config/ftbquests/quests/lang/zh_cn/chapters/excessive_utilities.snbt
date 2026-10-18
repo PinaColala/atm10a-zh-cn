@@ -1,0 +1,177 @@
+{
+	quest.02306C4616627B02.quest_desc: ["它使用 FE 而不是煤等燃料来烧炼物品。"]
+	quest.03F585616CDC979A.quest_desc: ["制作不稳定锭需要分割符印。它可能由凋灵掉落，也可在要塞、废弃矿井、地牢和沙漠神殿的战利品中找到。"]
+	quest.053ACC174F0D1E46.quest_desc: ["末影百合偶尔出现在末地外岛，可用于种植末影珍珠。\\n\\n它不喜欢普通洒水壶，会传送逃走；使用骨粉也会让生长倒退。不过它能接受强化洒水壶，在末影核心上生长更快。"]
+	quest.0712DD2EAE8FE53C.quest_desc: ["风力磨坊产出 0.5 至 2.5 GP，数值会波动。下雨额外增加 1 GP，雷暴额外增加 2 GP。"]
+	quest.07609654842FA968.quest_desc: ["末影发电机消耗末影珍珠或末影之眼产生 FE。"]
+	quest.07609654842FA968.quest_subtitle: "传送"
+	quest.08AF237C41E4AEF9.quest_desc: ["死亡发电机消耗亡灵生物掉落物产生 FE。运行时会对附近实体施加末日效果，若不喝牛奶清除，将在一分钟后死亡。"]
+	quest.08AF237C41E4AEF9.quest_subtitle: "第十三张塔罗牌"
+	quest.08CF0F0BC5B82681.quest_desc: ["药水发电机消耗药水产生 FE。药水越复杂，产能越高。"]
+	quest.08CF0F0BC5B82681.quest_subtitle: "酿造大明星"
+	quest.0951A1A3FC49AEBC.quest_desc: ["谐振器可转化某些物品，加工时会占用相应数量的 GP。"]
+	quest.0AAA8E411D877A63.quest_desc: ["量子采石场有三个功能槽：\\n生物群系标记：优先采掘指定群系，仅支持主世界群系。\\n附魔书：应用对应效果，例如效率加快速度、时运增加矿产。\\n物品过滤器：决定保留哪些物品，不符合过滤规则的物品会被销毁。"]
+	quest.0AAA8E411D877A63.title: "量子采石场强化"
+	quest.0F94689A7F6709FA.quest_desc: ["魔法木用于部分合成，同时相当于五个书架，提供 10 点永恒值，上限 30。"]
+	quest.1339E6B956AA0744.quest_desc: ["它可以粉碎物品，例如把花变成染料、地毯变成线。"]
+	quest.1408F665D8E66289.quest_desc: ["能量传输节点将所连接方块的能量送到相邻方块或传输管道网络；能量回收节点则从网络和相邻方块收集能量，送入它所连接的方块。", "{image:atm:textures/questpics/excessiveutilities/energy_transfer_node.png width:200 height:125 align:center fit:true}"]
+	quest.1415E1E0431C59F1.quest_desc: ["末影采石场挖掘资源后，会用泥土填回原处。\\n\\n有两种圈定范围的方法：用栅栏围出区域，并将采石场放在一段栅栏旁；或在角落放置末影标记，再把采石场放在区域边缘的一个标记旁。\\n\\n采掘物会输出到相邻箱子等容器中。"]
+	quest.14D6614F0FD61549.quest_desc: ["治疗之斧握在手中时会偶尔恢复饥饿值。攻击其他实体时会消耗自己的生命为其治疗，但对亡灵生物则造成额外伤害。它不会损坏。"]
+	quest.15AE61C0129FF66C.quest_desc: ["没有此升级时，末影采石场会用泥土回填；安装后不再回填，而是留下真正的矿坑。"]
+	quest.16AA1B9379753CC9.quest_desc: ["邪恶之滴偶尔由凋灵骷髅掉落。"]
+	quest.1876ADF135DEF33B.quest_desc: ["超量实用设备也提供 FE 发电机。\\n\\n速度升级可让产能最高达到原来的 64 倍，同时更快消耗燃料，并占用 GP。未安装升级时，这些发电机不消耗 GP。"]
+	quest.1876ADF135DEF33B.title: "FE 发电机"
+	quest.18CF6BE2AB854289.quest_desc: ["对泥土使用邪恶之滴可生成诅咒之土，它会快速生成敌对生物。一旦着火，火势会迅速蔓延到附近诅咒之土，将其烧回泥土。"]
+	quest.18CF6BE2AB854289.title: "诅咒之土"
+	quest.1954642BB8E8C5C8.quest_desc: ["食用后会刷新附魔台提供的附魔选项。"]
+	quest.19FEB11411AA2C66.quest_desc: ["飞鱿之戒由鸡翅之戒升级而来，默认按住空格即可向上推进，使用时占用 16 GP。和前身一样，它只能在有剩余充能时工作。"]
+	quest.19FEB11411AA2C66.quest_subtitle: "有限飞行"
+	quest.1A4E77F6621731AF.quest_desc: ["末影采石场精准采集升级可提供精准采集效果，直接获取玻璃、矿石等方块本体。"]
+	quest.1B4027ADAFB83900.quest_desc: ["它的附魔能力是魔法木的两倍，一个方块相当于十个书架，也能加快末影百合生长。"]
+	quest.1B4027ADAFB83900.quest_subtitle: "这可不是末影接口的核心库"
+	quest.1C4E3C45ADB9DA6F.quest_desc: ["口臭发电机使用末影龙的龙息产生 FE。"]
+	quest.1C4E3C45ADB9DA6F.quest_subtitle: "快吃颗薄荷糖吧"
+	quest.1E387B934B7DBB8C.quest_desc: ["熔岩红石发电机是熔岩发电机的升级版，除了熔岩还需要红石，但产能也更高。"]
+	quest.1E387B934B7DBB8C.quest_subtitle: "咯咯咯——小鸡"
+	quest.204C2EFF9A0A2360.quest_desc: ["爆炸发电机消耗火药或 TNT 产生 FE。"]
+	quest.204C2EFF9A0A2360.quest_subtitle: "轰！"
+	quest.228AE96FE48D7457.quest_desc: ["末影采石场时运升级提供对应等级的时运效果，提高每块矿石的产出。"]
+	quest.23C68F458B1571D9.quest_desc: ["物品传输节点把连接容器中的物品送到相邻容器或管道网络；物品回收节点则从网络及相邻容器取物，送入它连接的容器。", "{image:atm:textures/questpics/excessiveutilities/item_transfer_node.png width:200 height:100 align:center fit:true}"]
+	quest.272DC75EAFD7B9B0.quest_desc: ["熔岩发电机消耗熔岩产生 FE。"]
+	quest.272DC75EAFD7B9B0.quest_subtitle: "熔——熔——熔岩"
+	quest.29D6491A130B2657.quest_desc: ["超量实用设备提供的各种机器，有些消耗 FE，有些不需要。"]
+	quest.29D6491A130B2657.title: "机器"
+	quest.2AA309648AE573B6.quest_desc: ["速度升级可加快部分机器，但会占用 GP。消耗公式为：\\n数量×(122+4×数量)/126\\n\\n各等级堆叠上限：基础 4 个、魔法 16 个、终极 64 个。\\n\\n分别装满时约占用 4.38、23.62、192 GP。"]
+	quest.2AA309648AE573B6.title: "速度升级"
+	quest.2AF19F2FA48D2742.quest_desc: ["QED 看起来像工作台，但工作方式不同！\\n\\n以 QED 为中心的 9×9×9 区域内，至少放置一个末影通量水晶。水晶越多，QED 工作越快。至于缩写代表什么？也许是“二次外推装置”，也许是“昂贵装饰品”！"]
+	quest.2AF19F2FA48D2742.quest_subtitle: "类星体／电子装饰"
+	quest.2B4EE8B84907CC01.quest_desc: ["天使方块可以直接放在空中，无需脚手架，非常适合飞行时开建。"]
+	quest.2B4EE8B84907CC01.quest_subtitle: ""
+	quest.2B5A210AA7C6FCC3.quest_desc: ["鸡翅之戒默认按住空格可减缓下落，使用时占用 1 GP，并消耗自身充能；停止使用后恢复充能。"]
+	quest.2B5A210AA7C6FCC3.quest_subtitle: "勉强算得上飞行"
+	quest.2BB843CB01B962A4.quest_desc: ["超频发电机会瞬间烧完熔炉燃料，一次性获得能量，但它是同类中燃料利用率最低的。"]
+	quest.2BB843CB01B962A4.quest_subtitle: "快！"
+	quest.2E5366CEAC10BCDC.quest_desc: ["这些升级可以加快末影采石场，等级越高效果越好。"]
+	quest.2E5366CEAC10BCDC.title: "末影采石场速度升级"
+	quest.2EAB38B23F5171B9.quest_desc: ["水力磨坊每接触一侧流动水产生 4 GP，不计算水源方块，也不计算顶部和底部的水。"]
+	quest.307F4A1E8FD8098C.quest_desc: ["红石兰花可以在红石矿石上找到并种植，成熟后可收获红石粉。"]
+	quest.348DAEB7B58443C0.quest_desc: ["用钻石“除”铁锭即可得到不稳定锭。\\n\\n&c它只会保持稳定 10 秒，随后爆炸，必须尽快合成！携带它退出合成界面也会提前引爆，甚至导致死亡。&r\\n\\n&8自动化制作的不稳定锭会被视为不合格，不能用于配方。&r\\n\\n“希望你擅长顶着压力合成。”——Jonh09"]
+	quest.348DAEB7B58443C0.quest_subtitle: "1337/0="
+	quest.348DAEB7B58443C0.title: "不稳定锭"
+	quest.360FFC95F4CA5338.quest_desc: ["美食发电机消耗食物产生 FE。"]
+	quest.360FFC95F4CA5338.quest_subtitle: "啊呜啊呜，真香"
+	quest.36A24F158805BE6E.quest_desc: ["将升级方块紧贴末影采石场，或紧贴另一块升级方块，即可应用升级。"]
+	quest.36A24F158805BE6E.title: "末影采石场升级"
+	quest.37B9EB97518670E6.quest_desc: ["有 4 GP 可用时，红煤的燃烧时长是普通煤的八倍；否则与普通煤相同。"]
+	quest.3952EA91C6467B5F.quest_desc: ["本任务由 &6AllTheMods 团队&r或&2社区贡献者&r编写，供 AllTheMods 整合包使用。\\n\\n所有 &6AllTheMods&r 整合包均采用&e保留所有权利&r许可。未经明确许可，不得将本任务用于非 &6AllTheMods 团队&r发布的公开整合包。\\n\\n本任务有意隐藏；如果你看到了它，说明你正处于编辑模式。"]
+	quest.3A51ABBA9043D617.quest_desc: ["熔岩磨坊水平相邻处有熔岩时产生 2 GP。"]
+	quest.3B7BD8408919EC8B.quest_desc: ["物品和流体过滤器可用于对应传输节点，每个最多设置 16 种目标，默认白名单。还可嵌套另一个过滤器以扩展规则。\\n\\n反转：改为黑名单。\\n使用标签：按目标物品或流体的标签匹配。\\n忽略损伤：忽略耐久损耗，仅物品过滤器适用。\\n忽略所有组件：忽略物品或流体的 NBT／数据组件。"]
+	quest.3B7BD8408919EC8B.title: "过滤器"
+	quest.3FB0BE9989720FD2.quest_desc: ["火力磨坊正下方有火时产生 4 GP。"]
+	quest.437AA94E591D82B5.quest_desc: ["祛魔发电机消耗附魔书产生 FE。"]
+	quest.437AA94E591D82B5.quest_subtitle: "把附魔化为能量"
+	quest.447E2A8170040BFE.quest_desc: ["流体传输节点把连接方块中的流体送到相邻方块或管道网络；流体回收节点则从网络及相邻方块抽取流体，送入它所连接的方块。", "{image:atm:textures/questpics/excessiveutilities/fluid_transfer_node.png width:200 height:100 align:center fit:true}"]
+	quest.44B1C048770E2333.quest_desc: ["在下界把金锭丢进熔岩可得到恶魔锭，可用于制作恶魔巨型储液桶。"]
+	quest.45E7D789F14BDCC4.quest_desc: ["玻璃切割器能像精准采集一样回收玻璃。泥刀则能以精准采集方式收集适合铲子挖掘的方块。"]
+	quest.45E7D789F14BDCC4.quest_subtitle: "真是如此吗？"
+	quest.45E7D789F14BDCC4.title: "廉价的精准采集"
+	quest.464B13D89C180C88.quest_desc: ["龙蛋磨坊顶部有龙蛋时产生 500 GP。"]
+	quest.464B13D89C180C88.quest_subtitle: "终极磨坊"
+	quest.475C38CB8BE2DD32.quest_desc: ["超量实用设备延续了 Extra Utilities 1 和 2，提供各种实用物品。无论你是老玩家还是首次接触，本章都会帮助你熟悉它。"]
+	quest.475C38CB8BE2DD32.title: "&l&e超量实用设备"
+	quest.49DAA43DA7DC6F04.quest_desc: ["当其他每一种发电机都至少有一台同时运行时，彩虹发电机可产生 2500 万 FE/t。你只能拥有一台正在工作的彩虹发电机。"]
+	quest.49DAA43DA7DC6F04.quest_subtitle: "终极彩虹之力！"
+	quest.49DAA43DA7DC6F04.title: "&z彩虹发电机！"
+	quest.4CDFDBB4A370423D.quest_desc: ["粉红发电机消耗粉红色染料或粉红色物品产生 FE。"]
+	quest.4CDFDBB4A370423D.quest_subtitle: "小技巧：给它准备一个无限粉红色染料存储元件"
+	quest.4DD2A3F8DB678A15.quest_desc: ["传输管道把传输节点连接到目的地，或把回收节点连接到来源。它能同时处理物品、流体和能量，但没有节点就不会自行工作。"]
+	quest.504D6F3C682E466E.quest_desc: ["伪逆符印是不损坏的分割符印，需要完成严格仪式。随时可手持分割符印潜行右键信标查看下一步。\\n\\n1. 在末地准备至少 11×11 的平地，中央放置信标。\\n2. 在信标东南西北各距离 5 格处放一个箱子。\\n3. 按图示以螺旋形铺设红石粉和线。", "{image:atm:textures/questpics/excessiveutilities/pseudo_rite_example.png width:125 height:125 align:center}", "红色代表红石粉，青色代表线。", "&l下一页 →&r", "{@pagebreak}", "4. 向四个箱子放入以下材料，有效物品可查看本任务的要求：\\n北侧“火之子”：12 种不同的熔炉产物。\\n南侧“大地赠礼”：12 种主世界自然生成的物品。\\n东侧“水之后裔”：12 瓶药水。\\n西侧“风之香料”：12 张不同的音乐唱片。\\n5. 完成后，在信标附近献祭一只铁傀儡启动仪式。\\n6. 仪式会生成一波敌对生物，击杀 100 只后分割符印变为伪逆符印。波次结束前死亡或离开末地都会失败。"]
+	quest.504D6F3C682E466E.title: "伪逆符印"
+	quest.52205630EEDD8221.quest_desc: ["扁平传输节点可放在方块间，从安装面所连接的方块取出物品或流体，送入相邻方块。手持另一个扁平节点或扳手才能操作它：右键放入过滤器，左键拆下。"]
+	quest.52205630EEDD8221.quest_subtitle: "欢迎回来，传输标签的老朋友"
+	quest.585DE309D29512FA.quest_desc: ["月光面板的作用与太阳能板相反，仅夜间工作，其他功能类似。"]
+	quest.592C3B758F748C6E.quest_desc: ["不同储液桶容量如下（1 桶 = 1000 mB）：\\n石制：16 桶\\n铁制：256 桶\\n强化大型：4,096 桶\\n恶魔巨型：65,536 桶\\n基岩合金：1,048,576 桶"]
+	quest.595F93FB9A7D34B5.quest_desc: ["冰霜发电机消耗冰或雪产生 FE。"]
+	quest.595F93FB9A7D34B5.quest_subtitle: "别！碰！恒温器！"
+	quest.5AF1D24170DCC895.quest_desc: ["尖刺会伤害接触它的生物：\\n木制：每次 1 点，不致命，不掉经验，不算玩家击杀。\\n石制：每次 2 点，不致命，掉经验，算玩家击杀。\\n铁制：每次 4 点，不致命，掉经验，不算玩家击杀。\\n金制：每次 2 点，可致命，掉经验，不算玩家击杀。\\n钻石：每次 8 点，可致命，掉经验，算玩家击杀。\\n下界合金：每次 10 点，可致命，掉经验，算玩家击杀。"]
+	quest.5BCF082BCC4A0714.quest_desc: ["巨型火把可阻止周围 64 格半径内的生物生成。手持巨型火把可以查看已放置火把的作用范围。"]
+	quest.5C1D18FBB1BBF6E9.quest_desc: ["分别用于销毁物品、能量和流体。"]
+	quest.5C1D18FBB1BBF6E9.title: "垃圾桶"
+	quest.600EC6ED1AE8AB95.quest_desc: ["这些物品和方块运行时会占用 GP 容量。若使用量超过发电容量，电网就会过载，用能设备停止工作，直到减少负载或增加发电。"]
+	quest.6038714CE3699B63.quest_desc: ["魔法雪球里包含一个小世界。激活时，需要带着它到访以下类型中的七种：\\n山地、丛林、沼泽、末地、积雪、海洋、下界、森林、魔法、丘陵、沙地、平原。\\n\\n完成旅程后，它就能用于制作量子采石场。"]
+	quest.612BCFD0BFBFC6F6.quest_desc: ["复合弓不会损坏，也不需要背包中有箭，射出的箭不受重力影响。\\n\\n通过铁砧附魔时，附魔等级会翻倍，例如力量 V 会变为力量 X。"]
+	quest.612BCFD0BFBFC6F6.quest_subtitle: "重力？谁在乎重力？"
+	quest.623B1C7C1BE9B13B.quest_desc: ["一些不属于其他分类的内容。"]
+	quest.62486A3D1B896A85.quest_desc: ["消防斧不会损坏，可一次砍倒整棵树。通过铁砧附魔时，附魔等级翻倍，例如锋利 V 变为锋利 X。"]
+	quest.62486A3D1B896A85.quest_subtitle: "消防员的好帮手"
+	quest.672F6CB4404B1A3C.quest_desc: ["鬼哭不会损坏，其裂魂伤害可以降低目标的最大生命值。击杀生物时获得灵魂碎片的概率也提高至十倍。\\n\\n铁砧附魔等级会翻倍，例如锋利 V 变为锋利 X。"]
+	quest.672F6CB4404B1A3C.quest_subtitle: "特拉法尔加·D·瓦铁尔·罗的刀"
+	quest.68058DA9C7118BD9.quest_desc: ["最后的千年传送门带你来到时间尽头，只剩最后的村民所在的平台。\\n\\n这是不是有点像超越维度？"]
+	quest.68058DA9C7118BD9.title: "最后的千年"
+	quest.6A77E32457EC3140.quest_desc: ["以太之剑属性接近钻石剑，但不会损坏。右键可牺牲最大生命值获取灵魂碎片，之后也能用碎片补回。击杀生物也有极小概率获得碎片，甚至让最大生命值超过原来。"]
+	quest.6A77E32457EC3140.quest_subtitle: "以及灵魂碎片"
+	quest.6AB33864599E059A.quest_desc: ["速度升级：加快节点传输，详见 GP 章节。\\n\\n堆叠升级：物品节点每次传输 64 个物品，流体节点每次传输 1000 mB。\\n\\n世界交互升级：让节点利用环境生产资源：\\n圆石旁有熔岩和水源时生成圆石。\\n灵魂土旁有蓝冰和熔岩时生成玄武岩。\\n石头旁有熔岩源、后方有水时生成石头。\\n水源旁至少有另外两个水源时生成水。\\n\\n&l下一页 →&r", "{@pagebreak}", "广度优先搜索升级：按由近及远搜索，适合短支路多的网络。\\n深度优先搜索升级：到达末端时记住路径，适合分支较多的网络。两者互斥。\\n伪轮询升级：每次成功传输后切换到下一个目的地。\\n\\n末影发送器：让传输节点无线、跨维度发送物品、流体和能量。\\n末影接收器：让回收节点通过相同频率接收这些资源。"]
+	quest.6AB33864599E059A.title: "物流相关升级"
+	quest.6CF4BCFEC9A8BACE.quest_desc: ["洒水壶可加快区域内作物生长。右键水源装水，长按右键浇灌。普通洒水壶被模块化路由器等假玩家使用时会损坏。\\n\\n强化洒水壶范围更大、不耗水，也能供假玩家使用，但制作代价不小。"]
+	quest.6CF4BCFEC9A8BACE.title: "洒水壶"
+	quest.6DA3E7DF9332B8DE.quest_desc: ["黏液发电机消耗黏液球和牛奶产生 FE。"]
+	quest.6DA3E7DF9332B8DE.quest_subtitle: "弹性十足！"
+	quest.6DCDC3700202B3A5.quest_desc: ["镰刀可以清除一定范围内的植物，范围取决于等级。"]
+	quest.6E3482C45E4AF3DA.quest_desc: ["消音器可消除周围 8 格半径内的声音，也会阻止振动传到监守者和幽匿感测体。"]
+	quest.6E3482C45E4AF3DA.quest_subtitle: "跟着我的动作，悄悄走"
+	quest.70054D4060B8949C.quest_desc: ["生存者发电机非常便宜，使用熔炉燃料。它是同类中速度最慢、燃料利用率最高的一种。"]
+	quest.70054D4060B8949C.quest_subtitle: "慢"
+	quest.70F9EE602AE0033C.quest_desc: ["这些方块以不同方式产生 GP，增加所属玩家的电网容量。所有权归放置它们的玩家。"]
+	quest.71D1B0CEDA9241A3.quest_desc: ["破坏之镐能瞬间挖掘并销毁石头和下界岩，不能挖其他方块，且不会损坏。"]
+	quest.724006CD3818C9E5.quest_desc: ["附魔器需要相当于 15 个普通书架的支持和 FE。对熟悉神化附魔的玩家来说，大致相当于 30 永恒值，但该模组的特殊书架不计入这里。它用于附魔特定物品，而不是装备。"]
+	quest.724401B0C60DCE7A.quest_desc: ["超量实用设备也有物流系统。把对应节点装在资源来源处；使用回收节点时则装在目的地。用管道扳手设置不连接的面。\\n\\n其他一些扳手同样适用。"]
+	quest.724401B0C60DCE7A.title: "物流"
+	quest.73996E64F65F7C87.quest_desc: ["侵蚀之铲可瞬间挖掘并销毁泥土、沙子和沙砾，不能挖其他方块，且不会损坏。"]
+	quest.7635D2262741BE75.quest_desc: ["天使之戒提供创造式飞行，占用 64 GP。它不消耗自身充能，只要 GP 供应充足就能持续飞行。\\n\\n希望你没有同时戴太多七宗罪之戒！"]
+	quest.7635D2262741BE75.quest_subtitle: "创造式飞行"
+	quest.7635D2262741BE75.title: "天使之戒"
+	quest.763BF9F230D515BF.quest_desc: ["逆转之锄能让部分方块“返老还童”：\\n沙子 → 沙砾 → 圆石 → 石头\\n陶瓦 → 黏土\\n岩浆块 → 熔岩 ← 黑曜石"]
+	quest.77371CD449DFBC1E.quest_desc: ["监守者失去目标后可能放弃追猎并钻回地下，留下监守者遗迹物。\\n\\n它可用于制作深渊传送门。深渊是一个巨大的、部分覆盖幽匿的洞穴，没有生物，长时间留在黑暗中会受伤。那里也可能出现类似主世界的远古城市。"]
+	quest.77371CD449DFBC1E.quest_subtitle: "更加幽深黑暗？"
+	quest.77371CD449DFBC1E.title: "深渊"
+	quest.7887212A36D7D1CA.quest_desc: ["GP 是超量实用设备提供的另一种能源。它按玩家计算，不通过电缆、电池、通量点或其他 FE 传输设备移动。"]
+	quest.7887212A36D7D1CA.title: "电网能量（GP）"
+	quest.79616A764789FEDA.quest_desc: ["欧皮姆核心是观点的实体化，共九级：可悲、平庸、尚可、体面、良好、极好、惊人、启迪、完美。\\n\\n一个完美核心共需：1024 红煤、4609 铁锭、2304 金锭、1152 钻石、576 绿宝石、32 紫颂花、16 附魔之瓶、8 鞘翅、4 下界之星。\\n\\n用于 ATM 之星时，我觉得它比反物质更容易接受。"]
+	quest.7A6800A767A83592.quest_desc: ["熔炉发电机略贵于生存者发电机，同样使用熔炉燃料，烧得更快但效率较低，处于三种同类发电机的中间位置。"]
+	quest.7A6800A767A83592.quest_subtitle: "中间档"
+	quest.7AF82ADEB07747EF.quest_desc: ["吊灯可阻止 16 格半径内的敌对生物生成，手持吊灯可查看已放置吊灯的范围。"]
+	quest.7B7254B1E6208F9B.quest_desc: ["下界之星发电机消耗下界之星或烟火之星产生 FE，运行时会给大范围内的实体施加凋零效果。"]
+	quest.7B7254B1E6208F9B.quest_subtitle: "也该支持帕特里克之星和 ATM 之星吧？开玩笑的"
+	quest.7C9F22EBA3AD673B.quest_desc: ["手动磨坊每位操作玩家提供 15 GP。点击后会持续摇动，直到移开视线或离得太远。"]
+	quest.7D0A549135F997BD.quest_desc: ["电网管理器可查看所有 GP 发电设备和用能设备的位置。"]
+	quest.7D34FE128DE0A262.quest_desc: ["量子采石场从一个假想的、类似主世界的维度采掘资源。\\n\\n每个面都必须安装量子采石场执行器，任意执行器都能接收 FE。采掘物输出到相邻箱子等容器。"]
+	quest.7EE006106678065F.quest_desc: ["太阳能板在白天且上方能直视天空时产生 1 GP；下雨时输出降低 5%。"]
+	quest.7F715693079A424D.quest_desc: ["套索可收纳生物。金套索只适用于牲畜等被动生物；诅咒套索只适用于敌对生物，且目标生命必须不超过一半。"]
+	quest.7F715693079A424D.title: "套索"
+	task.066049562C71FC75.title: "水之后裔"
+	task.07852949080EB10E.title: "分配相关升级"
+	task.0A67C41F200E40A7.title: "速度升级"
+	task.0A98FF4AE3286B35.title: "扳手"
+	task.0BF6FA12EF9BDC8E.title: "末影采石场速度升级"
+	task.0F471C075366E4BA.title: "……以及其他内容"
+	task.1496A3209F882ED1.title: "风之香料"
+	task.16DBC44A15A456C9.title: "能量节点"
+	task.1AA337C311CDDFF2.title: "不稳定锭"
+	task.1F2A89DB93022E75.title: "保留所有权利"
+	task.2BCCA0132588F8DC.title: "尖刺"
+	task.2F803AA87E983560.title: "镰刀"
+	task.3545BF4C0B91439C.title: "物品节点"
+	task.4337573D4A87EA06.title: "火之子"
+	task.47E6B309C53F25A9.title: "末影采石场时运升级"
+	task.4F4E65B7C0EF3CEB.title: "GP 用能设备"
+	task.51C7179C61D09118.title: "流体节点"
+	task.51E57DCA86EBE446.title: "附魔书"
+	task.57A2468289498485.title: "GP 发电设备"
+	task.5D1660D8BE43A3D1.title: "储液桶"
+	task.5D8B9FC35CEA9F2D.title: "欧皮姆核心"
+	task.62D27E5D7D7056DA.title: "保留所有权利"
+	task.673D90BCCE595515.title: "扁平传输节点"
+	task.689481339BA7EC6C.title: "速度升级"
+	task.6B13B246728B3A5A.title: "天使之戒"
+	task.6D193DD176E16A65.title: "大地赠礼"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "企鹅",
+  "icon": "livingthings:penguin_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一只可爱又爱说话的小动物。$(br2)$(bold)生命值：$()5颗心$(br2)$(bold)繁殖物品：$()$(li)生鲑鱼$(li)生鳕鱼$(li)河豚"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:penguin",
+      "rotate": false,
+      "scale": 1.0,
+      "default_rotation": 45,
+      "text": "可在$(bold)雪原$()生物群系中找到。"
+    }
+  ]
+}

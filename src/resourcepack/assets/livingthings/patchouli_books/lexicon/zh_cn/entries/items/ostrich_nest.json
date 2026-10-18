@@ -1,0 +1,16 @@
+{
+  "name": "鸵鸟巢",
+  "icon": "livingthings:ostrich_nest",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)若未使用精准采集工具挖掘，孵化巢将散架，并掉落数根木棍。"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:ostrich_nest",
+      "text": "$(br)$(bold)用途：$()$(br)可放置$(br)鸵鸟可能在其内产卵"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "圣诞苦力怕",
+  "icon": "merrymaking:christmas_creeper_spawn_egg",
+  "category": "merrymaking:mobs",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "秉承节日精神，这位小家伙为玩家准备了一份特别惊喜——当然，前提是你们允许他靠得足够近。"
+    },
+    {
+      "type": "patchouli:entity",
+      "name": "圣诞苦力怕",
+      "entity": "merrymaking:christmas_creeper",
+      "text": "请……千万别惹他生气。他生气时，你可不会喜欢他。"
+    }
+  ]
+}

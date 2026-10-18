@@ -1,0 +1,15 @@
+{
+  "name": "发送模块 Mk3",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:sender_module_3",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个顶级发送模块的工作方式与$(l:modules/sender_3)发送模块2型/$非常相似，但它可以不受限制地向任意容器（任意维度）发送物品！$(p)注意：目标容器所在区块必须保持加载；$(modr) 不会替你完成这一点。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:sender_module_3"
+    }
+  ]
+}

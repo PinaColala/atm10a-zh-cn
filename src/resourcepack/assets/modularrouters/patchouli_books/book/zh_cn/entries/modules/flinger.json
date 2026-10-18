@@ -1,0 +1,19 @@
+{
+  "name": "投掷模块",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:flinger_module",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个模块的行为类似于$(l:modules/dropper)投掷器模块/$，但它还会给掉落的物品附加一个可配置的速度，从而可能将物品远远抛出。你可以在模块 GUI 中调整物品的速度、俯仰角和偏航角。$(li)俯仰角和偏航角的单位都是度数，且是相对于基础俯仰角或基础偏航角而言的。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)如果模块向上或向下弹出物品，则基础俯仰角分别为 +90° 或 -90°。否则基础俯仰角为 0°。$(li)如果模块向上或向下弹出物品，则基础偏航角取自路由器朝向；否则基础偏航角取自模块方向。$(li)示例：速度为 1.0、俯仰角/偏航角为 0°，且模块方向为水平时，物品会沿地面飞出大约 7 格距离。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:flinger_module"
+    }
+  ]
+}

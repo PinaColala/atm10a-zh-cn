@@ -1,0 +1,29 @@
+{
+  "name": "屏幕控制器",
+  "icon": "rftoolsutility:screen_controller",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:screen_controller": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "使用屏幕控制器，你可为附近的$(l:rftoolsbase:machines/screen)屏幕$(/l)供电。在GUI中点击“扫描”按钮，即可连接半径32×32×32范围内的所有屏幕。$(br2)$(5)注魔$()该机器可扩大此作用范围。"
+    },
+    {
+      "type": "crafting",
+      "heading": "屏幕控制器",
+      "recipe": "rftoolsutility:screen_controller"
+    },
+    {
+      "type": "text",
+      "title": "扫描",
+      "text": "将控制器放置于有效范围内，为其供应FE，并点击“扫描”。在增删或移动屏幕后，请重新扫描。"
+    },
+    {
+      "type": "text",
+      "title": "范围",
+      "text": "默认扫描区域为控制器周围32×32×32格的空间。$(5)注魔$()控制器可扩大此范围。"
+    }
+  ]
+}

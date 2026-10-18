@@ -1,0 +1,19 @@
+{
+  "name": "狮子",
+  "icon": "livingthings:lion_spawn_egg",
+  "category": "livingthings:hostile_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种危险的生物！$(br2)$(bold)生命值：$()10颗心$(br)$(bold)攻击伤害：$()2.5颗心$(br2)$(bold)繁殖物品：$()$(li)生牛肉$(li)生鸡肉$(li)生兔肉"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:lion{IsMale:true}",
+      "rotate": false,
+      "scale": 0.8,
+      "default_rotation": 45,
+      "text": "可在所有$(bold)热带草原$()生物群系中找到。"
+    }
+  ]
+}

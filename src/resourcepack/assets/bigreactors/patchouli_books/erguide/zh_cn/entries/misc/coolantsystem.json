@@ -1,0 +1,20 @@
+{
+  "name": "冷却剂系统",
+  "icon": "minecraft:water_bucket",
+  "category": "bigreactors:misc",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l:bigreactors/active)主动冷却$(/l)反应堆/涡轮机装置会利用反应堆产生的热量将冷却液汽化，生成可用于驱动多个涡轮机转子的蒸汽，并以此发电。$(br2)$(bold)冷却液$()是一种流体，只要被识别为有效冷却液，就可以通过设为输入模式的 $(l:bigreactors/part-forgefluidport)流体端口$(/l) 泵入反应堆的冷却液流体储罐中。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(bold)蒸汽$()是一种流体，是冷却液在反应堆内部汽化后的产物。它可以通过 $(l:bigreactors/part-forgefluidport)流体端口$(/l) 从反应堆输送到涡轮机，以驱动涡轮机转子，之后再冷凝回原本的冷却液，让整个循环重新开始。$(br2)只有有效的冷却液和蒸汽才能在反应堆或涡轮机内部使用。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Extreme Reactors 默认将水注册为有效冷却液，并将蒸汽注册为其对应产物。$(br2)其他模组或整合包可以添加自己的流体，或修改/移除默认流体。"
+    }
+  ]
+}

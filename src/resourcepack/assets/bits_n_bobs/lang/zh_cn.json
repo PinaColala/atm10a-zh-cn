@@ -1,0 +1,14 @@
+{
+  "bits_n_bobs.ponder.foreign_label": "Bits n Bobs",
+  "block.bits_n_bobs.industrial_truss": "金属桁架",
+  "block.bits_n_bobs.industrial_truss.tooltip.summary": "可用于_包覆管道与传动轴_。",
+  "block.bits_n_bobs.industrial_truss_pipe": "金属桁架管道",
+  "block.bits_n_bobs.industrial_truss_shaft": "工业桁架传动轴",
+  "create.gui.assembly.exception.bits_n_bobs.no_chain_to_attach_to": "范围内没有可连接的齿轮链！",
+  "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.invalid_cogwheel_type.cogwheel_chain_type.bits_n_bobs.belt": "皮带齿轮传动装置必须放在带法兰的齿轮上！",
+  "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.invalid_cogwheel_type.cogwheel_chain_type.bits_n_bobs.chain": "链条齿轮传动装置不能放在这个齿轮上！",
+  "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.invalid_cogwheel_type.cogwheel_chain_type.bits_n_bobs.rope": "绳索齿轮传动装置必须放在带法兰的齿轮上！",
+  "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.not_enough_material": "材料不足，无法完成链条！",
+  "message.bits_n_bobs.cogwheel_chain.chain_addition_aborted.out_of_node_count": "齿轮链超过最大节点数！",
+  "tooltip.bits_n_bobs.suppressed_cogwheel": "此木制齿轮因 Bits 'n' Bobs 配置而隐藏"
+}

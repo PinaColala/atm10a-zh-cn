@@ -1,0 +1,17 @@
+{
+  "name": "无限链锯",
+  "icon": "industrialforegoing:infinity_saw",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "无限链锯是一种可以高效砍树的工具，等级越高，同时砍掉的方块就越多。持续破坏同一个方块即可砍伐大型树木。"
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_saw"
+    }
+  ]
+}

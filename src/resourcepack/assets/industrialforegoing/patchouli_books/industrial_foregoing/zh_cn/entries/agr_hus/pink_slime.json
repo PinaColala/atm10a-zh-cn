@@ -1,0 +1,13 @@
+{
+  "name": "粉色史莱姆球 (桶)",
+  "icon": "industrialforegoing:pink_slime_bucket",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 11,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "由 $(l:agr_hus/mob_slaughter_factory)屠宰场$() 产出的流体。"
+    }
+  ]
+}

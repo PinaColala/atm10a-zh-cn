@@ -1,0 +1,16 @@
+{
+  "name": "鸵鸟蛋",
+  "icon": "livingthings:ostrich_egg",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)若鸵鸟孵化巢中已有蛋，玩家对其右键点击即可获得该蛋$(br2)即将筑巢的鸵鸟也可能掉落此蛋"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:ostrich_egg",
+      "text": "$(br)$(bold)用途：$()$(br)可放置于鸵鸟孵化巢中，以孵化幼年鸵鸟"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "剥离器",
+  "icon": "productivetrees:stripper",
+  "category": "productivetrees:stuff",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivetrees:stripper",
+      "text": "可剥去木材的树皮，使其裸露无皮。需使用斧头才能操作。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "productivetrees:stripper",
+      "text": ""
+    }
+  ]
+}

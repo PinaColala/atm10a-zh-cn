@@ -1,0 +1,15 @@
+{
+  "name": "信号中继器",
+  "icon": "railcraft:signal_block_relay_box",
+  "category": "railcraft:signal_boxes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "信号中继器最多可与另外两个信号机或中继器配对。它既可用作信号机的末端封口，也可作为延伸组件。当用作延伸组件时，您可借助它使信号机绕过拐角，并使其功能等同于单个信号机。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "此外，该中继器还可配置为输出红石信号，并充当控制器。它亦可像信号接收器一样，紧邻信号控制器与信号电容器放置。"
+    }
+  ]
+}

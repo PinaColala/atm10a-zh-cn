@@ -1,0 +1,19 @@
+{
+  "name": "碑",
+  "icon": "rftoolsbase:tablet",
+  "category": "rftoolsbase:category_tools",
+  "extra_recipe_mappings": {
+    "rftoolsbase:tablet": 0,
+    "rftoolsbase:tablet_filled": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "碑可用于远程访问各种机器。$(5)潜行右键$()可打开碑的内部 GUI，在其中最多可安装 6 个模块。右键点击碑会打开当前模块的 GUI。使用$(k:prevDestination)和$(k:nextDestination)键可以在已安装模块之间切换。"
+    },
+    {
+      "type": "text",
+      "text": "注意，要访问远程机器，它必须足够接近或已区块加载。如果它被正确区块加载，那么碑在其他维度中也能工作。"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "物品路由器",
+  "description": "物品路由器是 $(modr) 模组中唯一的方块。",
+  "icon": "modularrouters:modular_router",
+  "sortnum": 1
+}

@@ -1,0 +1,11 @@
+{
+  "name": "缓冲停车轨道",
+  "icon": "railcraft:iron_buffer_stop_track",
+  "category": "railcraft:tracks",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "需要为您的铁路线路添置一款时尚的收尾装饰？那么这款轨道正合您意！它是防止矿车滑出轨道末端的理想封口。矿车在此既不会弹开，也不会爆炸！"
+    }
+  ]
+}

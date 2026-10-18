@@ -1,0 +1,25 @@
+{
+  "name": "带灯树叶",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:wreaths",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "带灯树叶",
+      "item": "merrymaking:spruce_leaves_lights_large_white",
+      "text": "为你的冬日树木与灌木增添节日光彩吧！云杉树叶可在工作台中与灯具组合，制成带灯树叶。$(br2)制作大型灯效版本请使用经典基础灯具；制作常规尺寸版本请使用树形灯具。"
+    },
+    {
+      "type": "crafting",
+      "title": "带灯树叶",
+      "recipe": "merrymaking:leaves_large_multi_lights",
+      "recipe2": "merrymaking:leaves_white_lights"
+    },
+    {
+      "type": "crafting",
+      "title": "带灯树叶",
+      "recipe": "merrymaking:leaves_large_white_lights",
+      "recipe2": "merrymaking:leaves_multi_lights"
+    }
+  ]
+}

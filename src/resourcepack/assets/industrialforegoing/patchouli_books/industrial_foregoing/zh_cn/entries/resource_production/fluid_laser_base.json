@@ -1,0 +1,17 @@
+{
+  "name": "流体镭射钻基座",
+  "icon": "industrialforegoing:fluid_laser_base",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 15,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "在由 $(l:resource_production/laser_drill)镭射钻$() 充满能量后，它会产出流体。为此需要一种不会被消耗的特定催化剂，并且机器必须放置在特定生物群系中，且在特定深度进行钻取。$(br2)某些流体可能需要机器下方存在实体才能产出。$(br2)具体数值请查看 JEI。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fluid_laser_base"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "胶乳加工机",
+  "icon": "industrialforegoing:latex_processing_unit",
+  "category": "industrialforegoing:basics",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "胶乳加工机将消耗$(6)750$()毫巴$(l:basics/latex)乳胶$()和$(6)500$()毫巴$(l:basics/plastic)水$()，以生产1个干橡胶"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:latex_processing_unit"
+    }
+  ]
+}

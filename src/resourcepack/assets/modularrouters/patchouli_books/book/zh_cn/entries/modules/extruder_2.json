@@ -1,0 +1,19 @@
+{
+  "name": "造桥模块 Mk2",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:extruder_module_2",
+  "pages": [
+    {
+      "type": "text",
+      "text": "该模块行为与$(l:modules/extruder_1)造桥模块 Mk1/$相似，但存在若干关键差异：$(li)Mk2模块并非从路由器缓存中提取物品进行放置，而是依据模块自身定义的模板进行操作；$(li)该模板显示于模块GUI界面右侧，共含9个槽位，且每个槽位可容纳多种物品。置于模板中的物品均为“幽灵”物品。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)挤出的方块是“虚拟”方块——实际上是凭空生成的，但被破坏时不会掉落任何东西，也不能正常合成。$(li)因此，这个模块不像造桥模块 Mk1 那样适合农场用途，但它可以用来放置门、桥等，从而实现 Mk1 做不到的更复杂图案。$(li)造桥模块 Mk2 的默认范围是 24 格，可通过范围升级提高到 48 格。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:extruder_module_2"
+    }
+  ]
+}

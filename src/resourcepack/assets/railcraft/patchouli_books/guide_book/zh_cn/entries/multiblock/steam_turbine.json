@@ -1,0 +1,16 @@
+{
+  "name": "蒸汽涡轮",
+  "icon": "railcraft:steam_turbine",
+  "category": "railcraft:multiblock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "或许您已拥有大量蒸汽，却苦于无处可用？别担心，我们为您隆重推出强大的蒸汽涡轮——一种可将蒸汽转化为电力的装置。$(br2)其建造模式为2×3×2，与粉碎机相同。此外，它还需安装涡轮机转子方可运行。一枚转子可持续使用数天（现实时间）。您可通过原版修复机制，将两枚转子合成以修复损坏的转子。"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "蒸汽涡轮",
+      "multiblock_id": "railcraft:steam_turbine"
+    }
+  ]
+}

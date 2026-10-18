@@ -1,0 +1,7 @@
+{
+  "name": "塑形卡片",
+  "description": "塑形卡片是用于表示特定形状的物品。它们可由建筑机和护盾投射仪使用",
+  "parent": "rftoolsbase:category_rftoolsbuilder",
+  "icon": "rftoolsbuilder:shape_card_def",
+  "sortnum": 10
+}

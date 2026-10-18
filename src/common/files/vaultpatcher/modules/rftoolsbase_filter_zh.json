@@ -1,0 +1,41 @@
+[
+  {
+    "name": "rftoolsbase_filter_zh",
+    "desc": "rftoolsbase-1.21-6.0.11.jar 硬编码文本汉化",
+    "authors": "Hoshino Yumeka",
+    "mods": "rftoolsbase-1.21-6.0.11.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "mcjty.rftoolsbase.modules.filter.client.GuiFilterModule"
+    ],
+    "pairs": [
+      {
+        "key": "Ignore damage",
+        "value": "忽略损伤值"
+      },
+      {
+        "key": "Damage must match",
+        "value": "损伤值需匹配"
+      },
+      {
+        "key": "Filter ignoring damage",
+        "value": "过滤器忽略损伤值"
+      },
+      {
+        "key": "Ignore Components",
+        "value": "忽略组件"
+      },
+      {
+        "key": "Filter ignoring Components",
+        "value": "过滤器忽略组件"
+      },
+      {
+        "key": "Filter ignoring mod",
+        "value": "过滤器忽略所属模组"
+      }
+    ]
+  }
+]

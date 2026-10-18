@@ -1,0 +1,19 @@
+{
+  "name": "浣熊",
+  "icon": "livingthings:raccoon_spawn_egg",
+  "category": "livingthings:neutral_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "中等体型的哺乳动物，进食前会彻底清洁食物。$(br2)$(bold)生命值：$()5颗心$(br)$(bold)攻击伤害：$()1颗心$(br2)$(bold)繁殖物品：$()$(li)小麦$(li)苹果$(li)胡萝卜$(li)土豆$(li)甜菜"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:raccoon",
+      "rotate": false,
+      "scale": 0.9,
+      "default_rotation": 35,
+      "text": "可在$(bold)森林$()和$(bold)平原$()生物群系中找到。"
+    }
+  ]
+}

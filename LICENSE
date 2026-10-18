@@ -1,0 +1,11 @@
+ATM10A 简体中文适配
+
+译文（src/ 内语言、任务、手册、图片、字符串替换表）：CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+原作者及衍生来源见 CREDITS.txt、LICENSE-UPSTREAM。修改后保持相同许可。
+
+installer/、tools/、tests/ 代码：GPL-3.0-or-later，完整正文见 LICENSE-GPL-3.0。
+src/common/files/kubejs/server_scripts/pb_hanhua_cage_migrate.js 的代码沿用其 GPL-3.0-or-later 声明，译文沿用 CC BY-NC-SA 4.0。
+
+third_party/vaultpatcher/：GPL-3.0-only，许可正文与对应源码均在该目录。
+其他第三方内容按原有许可与署名保留，未声明对其拥有独占版权。

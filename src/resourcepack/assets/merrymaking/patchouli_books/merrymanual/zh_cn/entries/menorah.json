@@ -1,0 +1,40 @@
+{
+  "name": "多连灯烛台",
+  "icon": "merrymaking:menorah",
+  "category": "merrymaking:hanukkah",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/menorah.png"
+      ],
+      "text": "多连灯烛台"
+    },
+    {
+      "type": "spotlight",
+      "title": "多连灯烛台",
+      "item": "merrymaking:menorah",
+      "text": "多连灯烛台具有方向朝向，其设计意在模拟沙玛什（Shamash）蜡烛的点燃顺序，随后依次点燃其余每支蜡烛，从右至左排列。$(br2)"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "点亮多连灯烛台",
+      "text": "点燃多连灯烛台需准备以下物品：$(li)1支蓝色蜡烛 $(li)8支白色蜡烛 $(li)打火石 $(br2)蜡烛置入多连灯烛台的顺序为：先蓝后白。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "点亮多连灯烛台",
+      "text": "首先放置沙玛什（即蓝色蜡烛）并点燃；随后放置第二支并点燃；依此类推，直至全部蜡烛点亮。$(br2)点亮的蜡烛越多，多连灯烛台散发的光亮越强。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "排障",
+      "text": "若误用错误颜色的蜡烛，系统将返还你最新放置的那支蜡烛，供你重试。$(br2)若多连灯烛台未能点亮，请先全部移除蜡烛（空手点击即可），再按正确顺序重新放置并点燃。"
+    },
+    {
+      "type": "crafting",
+      "title": "多连灯烛台",
+      "recipe": "merrymaking:menorah"
+    }
+  ]
+}

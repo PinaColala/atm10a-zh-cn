@@ -1,0 +1,27 @@
+{
+  "name": "转子轴",
+  "icon": "bigreactors:reinforced_turbinerotorshaft",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbinerotorshaft",
+      "link_recipe": true,
+      "title": "转子轴",
+      "text": "转子轴是涡轮机$(l:bigreactors:turbine/rotor)转子$(/l)$(br2)的核心组件。转子轴方块必须在涡轮机内部首尾相接依次放置，并须覆盖整个涡轮机长度——起始于$(l:bigreactors:turbine/part-rotorbearing)转子轴承$(/l)，终止于另一端的$(l:bigreactors:turbine/part-casing)外壳$(/l)方块。$(br2)"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:turbine/basic/shaft",
+      "title2": "加固",
+      "recipe2": "bigreactors:turbine/reinforced/shaft"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()是$(br)$(l)有效位置：$()涡轮机内部$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

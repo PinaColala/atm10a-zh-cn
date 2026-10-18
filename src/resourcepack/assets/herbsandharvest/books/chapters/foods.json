@@ -1,0 +1,1159 @@
+{
+  "pages": [ 
+ 
+    {
+      "type": "standard",
+
+     
+
+      "summary": "食品储藏室更新加入了若干新食物。选择下面的条目了解详情：",
+
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.foods.meat",
+          "target_page": 1
+        },
+		 {
+          "title": "herbsandharvest.guide_book.foods.dairy",
+          "target_page": 2
+        },		
+        {
+          "title": "herbsandharvest.guide_book.foods.bfast",
+          "target_page": 8
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.bread",
+          "target_page": 9
+        },
+		 {
+          "title": "herbsandharvest.guide_book.foods.salad",
+          "target_page": 13
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.other",
+          "target_page": 14
+        },
+		 {
+          "title": "herbsandharvest.guide_book.foods.otherc",
+          "target_page": 15
+        },
+		{
+          "title": "herbsandharvest.guide_book.foods.otherd",
+          "target_page": 16
+        },
+		{
+          "title": "herbsandharvest.guide_book.foods.cond",
+          "target_page": 17
+        },
+		{
+          "title": "herbsandharvest.guide_book.foods.condc",
+          "target_page": 18
+        },
+		{
+          "title": "herbsandharvest.guide_book.foods.dessert",
+          "target_page": 19
+        }
+		
+      ],
+
+      	"elements": [
+				
+			]
+    },
+
+
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.foods.meat",
+
+		  "summary": "香草与丰收加入了几种肉。\n\n它们都能用现有物品合成，也都能烧制出「熟」的版本。\n\n肉可以用于配方，也可以直接吃。",
+
+		  "elements": [	
+
+				{
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:bacon",
+							"text": "guide.herbsandharvest.bacon_desc"
+						},
+						{
+							"item": "herbsandharvest:chicken_cutlet",
+							"text": "guide.herbsandharvest.chicken_cutlet_desc"
+						},
+						{
+							"item": "herbsandharvest:pepperoni",
+							"text": "guide.herbsandharvest.pepperoni_desc"
+						},
+						{
+							"item": "herbsandharvest:salami",
+							"text": "guide.herbsandharvest.salami_desc"
+						},
+						{
+							"item": "herbsandharvest:salmon_steak",
+							"text": "guide.herbsandharvest.salmon_steak_desc"
+						},
+						{
+							"item": "herbsandharvest:sausage",
+							"text": "guide.herbsandharvest.sausage_desc"
+						}
+										  
+
+						
+					]
+				}
+
+			 
+		  ]
+	  },
+	  
+	   {
+		  "type": "standard",
+		  
+		   "title": "herbsandharvest.guide_book.foods.dairy",
+		  
+		   "summary": "乳制品有好几种。点击下面的链接了解详情。",
+		  
+		   "sub_sections": [
+			{
+			  "title": "herbsandharvest.guide_book.foods.dairy.milk",
+			  "target_page": 3
+			},
+			{
+			  "title": "herbsandharvest.guide_book.foods.dairy.milk.got_milk",
+			  "target_page": 4
+			},
+			{
+			  "title": "herbsandharvest.guide_book.foods.dairy.cream",
+			  "target_page": 5
+			},
+			
+			 {
+			  "title": "herbsandharvest.guide_book.foods.dairy.butter",
+			  "target_page": 6
+			},
+			
+			{
+			  "title": "herbsandharvest.guide_book.foods.dairy.cheese",
+			  "target_page": 7
+			}
+		  ],   		 
+
+		  "elements": [			
+			
+			  
+		  ]
+	  },
+	  
+	   {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.foods.dairy.milk",
+
+		  "summary": "香草与丰收加入了三种新的奶。\n\n奶可以用于配方、制作奶酪，也可以在炼药锅里加热熬成奶油。",
+
+		  "elements": [	
+
+			 {
+				  "type": "text",
+				  "literal_text": "奶的种类：\n",
+				  "text": null
+			  },
+
+				{
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:camel_milk_bucket",
+							"text": "guide.herbsandharvest.camel_milk_desc"
+						},
+						{
+							"item": "herbsandharvest:goat_milk_bucket",
+							"text": "guide.herbsandharvest.goat_milk_desc"
+						},
+						{
+							"item": "herbsandharvest:sheep_milk_bucket",
+							"text": "guide.herbsandharvest.sheep_milk_desc"
+						}
+						
+										  
+
+						
+					]
+				}
+			 
+		  ]
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.foods.dairy.milk.got_milk",
+
+		  "summary": "怎么挤奶：\n\n和挤牛奶一样，对山羊用空桶得到山羊奶，对绵羊用空桶得到绵羊奶。 ",
+
+		  "elements": [			
+
+			  {
+				  "type": "text",
+				  "literal_text": "要取骆驼奶，对骆驼潜行右键空桶。\n\n注意：这可能会打开骆驼的物品栏或让你骑上去，但奶照样能取到。",
+				  "text": null
+			  }
+		  ]
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.foods.dairy.cream",
+
+		  "summary": "奶油要在加热的炼药锅里熬。",
+
+		  "elements": [			
+				{
+				  "type": "text",
+				  "literal_text": "\n",
+				  "text": null
+				},
+
+
+				{
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:cream_bucket",
+							"text": "guide.herbsandharvest.cream_bucket_desc"
+						}
+						
+										  
+
+						
+					]
+				},
+			  {
+				  "type": "text",
+				  "literal_text": "\n\n倒进任意一种奶，它最终都会变成奶油。\n\n用桶把奶油从锅里舀出来。",
+				  "text": null
+			  }
+		  ]
+	  },
+	  
+	    {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.dairy.butter",
+
+		  "summary": "奶油由奶在加热的炼药锅里熬成。\n\n对装满奶油的锅使用桶即可取得。",
+
+		  "elements": [
+				{
+				  "type": "text",
+				  "literal_text": "\n",
+				  "text": null
+				},
+				{
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:butter",
+							"text": "guide.herbsandharvest.butter_desc"
+						}
+						
+					]
+				},
+			  {
+				  "type": "text",
+				  "literal_text": "\n\n对黄油搅拌器使用一桶奶油即可做出黄油。\n\n搅拌完成后黄油就会出现。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	     {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.dairy.cheese",
+
+		  "summary": "奶酪共八种，四种硬质、四种软质。\n\n本书的奶酪制作指南里写了每一种的做法。",
+
+		  "elements": [
+		  
+				{
+				  "type": "text",
+				  "literal_text": "软质奶酪有：",
+				  "text": null
+				},
+				{
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:caravane",
+							"text": "guide.herbsandharvest.caravane_desc"
+						},
+						{
+							"item": "herbsandharvest:chevre",
+							"text": "guide.herbsandharvest.chevre_desc"
+						},
+						{
+							"item": "herbsandharvest:feta",
+							"text": "guide.herbsandharvest.feta_desc"
+						},
+						{
+							"item": "herbsandharvest:ricotta",
+							"text": "guide.herbsandharvest.ricotta_desc"
+						}					  
+						
+					]
+				},
+				{
+				  "type": "text",
+				  "literal_text": "\n\n硬质奶酪有：",
+				  "text": null
+				},
+				
+				{
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:aged_cheddar",
+							"text": "guide.herbsandharvest.aged_cheddar_desc"
+						},
+						{
+							"item": "herbsandharvest:aged_gouda",
+							"text": "guide.herbsandharvest.aged_gouda_desc"
+						},
+						{
+							"item": "herbsandharvest:aged_parmesan",
+							"text": "guide.herbsandharvest.aged_parmesan_desc"
+						},
+						{
+							"item": "herbsandharvest:aged_swiss",
+							"text": "guide.herbsandharvest.aged_swiss_desc"
+						}					  
+						
+					]
+				}
+		  ]
+
+	  },
+
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.bfast",
+
+		  "summary": "香草与丰收里有几样早餐食物。\n\n下表列出早餐食物及其配方的解锁材料：",
+
+		  "elements": [
+				{
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:avocado_toast",
+							"text": "guide.herbsandharvest.avo_toast_desc"
+						},
+						{
+							"item": "herbsandharvest:biscuits_gravy",
+							"text": "guide.herbsandharvest.bisc_grav_desc"
+						},
+						{
+							"item": "herbsandharvest:cooked_bacon",
+							"text": "guide.herbsandharvest.c_bacon_desc"
+						},
+						{
+							"item": "herbsandharvest:cooked_sausages",
+							"text": "guide.herbsandharvest.c_sausage_desc"
+						},
+						{
+							"item": "herbsandharvest:eggs",
+							"text": "guide.herbsandharvest.eggs_desc"
+						},
+						{
+							"item": "herbsandharvest:oatmeal",
+							"text": "guide.herbsandharvest.oatmeal_desc"
+						},
+						{
+							"item": "herbsandharvest:pancakes",
+							"text": "guide.herbsandharvest.pancakes_desc"
+						}
+						
+					]
+				}
+		  ]
+
+	  },
+	  
+	  	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.foods.bread",
+
+		  "summary": "香草与丰收加入了多种面包。点击下面的链接了解详情：", 
+		  
+		     "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.foods.bread.grain",
+          "target_page": 10
+        },
+		 {
+          "title": "herbsandharvest.guide_book.foods.bread.grain.slice",
+          "target_page": 11
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.bread.sandwich",
+          "target_page": 12
+        }
+      ],
+
+		  "elements": [
+			 
+			  
+		  ]
+
+	  },
+	  
+	   
+	  
+	  	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.bread.grain",
+
+		  "summary": "香草与丰收里谷物种类繁多，也就带来了各式各样的面包和三明治。\n\n可做的面包有：",
+
+		  "elements": [
+			
+			  {
+				  "type": "text",
+				  "literal_text": "\n",
+				  "text": null
+			  },
+			  {
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:barley_loaf",
+							"text": "guide.herbsandharvest.barley_bread_desc"
+						},
+						{
+							"item": "herbsandharvest:garlic_bread",
+							"text": "guide.herbsandharvest.garlic_bread_desc"
+						},
+						{
+							"item": "herbsandharvest:pumpernickel_loaf",
+							"text": "guide.herbsandharvest.pump_bread_desc"
+						},
+						{
+							"item": "herbsandharvest:rye_loaf",
+							"text": "guide.herbsandharvest.rye_bread_desc"
+						}
+						
+					]
+				}
+								
+				
+				
+		  ]
+
+	  },
+	   {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.bread.grain.slice",
+
+		  "summary": "每一条面包都能合成为 8 片同种面包片。",
+
+		  "elements": [
+			
+			  {
+				  "type": "text",
+				  "literal_text": "\n",
+				  "text": null
+			  },
+			  {
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:barley_slice",
+							"text": "guide.herbsandharvest.barley_slice_desc"
+						},
+						{
+							"item": "herbsandharvest:garlic_bread_slice",
+							"text": "guide.herbsandharvest.garlic_slice_desc"
+						},
+						{
+							"item": "herbsandharvest:pumpernickel_slice",
+							"text": "guide.herbsandharvest.pump_slice_desc"
+						},
+						{
+							"item": "herbsandharvest:rye_slice",
+							"text": "guide.herbsandharvest.rye_slice_desc"
+						}
+						
+					]
+				},
+								
+				{
+				  "type": "text",
+				  "literal_text": "\n\n原版面包同样可以合成为面包片：",
+				  "text": null
+				},
+				{
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:bread_slice",
+							"text": "guide.herbsandharvest.bread_slice_desc"
+						}
+						
+					]
+				}
+				
+		  ]
+
+	  },
+	  
+	  	{
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.bread.sandwich",
+
+		  "summary": " 三明治配方各自指定了用哪种面包，而那种面包同时也是配方的解锁材料。\n\n下面是三明治与对应面包的完整列表：",
+
+		  "elements": [
+		  
+				{
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:reuben",
+							"text": "guide.herbsandharvest.reuben_desc"
+						},
+						{
+							"item": "herbsandharvest:salami_rye",
+							"text": "guide.herbsandharvest.salami_rye_desc"
+						},
+						{
+							"item": "herbsandharvest:ham_swiss",
+							"text": "guide.herbsandharvest.ham_swiss_desc"
+						},
+						{
+							"item": "herbsandharvest:beef_cheddar",
+							"text": "guide.herbsandharvest.beef_cheddar_desc"
+						},
+						{
+							"item": "herbsandharvest:grilled_cheese",
+							"text": "guide.herbsandharvest.grilled_cheese_desc"
+						},
+						{
+							"item": "herbsandharvest:monte_cristo",
+							"text": "guide.herbsandharvest.monte_cristo_desc"
+						},
+						{
+							"item": "herbsandharvest:peanut_butter_jelly",
+							"text": "guide.herbsandharvest.pbj_desc"
+						}
+						
+					]
+				}
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.salad",
+
+		  "summary": "香草与丰收里有四种沙拉，配方都由拿到生菜解锁。\n\n沙拉吃完会留下一个空碗。",
+
+		  "elements": [
+		  {
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:caesar_salad",
+							"text": "guide.herbsandharvest.caesar_salad_desc"
+						},
+						{
+							"item": "herbsandharvest:chef_salad",
+							"text": "guide.herbsandharvest.chef_salad_desc"
+						},
+						{
+							"item": "herbsandharvest:chicken_berry_salad",
+							"text": "guide.herbsandharvest.chicken_salad_desc"
+						},
+						{
+							"item": "herbsandharvest:garden_salad",
+							"text": "guide.herbsandharvest.garden_salad_desc"
+						}
+						
+					]
+				}
+			 
+			  
+		  ]
+
+	  },
+	  
+	   {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.other",
+
+		  "summary": "其他一些食物及其解锁材料：",
+
+		  "elements": [
+			 
+			 
+			  {
+					"type": "icon_list",
+					"entries": [
+				 {
+							"item": "herbsandharvest:mashed_potatoes",
+							"text": "guide.herbsandharvest.mashed_pot_desc"
+						},
+						{
+							"item": "herbsandharvest:cornbread_stuffing",
+							"text": "guide.herbsandharvest.stuffing_desc"
+						},
+						{
+							"item": "herbsandharvest:vegetable_medley",
+							"text": "guide.herbsandharvest.veg_medley_desc"
+						},
+						
+						{
+							"item": "herbsandharvest:taco",
+							"text": "guide.herbsandharvest.taco_desc"
+						},
+						{
+							"item": "herbsandharvest:burrito",
+							"text": "guide.herbsandharvest.burrito_desc"
+						},
+						{
+							"item": "herbsandharvest:guacamole",
+							"text": "guide.herbsandharvest.guacamole_desc"
+						},
+						{
+							"item": "herbsandharvest:chips",
+							"text": "guide.herbsandharvest.chips_desc"
+						},
+						{
+							"item": "herbsandharvest:guacamole_chips",
+							"text": "guide.herbsandharvest.guacamole_chips_desc"
+						}
+						
+					]
+				}
+		  ]
+
+	  },
+	  
+	  	   {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.otherc",
+
+		  "summary": "其他食物及其解锁材料（续）：",
+
+		  "elements": [
+		    {
+					"type": "icon_list",
+					"entries": [
+				 
+						{
+							"item": "herbsandharvest:bagel",
+							"text": "guide.herbsandharvest.bagel_desc"
+						},
+						{
+							"item": "herbsandharvest:bagel_cream_cheese",
+							"text": "guide.herbsandharvest.bagel_cheese_desc"
+						},
+						{
+							"item": "herbsandharvest:bagel_with_salmon",
+							"text": "guide.herbsandharvest.bagel_salmon_desc"
+						},
+						{
+							"item": "herbsandharvest:graham_crackers",
+							"text": "guide.herbsandharvest.graham_cracker_desc"
+						}
+						
+					]
+				}
+			 
+			 
+		  ]
+
+	  },
+	  
+	   {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.otherd",
+
+		  "summary": "其他食物及其解锁材料（续）：",
+
+		  "elements": [
+		    {
+					"type": "icon_list",
+					"entries": [
+				 
+						
+						
+						{
+							"item": "herbsandharvest:beef_pie",
+							"text": "guide.herbsandharvest.beef_pie_desc"
+						},
+						{
+							"item": "herbsandharvest:chicken_pie",
+							"text": "guide.herbsandharvest.chicken_pie_desc"
+						},
+						{
+							"item": "herbsandharvest:lamb_pie",
+							"text": "guide.herbsandharvest.lamb_pie_desc"
+						},
+						{
+							"item": "herbsandharvest:pork_pie",
+							"text": "guide.herbsandharvest.pork_pie_desc"
+						}
+						
+					]
+				}
+			 
+			 
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.cond",
+
+		  "summary": "调味料与其他配料需要用碗或香料罐来合成，具体看配方。\n\n下面列出调味料及其配方的解锁材料：",
+
+		  "elements": [
+						{
+							"type": "icon_list",					
+					 
+							"entries": [
+								  {
+									"item": "herbsandharvest:mayo",
+									"text": "guide.herbsandharvest.mayonnaise_desc"
+								  },
+								  {
+									"item": "herbsandharvest:ketchup",
+									"text": "guide.herbsandharvest.ketchup_desc"
+								  },
+								  {
+									"item": "herbsandharvest:mustard",
+									"text": "guide.herbsandharvest.mustard_desc"
+								  },
+								  {
+									"item": "herbsandharvest:oil",
+									"text": "guide.herbsandharvest.vegetable_oil_desc"
+								  },
+								  {
+									"item": "herbsandharvest:peanut_butter",
+									"text": "guide.herbsandharvest.peanut_butter_desc"
+								  },
+								  {
+									"item": "herbsandharvest:raspberry_jam",
+									"text": "guide.herbsandharvest.raspberry_jam_desc"
+								  },
+								  {
+									"item": "herbsandharvest:blackberry_jam",
+									"text": "guide.herbsandharvest.blackberry_jam_desc"
+								  }
+							]
+						}
+					
+					]
+					
+		},
+			 
+			  
+	
+	  
+	   {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.condc",
+
+		  "summary": "调味料与其他配料（续）： ",
+
+		  "elements": [
+				{
+					"type": "icon_list",					
+			 
+					"entries": [
+						 
+						  {
+							"item": "herbsandharvest:sour_cream",
+							"text": "guide.herbsandharvest.sour_cream_desc"
+						  },
+						  {
+							"item": "herbsandharvest:cream_cheese",
+							"text": "guide.herbsandharvest.cream_cheese_desc"
+						  },
+						  {
+							"item": "herbsandharvest:whipped_cream",
+							"text": "guide.herbsandharvest.whipped_cream_desc"
+						  }
+					]
+				}
+					
+			]
+		},
+	
+	  
+	  
+	    {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.foods.dessert",
+
+		  "summary": "香草与丰收的甜点多得很。点击下面的链接了解详情：", 
+		  
+		     "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert.info",
+          "target_page": 20
+        },
+		{
+          "title": "herbsandharvest.guide_book.foods.dessert.infoc",
+          "target_page": 21
+        },
+        {
+          "title": "herbsandharvest.guide_book.foods.dessert.cakes",
+          "target_page": 22
+        },
+		 {
+          "title": "herbsandharvest.guide_book.foods.dessert.ccakes",
+          "target_page": 23
+        },
+		{
+          "title": "herbsandharvest.guide_book.foods.dessert.pies",
+          "target_page": 24
+        },
+		 {
+          "title": "herbsandharvest.guide_book.foods.dessert.cookies",
+          "target_page": 25
+        },
+		{
+          "title": "herbsandharvest.guide_book.foods.dessert.muffin",
+          "target_page": 26
+        }
+      ],
+
+		  "elements": [
+			 
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/items/dessert.png",
+				  "caption": "herbsandharvest.guide_book.chapters.items.dessert_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				}
+			  
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.dessert.info",
+
+		  "summary": "可做的甜点包括蛋糕、芝士蛋糕、派、曲奇、纸杯蛋糕、松饼、肉桂卷、甜面包卷和李子布丁。",
+
+		  "elements": [
+			 
+			  {
+				  "type": "text",
+				  "literal_text": "蛋糕、芝士蛋糕、派和李子布丁都是可放置的方块，空手点击就能切下一「块」。\n\n除李子布丁外都可切 8 块；李子布丁小得多，只能切 4 块。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.dessert.infoc",
+
+		  "summary": "小份的甜点和点心是一次性的可食用物品。\n\n前面说过，只有这类小份的一次性甜点和点心才能放上点心架。",
+
+		  "elements": [
+			 
+			  {
+				  "type": "text",
+				  "literal_text": "各甜点配方的解锁材料写在该甜点自己的页面上。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	   {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.dessert.cakes",
+
+		  "summary": "蛋糕类配方都由获得小麦解锁。\n\n李子布丁的配方由获得李子解锁。\n\n蛋糕与纸杯蛋糕如下：",
+
+		  "elements": [
+		  
+				{
+					"type": "icon_list",					
+			 
+					"entries": [
+						 
+						  {
+							"item": "herbsandharvest:black_forest_cake",
+							"text": "guide.herbsandharvest.bforest_cake_desc"
+						  },
+						  {
+							"item": "herbsandharvest:carrot_cake",
+							"text": "guide.herbsandharvest.carrot_cake_desc"
+						  },
+						  {
+							"item": "herbsandharvest:strawberry_cake",
+							"text": "guide.herbsandharvest.straw_cake_desc"
+						  },
+						   {
+							"item": "herbsandharvest:yellow_cake",
+							"text": "guide.herbsandharvest.yellow_cake_desc"
+						  },
+						    {
+							"item": "herbsandharvest:pineapple_cake",
+							"text": "guide.herbsandharvest.pine_cake_desc"
+						  },
+						  {
+							"item": "herbsandharvest:plum_pudding",
+							"text": "guide.herbsandharvest.plum_pudd_desc"
+						  },
+						   {
+							"item": "herbsandharvest:black_forest_cupcake",
+							"text": "guide.herbsandharvest.bforest_ccake_desc"
+						  },
+						  {
+							"item": "herbsandharvest:carrot_cupcake",
+							"text": "guide.herbsandharvest.carrot_ccake_desc"
+						  },
+						  {
+							"item": "herbsandharvest:strawberry_cupcake",
+							"text": "guide.herbsandharvest.straw_ccake_desc"
+						  },
+						   {
+							"item": "herbsandharvest:yellow_cupcake",
+							"text": "guide.herbsandharvest.yellow_ccake_desc"
+						  }
+					]
+				}			  													 
+			
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.dessert.ccakes",
+
+		  "summary": "芝士蛋糕类配方都由获得奶油奶酪解锁。",
+
+		  "elements": [  
+
+				{
+				  "type": "text",
+				  "literal_text": "\n芝士蛋糕：\n",
+				  "text": null
+				},
+			   {
+					"type": "icon_list",					
+			 
+					"entries": [
+						 
+						  {
+							"item": "herbsandharvest:cheesecake",
+							"text": "guide.herbsandharvest.ccake_desc"
+						  },
+						  {
+							"item": "herbsandharvest:blueberry_cheesecake",
+							"text": "guide.herbsandharvest.blue_ccake_desc"
+						  },
+						  {
+							"item": "herbsandharvest:raspberry_cheesecake",
+							"text": "guide.herbsandharvest.rasp_ccake_desc"
+						  }
+					]
+				}
+			 
+			  
+		  ]
+
+	  },
+	  
+	    {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.dessert.pies",
+
+		  "summary": "派类配方需要小麦来解锁。",
+
+		  "elements": [
+		  
+				{
+				  "type": "text",
+				  "literal_text": "\n派：\n",
+				  "text": null
+				},
+				{
+					"type": "icon_list",					
+			 
+					"entries": [
+						 
+							  {
+								"item": "herbsandharvest:apple_pie",
+								"text": "guide.herbsandharvest.apple_pie_desc"
+							  },
+							  {
+								"item": "herbsandharvest:blueberry_pie",
+								"text": "guide.herbsandharvest.blueberry_pie_desc"
+							  },
+							  {
+								"item": "herbsandharvest:cherry_pie",
+								"text": "guide.herbsandharvest.cherry_pie_desc"
+							  },
+							  {
+								"item": "herbsandharvest:chocolate_pie",
+								"text": "guide.herbsandharvest.chocolate_pie_desc"
+							  },
+							  {
+								"item": "herbsandharvest:key_lime_pie",
+								"text": "guide.herbsandharvest.key_lime_pie_desc"
+							  },
+							  {
+								"item": "herbsandharvest:lemon_meringue_pie",
+								"text": "guide.herbsandharvest.lemon_meringue_pie_desc"
+							  },
+							  {
+								"item": "herbsandharvest:peach_pie",
+								"text": "guide.herbsandharvest.peach_pie_desc"
+							  }
+						]
+				}
+		  ]
+
+	  },
+	  
+	   {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.dessert.cookies",
+
+		  "summary": "曲奇类配方同样需要小麦来解锁。 ",
+
+		  "elements": [
+		  
+				{
+				  "type": "text",
+				  "literal_text": "曲奇： ",
+				  "text": null
+				},									 
+				{
+					"type": "icon_list",					
+			 
+					"entries": [
+						 
+							   {
+								"item": "herbsandharvest:oatmeal_raisin_cookie",
+								"text": "guide.herbsandharvest.oatmeal_raisin_cookie_desc"
+							  },
+							  {
+								"item": "herbsandharvest:peanut_butter_cookie",
+								"text": "guide.herbsandharvest.peanut_butter_cookie_desc"
+							  },
+							  {
+								"item": "herbsandharvest:snickerdoodle_cookie",
+								"text": "guide.herbsandharvest.snickerdoodle_desc"
+							  },
+							  {
+								"item": "herbsandharvest:sugar_cookie",
+								"text": "guide.herbsandharvest.sugar_cookie_desc"
+							  }
+							  
+						]
+				}
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.foods.dessert.muffin",
+
+		  "summary": "松饼与面包卷的配方由获得小麦解锁。",
+
+		  "elements": [
+				{
+				  "type": "text",
+				  "literal_text": "\n松饼： ",
+				  "text": null
+				},
+			
+				{
+					"type": "icon_list",					
+			 
+					"entries": [
+						 
+							   {
+								"item": "herbsandharvest:apple_muffin",
+								"text": "guide.herbsandharvest.apple_muffin_desc"
+							  },
+							  {
+								"item": "herbsandharvest:blueberry_muffin",
+								"text": "guide.herbsandharvest.blueberry_muffin_desc"
+							  },
+							  {
+								"item": "herbsandharvest:pumpkin_muffin",
+								"text": "guide.herbsandharvest.pumpkin_muffin_desc"
+							  },
+							  {
+								"item": "herbsandharvest:sweet_berry_muffin",
+								"text": "guide.herbsandharvest.sweet_berry_muffin_desc"
+							  }
+							  
+						]
+				},
+				{
+				  "type": "text",
+				  "literal_text": "\n\n面包卷： ",
+				  "text": null
+				},
+			 
+				{
+					"type": "icon_list",					
+			 
+					"entries": [
+						 
+							  {
+								"item": "herbsandharvest:cinnamon_roll",
+								"text": "guide.herbsandharvest.cinnamon_roll_desc"
+							  },
+							  {
+								"item": "herbsandharvest:sweet_roll",
+								"text": "guide.herbsandharvest.sweet_roll_desc"
+							  }
+							  
+						]
+				}
+		  ]
+
+	  }
+	  
+	  
+	  
+	  
+	
+  ]
+}

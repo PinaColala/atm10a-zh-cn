@@ -1,0 +1,17 @@
+{
+  "name": "流体放置器",
+  "icon": "industrialforegoing:fluid_placer",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "它可以放置流体。$(br2)它会放置内部容器中的流体，并消耗 $(6)1000$()RF。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fluid_placer"
+    }
+  ]
+}

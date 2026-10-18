@@ -1,0 +1,20 @@
+{
+  "name": "孔雀",
+  "icon": "livingthings:peacock_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "孔雀是一种大型雉类，以其绚丽多彩的羽毛而闻名。$(br2)$(bold)生命值：$()4颗心$(br2)$(bold)繁殖物品：$()$(li)小麦"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:peacock",
+      "rotate": false,
+      "scale": 0.8,
+      "default_rotation": 40,
+      "offset": 0.2,
+      "text": "可在$(bold)热带草原$()与$(bold)丛林$()中找到。"
+    }
+  ]
+}

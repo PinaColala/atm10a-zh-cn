@@ -1,0 +1,31 @@
+{
+  "name": "食物效果",
+  "icon": "sushigocrafting:avocado_slices",
+  "category": "sushigocrafting:getting_started",
+  "sortnum": 0,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "text",
+      "text": "使用不同种类的食材制作寿司，可获得不同的增益效果，从而提升你的食物品质"
+    },
+    {
+      "type": "spotlight",
+      "item": "sushigocrafting:salmon_fillet",
+      "title": "小口品尝",
+      "text": "在拥有该药水效果时进食，将有较小几率不消耗所食用的物品。"
+    },
+    {
+      "type": "spotlight",
+      "item": "sushigocrafting:tuna_fillet",
+      "title": "嗜好",
+      "text": "在拥有该药水效果时进食，将额外恢复饱食度。"
+    },
+    {
+      "type": "spotlight",
+      "item": "sushigocrafting:shrimp",
+      "title": "坚定的手",
+      "text": "在拥有该药水效果时使用刀砧板，可使你的食材获得额外重量。"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "礼物",
+  "icon": "merrymaking:present",
+  "category": "merrymaking:present",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:present",
+      "text": "礼物堆散落在主世界各处的宝箱中。$(br2)放置礼物堆时，包装颜色将随机生成。使用精准采集可完整拾起礼物堆。$(br2)破坏礼物堆将揭示其中所藏礼物，奖品从极佳到“哎呀，您真不必如此破费！”不等。"
+    }
+  ]
+}

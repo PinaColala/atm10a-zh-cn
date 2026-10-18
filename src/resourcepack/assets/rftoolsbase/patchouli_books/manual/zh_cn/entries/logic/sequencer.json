@@ -1,0 +1,18 @@
+{
+  "name": "定序触发器",
+  "icon": "rftoolsutility:sequencer",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:sequencer": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "时序器是一种多功能方块，可以根据其他红石输入生成特定序列的红石信号。它通过选择 64 个不同的红石输出模式来工作。每当一个序列运行时，它就会按顺序将这个方块的红石输出设为这些模式。$(br2)共有 7 种不同模式："
+    },
+    {
+      "type": "text",
+      "text": "$(li)$(d)单次1：$()循环一次。完成前忽略信号$(/li)$(li)$(d)单次2：$()循环一次。收到新信号时重新开始循环$(/li)$(li)$(d)循环1：$()持续循环。忽略红石信号$(/li)$(li)$(d)循环2：$()持续循环。信号会将循环重置到起点$(/li)$(li)$(d)循环3：$()启用时持续循环。禁用时停留在当前步骤$(/li)$(li)$(d)循环4：$()启用时持续循环。禁用时重置到起点$(/li)$(li)$(d)步进：$()每次收到信号时在循环中前进一步$(/li)"
+    }
+  ]
+}

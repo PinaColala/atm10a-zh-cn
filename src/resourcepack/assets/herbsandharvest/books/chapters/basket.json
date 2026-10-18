@@ -1,0 +1,42 @@
+{
+  "pages": [ 
+
+		{
+			"type": "standard",
+
+			
+
+			"summary": "农产品篮最多可存放 8 组任意农产品，比如水果或蔬菜。\n\n篮子上显示的每个物品代表一组。",
+
+			"elements": [
+			 
+				{
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/basket/basket.png",
+				  "caption": "herbsandharvest.guide_book.chapters.basket.basket_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				},
+{
+				  "type": "text",
+				  "literal_text": "\n空手右键即可取出物品，按放入的先后倒序取回到背包里。",
+				  "text": null
+				}				
+				
+			]
+		}
+		
+		
+	  
+	
+	
+	]
+}
+	
+
+	
+
+	
+	
+	

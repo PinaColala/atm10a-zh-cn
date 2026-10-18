@@ -1,0 +1,30 @@
+{
+  "name": "殖民地整合器",
+  "icon": "advancedperipherals:colony_integrator",
+  "category": "advancedperipherals:peripherals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "殖民地积分器可与模拟殖民地模组中的殖民地进行交互。$(p)完整说明请参阅$(9)$(l:https://docs.advanced-peripherals.de/peripherals/colony_integrator/)官方维基页面$(/l)$()！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:colony_integrator"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "computercraft:computer_advanced",
+          "P": "advancedperipherals:colony_integrator"
+        },
+        "pattern": [
+          [
+            "0P"
+          ]
+        ]
+      },
+      "text": "将你的殖民地整合器连接至村庄区域内的计算机即可使用！"
+    }
+  ]
+}

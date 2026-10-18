@@ -1,0 +1,13 @@
+{
+  "name": "被动冷却",
+  "icon": "bigreactors:graphite_block",
+  "category": "bigreactors:reactor-operational_mode",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "被动冷却反应堆是一种$(l:bigreactors:reactor/innerworking)直接产生能量$(/l)的反应堆，它不依赖外部介质来散发内部热量。$(br2)本书前几页中介绍的$(l:bigreactors:intro/first)第一种反应堆$(/l)，就是以被动冷却模式运行的反应堆。"
+    }
+  ]
+}

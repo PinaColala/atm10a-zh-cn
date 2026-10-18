@@ -1,0 +1,22 @@
+{
+  "name": "废料注入口",
+  "icon": "bigreactors:reprocessorwasteinjector",
+  "category": "bigreactors:reprocessor-parts",
+  "read_by_default": true,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reprocessorwasteinjector",
+      "link_recipe": true,
+      "title": "废料注入口",
+      "text": "废料注入器允许你将反应堆中的废料插入再处理器。$(br2)你可以通过图形界面手动插入材料，也可以连接某种管道，将废料自动输入到注入器中。"
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "废料注入口",
+      "crafting.recipe1": "bigreactors:reprocessor/wasteinjector",
+      "usage.text": "$(l)必需：$()必须且只能有一个$(br)$(l)有效位置：$()顶部面（不能在框架上）$(br)$(l)图形界面：$()是"
+    }
+  ]
+}

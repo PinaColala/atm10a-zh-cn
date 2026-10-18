@@ -1,0 +1,27 @@
+{
+  "name": "机壳",
+  "icon": "bigreactors:reinforced_turbinecasing",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbinecasing",
+      "link_recipe": true,
+      "title": "机壳",
+      "text": "机壳方块是涡轮机的基础构件。$(br2)它们既是搭建框架所必需的，也用于支撑$(l:bigreactors/rotor)转子$(/l)，同时还用于合成其他部件。如果你不想使用玻璃，也可以用机壳方块填充涡轮机的各个面。$(br2)你会合成很多这类方块。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:turbine/basic/casing",
+      "title2": "加固",
+      "recipe2": "bigreactors:turbine/reinforced/casing"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()它们是构建框架和$(l:bigreactors:turbine/rotor)转子$(/l)所必需的$(br)$(l)有效位置：$()任意位置$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

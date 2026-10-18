@@ -1,0 +1,18 @@
+{
+  "name": "防修改模块",
+  "icon": "mffs:block_alter_module",
+  "category": "mffs:interdiction_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:block_alter_module",
+      "link_recipe": true,
+      "text": "$(5)防修改模块$()是$(l:mffs:machines/interdiction_matrix)干涉矩阵$()的可选模块。它使干涉矩阵能够限制玩家放置或破坏方块的能力。若玩家试图在$(l:mffs:machines/interdiction_matrix)干涉矩阵$()的作用区域内破坏或放置方块，系统将提示其无权执行该操作，并撤销已进行的任何更改。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:block_alter_module",
+      "text": "合成$(5)防修改模块$()。"
+    }
+  ]
+}

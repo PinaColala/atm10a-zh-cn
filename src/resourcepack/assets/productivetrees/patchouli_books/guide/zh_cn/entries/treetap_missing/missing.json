@@ -1,0 +1,14 @@
+{
+  "name": "木龙头最好",
+  "icon": "minecraft:barrier",
+  "category": "productivetrees:treetap_missing",
+  "flag": "!mod:treetap",
+  "pages": [
+    {
+      "type": "patchouli:link",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/treetap",
+      "link_text": "点击修复",
+      "text": "你尚未安装木龙头 :sadge:"
+    }
+  ]
+}

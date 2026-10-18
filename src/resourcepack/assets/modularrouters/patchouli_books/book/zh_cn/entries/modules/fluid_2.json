@@ -1,0 +1,19 @@
+{
+  "name": "流体模块 Mk2",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:fluid_module_2",
+  "pages": [
+    {
+      "type": "text",
+      "text": "和$(l:modules/fluid_1)流体模块 Mk1/$一样，如果路由器缓冲区中有储液物品，这个模块就可以在路由器与外界之间传输流体。不过，这个模块还能够以更远处的位置为目标，最远可达 12 格（配合$(l:augments/range_up)范围升级拓展/$时可达 24 格）。"
+    },
+    {
+      "type": "text",
+      "text": "$(thing)用该模块对任意方块执行潜行右击/$，即可将其设为模块的标靶。$(p)请注意，目标方块不一定非得是流体储罐；如果你在设定模块标靶后破坏该方块，模块仍然能够在该位置将一桶流体倒入世界中。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:fluid_module_2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Mekanism 流体端口",
+  "icon": "bigreactors:reinforced_reactorfluidport_mekanism_passive",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorfluidport_mekanism_passive",
+      "link_recipe": true,
+      "title": "Mekanism 流体端口",
+      "text": "Mekanism 流体端口允许你将$(l:bigreactors:reactor/active)主动冷却$(/l)反应堆中的蒸汽以通用机械气体的形式提取出来。$(br2)如果反应堆中储存的流体存在对应的 Mekanism Rotary 配方，该端口会自动将蒸汽转换为气体。转换速率会遵循 Rotary 配方中定义的数值。"
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "强化（被动）",
+      "crafting.recipe1": "bigreactors:reactor/reinforced/passivefluidport_mekanism",
+      "usage.text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面上（不在框架上）$(br)$(l)变种：$()强化$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

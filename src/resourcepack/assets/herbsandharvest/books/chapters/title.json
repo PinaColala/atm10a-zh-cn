@@ -1,0 +1,33 @@
+{
+  "pages": [
+
+    {
+      "type": "standard",
+	  
+	   "title": "herbsandharvest.guide_book.book_title",
+
+      "summary": "妈妈的香草与丰收 · 指南",
+
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/pantry.png",
+          "caption": "herbsandharvest.guide_book.chapters.pantry_caption",
+          "image_width": 116,
+          "image_height": 54
+        },
+        {
+          
+		  "type": "text",
+		  "literal_text": "本指南将带你了解……",
+		  "text": null
+			 
+
+        }
+      ]
+    }
+
+
+
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "猴子",
+  "icon": "livingthings:monkey_spawn_egg",
+  "category": "livingthings:neutral_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br2)$(bold)生命值：$()3颗心$(br)$(bold)攻击伤害：$()1.5颗心$(br2)$(bold)繁殖物品：$()$(li)苹果$(li)香蕉$(br2)$(bold)掉落物：$()$(li)1–2个皮革$(li)0–1个香蕉"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:monkey",
+      "rotate": false,
+      "default_rotation": 35,
+      "text": "可在所有$(bold)丛林$()生物群系中找到。"
+    }
+  ]
+}

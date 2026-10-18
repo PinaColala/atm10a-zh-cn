@@ -1,0 +1,16 @@
+{
+  "name": "鲨鱼牙齿",
+  "icon": "livingthings:shark_tooth",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)可由鲨鱼掉落"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:shark_tooth",
+      "text": "$(br)$(bold)用途：$()$(li)可用于制作箭矢$(li)可合成为骨粉"
+    }
+  ]
+}

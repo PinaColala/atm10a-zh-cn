@@ -1,0 +1,27 @@
+{
+  "name": "调节拓展",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:regulator_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个增强件可以精确控制向容器或从容器中，以及向路由器缓冲区或从缓冲区中发送/抽取的物品数量。$(p)当模块装有调节拓展时，你会在其 GUI 中看到一个额外的数字输入框，用于设置限制值。这个限制值会因模块不同而有不同解释："
+    },
+    {
+      "type": "text",
+      "text": "$(li)对于发送模块 $(l:modules/sender_1)Mk1/$ / $(l:modules/sender_2)Mk2/$ / $(l:modules/sender_3)Mk3/$ 以及$(l:modules/player)玩家模块/$（插入模式），只有当目标容器中该物品的数量少于设定值时，模块才会将该物品送入容器。$(li)对于抽取模块 Mk1 $(l:modules/puller_1)Mk1/$ / $(l:modules/puller_2)Mk2/$ 以及$(l:modules/player)玩家模块/$（提取模式），只有当目标容器中该物品的数量多于设定值时，模块才会从容器中抽取该物品。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)对于$(l:modules/dropper)投掷器/$、$(l:modules/flinger)抛掷术/$、$(l:modules/placer)放置器/$和$(l:modules/void)销毁模块/$，只有当路由器缓冲区中该物品的数量多于设定值时，模块才会运行。$(li)对于$(l:modules/breaker)破坏器/$和$(l:modules/vacuum)虚空模块/$，只有当路由器缓冲区中该物品的数量少于设定值时，模块才会运行。"
+    },
+    {
+      "type": "text",
+      "text": "$(li)对于流体 $(l:modules/fluid)Mk1/$ / $(l:modules/fluid_2)Mk2/$ 模块，这个限制值可以是目标储罐容量的百分比，也可以是以 mB 为单位的绝对数值（可在 GUI 中选择），而不是物品数量。拉取流体时，只有当目标中流体量$(italic)多于/$设定值时模块才会运行；推送流体时，只有当目标中流体量$(italic)少于/$设定值时模块才会运行。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:regulator_augment"
+    }
+  ]
+}

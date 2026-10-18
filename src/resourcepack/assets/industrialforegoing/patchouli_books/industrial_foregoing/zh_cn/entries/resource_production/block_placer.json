@@ -1,0 +1,17 @@
+{
+  "name": "方块放置器",
+  "icon": "industrialforegoing:block_placer",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "它可以放置方块。$(br2)它会放置内部容器中的方块，并消耗 $(6)1000$()RF。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:block_placer"
+    }
+  ]
+}

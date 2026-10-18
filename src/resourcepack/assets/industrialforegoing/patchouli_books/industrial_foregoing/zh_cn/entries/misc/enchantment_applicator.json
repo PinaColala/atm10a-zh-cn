@@ -1,0 +1,17 @@
+{
+  "name": "自动化附魔铁砧",
+  "icon": "industrialforegoing:enchantment_applicator",
+  "category": "industrialforegoing:misc",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "该机器功能与铁砧相同，但以$(l:agr_husb/essence)精华$()替代经验。当顶部储罐中精华充足时，即可完成合成；若所需精华过多，则无法进行。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:enchantment_applicator"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "穹顶模块",
+  "icon": "mffs:dome_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:dome_module",
+      "link_recipe": true,
+      "text": "$(5)穹顶模块$()可被置入$(l:mffs:machines/projector)力场投影仪$()的矩阵插槽中，用于截断投射器Y轴高度以下的所有投射方块，从而形成圆顶形状。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:dome_module",
+      "text": "合成$(5)穹顶模块$()。"
+    }
+  ]
+}

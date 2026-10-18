@@ -1,0 +1,11 @@
+{
+  "name": "信号区间勘测仪",
+  "icon": "railcraft:signal_block_surveyor",
+  "category": "railcraft:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "此勘测工具用于将两个信号机配对，从而创建信号机。开始勘测时，请右键点击一个信号机；完成信号机构建时，请移至另一端的信号机并同样右键点击。若信号机构建有效，屏幕将显示配对成功的提示信息；若失败，也将显示相应失败原因。"
+    }
+  ]
+}

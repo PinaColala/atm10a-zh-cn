@@ -1,0 +1,23 @@
+{
+  "name": "能量单元卡",
+  "icon": "rftoolspower:powercell_card",
+  "category": "rftoolsbase:category_rftoolspower_powerstorage",
+  "extra_recipe_mappings": {
+    "rftoolspower:powercell_card": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "此卡片用于链接$(l:rftoolsbase:powerstorage/dimensionalcell)维度能量单元$(/l)。新卡片默认未链接，将其插入维度能量单元即可创建或复制链接。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:powercell_card"
+    },
+    {
+      "type": "text",
+      "text": "在其他维度细胞上使用已链接的卡片，即可将其加入同一远程存储网络。"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "加固",
+  "icon": "railcraft:reinforced_track",
+  "category": "railcraft:track_type",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "强化轨道相较于铁制轨道具有若干优势。$(li)其抗爆性能更强（抗爆等级达45，足以抵御TNT爆炸）。$(li)其运行速度比铁制轨道快25%。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "与高速轨道相比，它明显更慢，但也更为安全。$(br2)然而，您应将强化轨道铺设在抗爆方块上，因为一旦支撑方块被移除，轨道必然掉落。"
+    }
+  ]
+}

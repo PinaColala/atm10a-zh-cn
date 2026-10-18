@@ -1,0 +1,21 @@
+[
+  {
+    "name": "mcjtylib_manual_zh",
+    "desc": "mcjtylib-1.21-9.0.21.jar 硬编码文本汉化",
+    "authors": "Hoshino Yumeka",
+    "mods": "mcjtylib-1.21-9.0.21.jar",
+    "dynamic": false,
+    "i18n": false
+  },
+  {
+    "target_class": [
+      "mcjty.lib.gui.GuiSideWindow"
+    ],
+    "pairs": [
+      {
+        "key": "Open manual",
+        "value": "打开手册"
+      }
+    ]
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "path": "kubejs/server_scripts/banlist_script.js",
+    "originalSha256": "d3c38cc57adfe65cd25a83fe8d1641879eee41a32d026bdbe10cba42029cc0e9",
+    "resultSha256": "a01c1938912a9eae4dc4ab0307f2f207f2d4ff5dee08d7b23946a7c308304a71",
+    "replacements": [
+      {
+        "from": "\"Removed banned entity: \"",
+        "to": "\"已移除被禁用的实体：\"",
+        "count": 1
+      },
+      {
+        "from": "\" at \"",
+        "to": "\"，位置：\"",
+        "count": 1
+      },
+      {
+        "from": "\"Removing banned block entity at \"",
+        "to": "\"正在移除被禁用的方块实体，位置：\"",
+        "count": 1
+      },
+      {
+        "from": "\"This server does not allow you to use this item!\"",
+        "to": "\"本服务器不允许使用此物品！\"",
+        "count": 1
+      },
+      {
+        "from": "'\"is banned on this\"'",
+        "to": "'\"在本服务器\"'",
+        "count": 1
+      },
+      {
+        "from": "\"server\"",
+        "to": "\"已被禁用\"",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/server_scripts/announcements/announcements.js",
+    "originalSha256": "398a1390b35ff4b42536bb58d59f6227092ddd0c9053e54429a39f8ab0eeb2c8",
+    "resultSha256": "95e73bf194828237f686877f5059d95ff1873d19c0b0c7143b94f1497d14c873",
+    "replacements": [
+      {
+        "from": "\"Added mods: Ars Creo, Ice and Fire, Oritech,\"",
+        "to": "\"新增模组：新生魔艺：机械、冰火传说、Oritech，\"",
+        "count": 1
+      },
+      {
+        "from": "\"We just launched \"",
+        "to": "\"我们刚刚推出了\"",
+        "count": 1
+      },
+      {
+        "from": "\"All The Mons (ATM10 + Cobblemon)\"",
+        "to": "\"全部宝可梦（ATM10 + 方块宝可梦）\"",
+        "count": 1
+      },
+      {
+        "from": "\" for public beta testing!\"",
+        "to": "\"，现已开放公开测试！\"",
+        "count": 1
+      },
+      {
+        "from": "\"All The Mods Announcements\"",
+        "to": "\"All The Mods 公告\"",
+        "count": 1
+      },
+      {
+        "from": "\"Player was not found!\"",
+        "to": "\"未找到玩家！\"",
+        "count": 1
+      },
+      {
+        "from": "\"Cleared dismissed version!\"",
+        "to": "\"已清除忽略的版本！\"",
+        "count": 1
+      },
+      {
+        "from": "\"Current version of the modpack is null, is BetterCompatibilityCheck installed?\"",
+        "to": "\"整合包当前版本为空，是否已安装 BetterCompatibilityCheck？\"",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/server_scripts/debug/freeze_server.js",
+    "originalSha256": "d703593bf42123e2ff1c6517dc60efe942bd189021f890099fad8af7f34aa189",
+    "resultSha256": "986ab58db0b22e8b7d0b6d4ef80e4780d2dc7ed8f9c2a944a528b4e5f55fabb7",
+    "replacements": [
+      {
+        "from": "\"Starting server frozen...\"",
+        "to": "\"服务器启动后将冻结运行……\"",
+        "count": 1
+      }
+    ]
+  }
+]

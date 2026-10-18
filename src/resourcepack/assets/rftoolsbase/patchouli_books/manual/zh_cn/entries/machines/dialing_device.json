@@ -1,0 +1,20 @@
+{
+  "name": "坐标记录仪",
+  "icon": "rftoolsutility:dialing_device",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:dialing_device": 0,
+    "rftoolsutility:simple_dialer": 0,
+    "rftoolsutility:destination_analyzer": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "使用坐标记录仪，你可将$(l:rftoolsbase:machines/matter_transmitter)物质传输器$(/l)链接至$(l:rftoolsbase:machines/matter_receiver)物质接收器$(/l)。注意：物质传输器需位于附近，而物质接收器则可远在千里之外（甚至处于另一维度）$(br2)$(5)注魔$()该机器可降低能耗。"
+    },
+    {
+      "type": "text",
+      "text": "要进行拨号，你首先必须选择一个物质传输器。如果附近只有一个，它会被自动选中。之后你必须选择一个物质接收器（在底部列表中），然后选择“拨号”或“单次拨号”。使用“单次拨号”时，一旦有人传送，连接就会中断。"
+    }
+  ]
+}

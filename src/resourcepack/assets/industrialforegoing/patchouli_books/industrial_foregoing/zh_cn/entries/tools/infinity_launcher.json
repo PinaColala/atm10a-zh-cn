@@ -1,0 +1,17 @@
+{
+  "name": "无限发射器",
+  "icon": "industrialforegoing:infinity_launcher",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "无限发射器是一种工具，允许你在一定距离外，利用生物捕捉工具捕获或释放实体。在GUI中选定模式并发射后，你即可通过库存中的MIT来释放或捕获生物。"
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_launcher"
+    }
+  ]
+}

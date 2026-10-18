@@ -1,0 +1,31 @@
+{
+  "name": "控制器",
+  "icon": "bigreactors:reinforced_turbinecontroller",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbinecontroller",
+      "link_recipe": true,
+      "title": "控制器",
+      "text": "控制器是你与涡轮机交互的主要界面。$(br2)右键点击控制器即可打开它的图形用户界面。在那里，你可以开关涡轮机、查看内部储罐中蒸汽和冷却液的存量、查看$(l:bigreactors/rotor)转子$(/l)的转速，以及监控当前产生的能量。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "你还可以调节流经$(l:bigreactors/rotor)转子$(/l)周围的蒸汽量，决定蒸汽冷凝回原始冷却液后该如何处理，并控制$(l:bigreactors/coils)感应线圈$(/l)的接合与脱开。$(br2)如果你将鼠标悬停在界面中的某个控件上，就会显示一个提示框，其中包含关于该控件的更多信息或说明文字。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:turbine/basic/controller",
+      "title2": "加固",
+      "recipe2": "bigreactors:turbine/reinforced/controller"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()至少需要一个$(br)$(l)有效位置：$()任意面（不能在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()是"
+    }
+  ]
+}

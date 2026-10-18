@@ -1,0 +1,30 @@
+{
+  "name": "玩家侦测器",
+  "icon": "advancedperipherals:player_detector",
+  "category": "advancedperipherals:peripherals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "玩家侦测器可在一定范围内识别玩家；此外，它还能识别出点击自身的玩家。$(p)完整说明请参阅$(9)$(l:https://docs.advanced-peripherals.de/peripherals/player_detector/)官方维基页面$(/l)$()！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:player_detector"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "computercraft:computer_advanced",
+          "P": "advancedperipherals:player_detector"
+        },
+        "pattern": [
+          [
+            "0P"
+          ]
+        ]
+      },
+      "text": "将你的玩家侦测器连接至计算机即可使用！"
+    }
+  ]
+}

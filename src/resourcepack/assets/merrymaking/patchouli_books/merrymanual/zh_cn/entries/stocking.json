@@ -1,0 +1,12 @@
+{
+  "name": "圣诞袜",
+  "icon": "merrymaking:stocking",
+  "category": "merrymaking:mantels",
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:stocking",
+      "text": "长筒袜被小心地挂在节日壁炉台上……"
+    }
+  ]
+}

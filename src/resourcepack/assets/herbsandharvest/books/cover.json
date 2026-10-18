@@ -1,0 +1,28 @@
+{
+  "pages": [
+    {
+      "type": "cover",
+
+      "title": "herbsandharvest.book.cover.title",
+
+      "summary": "炉火、收获与家的指南\n\n关于种植作物、制作日用品，以及把收成变成一桌热饭，这本书里都写着。",
+
+      "elements": [
+       {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/pantry.png",
+				  "caption": "herbsandharvest.guide_book.chapters.pantry_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				},
+				
+				 {
+          "type": "text",
+          "literal_text": "用目录在各章之间跳转。部分章节还有小节，点击章节标题即可回到该章首页。",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

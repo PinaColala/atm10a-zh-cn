@@ -1,0 +1,23 @@
+{
+  "name": "末影珍珠填充器",
+  "icon": "rftoolspower:pearl_injector",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:pearl_injector": 0
+  },
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "text",
+      "text": "末影珍珠填充器可将末影珍珠注入$(l:rftoolsbase:powergeneration/endergenic)末影能发电机$(/l)。请将其朝向发电机放置，或直接置于发电机正下方。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:pearl_injector"
+    },
+    {
+      "type": "text",
+      "text": "在红石脉冲触发下，它将一枚末影珍珠转化为末影能珍珠并注入发电机。若目标发电机已持有珍珠，则新珍珠将被丢弃。"
+    }
+  ]
+}

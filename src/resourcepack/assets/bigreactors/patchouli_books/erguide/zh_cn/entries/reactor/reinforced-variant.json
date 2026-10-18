@@ -1,0 +1,17 @@
+{
+  "name": "加固",
+  "icon": "bigreactors:reinforced_reactorcasing",
+  "category": "bigreactors:reactor-variants",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "加固变种允许你按需建造尽可能大的反应堆，以生成和储存海量能量。$(br2)最大尺寸可以由玩家、整合包作者或服务器管理员在 Extreme Reactors 的配置文件中设置（最高可达 256 方块）。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "加固反应堆凭借更高的结构强度作为代价，合成成本会略高一些，效率也不如其他变种，但这点劣势完全可以被它更强的发电能力弥补。"
+    }
+  ]
+}

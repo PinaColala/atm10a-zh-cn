@@ -1,0 +1,17 @@
+{
+  "name": "生物探测器",
+  "icon": "industrialforegoing:mob_detector",
+  "category": "industrialforegoing:misc",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "这台机器会检测其前方有多少实体，并在背面输出与检测到的实体数量相同强度的红石信号。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_detector"
+    }
+  ]
+}

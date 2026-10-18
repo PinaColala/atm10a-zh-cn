@@ -1,0 +1,17 @@
+{
+  "name": "书的合成配方",
+  "icon": "merrymaking:merrymanual",
+  "category": "merrymaking:book",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:merrymanual",
+      "text": "If you lose this book, or need to make another for any reason, all it takes is: 1 book, 1 green dye, and a candy cane."
+    },
+    {
+      "type": "crafting",
+      "title": "Merry-Maker's Manual",
+      "recipe": "merrymaking:merrymanual_recipe"
+    }
+  ]
+}

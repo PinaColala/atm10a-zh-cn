@@ -1,0 +1,38 @@
+{
+  "modules": [
+    "mcjtylib",
+    "mcjtylib_manual_zh",
+    "rftools_all_modules_zh",
+    "rftools_gui_labels_zh",
+    "rftoolsbase",
+    "rftoolsbase_filter_zh",
+    "rftoolsbuilder_hardcode_zh",
+    "rftoolspower",
+    "rftoolsstorage",
+    "rftoolsutility"
+  ],
+  "mods": [
+    "mcjtylib",
+    "mcjtylib_manual_zh",
+    "rftools_all_modules_zh",
+    "rftools_gui_labels_zh",
+    "rftoolsbase",
+    "rftoolsbase_filter_zh",
+    "rftoolsbuilder_hardcode_zh",
+    "rftoolspower",
+    "rftoolsstorage",
+    "rftoolsutility"
+  ],
+  "default_language": "zh_cn",
+  "class_patch": false,
+  "load_all_modules": false,
+  "debug_mode": {
+    "is_enable": false,
+    "output_mode": 0,
+    "output_format": "<source> -> <target> in <class> [<ordinal>] | <info>",
+    "output_node_debug": false,
+    "export_class": false,
+    "use_cache": false,
+    "missing_warn": false
+  }
+}

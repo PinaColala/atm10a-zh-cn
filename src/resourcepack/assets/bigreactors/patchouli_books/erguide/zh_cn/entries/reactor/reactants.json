@@ -1,0 +1,25 @@
+{
+  "name": "反应物",
+  "icon": "bigreactors:yellorium_ingot",
+  "category": "bigreactors:reactor",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "反应物是一种你可以在反应堆内部使用、以维持核反应进行的化学物质。$(br2)反应物分为两类：$(li)$(bold)燃料：$()顾名思义，就是在$(l:bigreactors:reactor/part-fuelrod)燃料棒$(/l)内部维持核链式反应的燃料$(li)$(bold)废料：$()燃料被消耗后产生的反应副产物。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "默认情况下，Extreme Reactors 会注册四种反应物：名为黄铀和蓝钚的两种燃料，以及它们对应的废料青氰和玫磁。$(br2)每种反应物都对应一组可用于生成该反应物的物品，例如可以将它们插入$(l:bigreactors:reactor/part-solidaccessport)固体访问端口$(/l)。$(br2)以黄铀为例，它可以由$(l:bigreactors:intro/ores)黄铀锭$(/l)获得。青氰在从反应堆中弹出后，则会变成青氰锭。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "有些反应物可以在$(l:bigreactors:reprocessor/reprocessing)再处理器$(/l)中生产，通过将废料转换为新的燃料来源来获得。$(br2)每种燃料都有各自的属性，并且在反应堆中的表现也各不相同。$(br2)其他模组或整合包也可以添加它们自己的反应物、燃料类型和反应物来源，或修改/移除默认内容。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "可用于生成燃料类反应物的物品会带有一个特殊提示框。如果你不介意提前知道信息，并且已经启用了 Minecraft 的$(italic)显示高级提示框$()功能（F3 + H），就可以看到它。"
+    }
+  ]
+}

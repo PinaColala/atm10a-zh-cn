@@ -1,0 +1,14 @@
+{
+  "name": "瑞迪特",
+  "icon": "allthemodium:allthemodium_block",
+  "category": "allthemodium:links",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "link",
+      "url": "https://www.reddit.com/r/allthemods/",
+      "link_text": "Reddit链接",
+      "text": "Reddit 是查看服务器列表的好地方，也可以在那里求助和展示你的建筑。"
+    }
+  ]
+}

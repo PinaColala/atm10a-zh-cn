@@ -1,0 +1,16 @@
+{
+  "name": "光明节装饰",
+  "icon": "merrymaking:dreidel",
+  "category": "merrymaking:hanukkah",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:dreidel"
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:dreidel",
+      "recipe2": "merrymaking:gelt"
+    }
+  ]
+}

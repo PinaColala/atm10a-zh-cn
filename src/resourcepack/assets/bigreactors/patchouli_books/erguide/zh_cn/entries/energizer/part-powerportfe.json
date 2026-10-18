@@ -1,0 +1,22 @@
+{
+  "name": "FE能量端口（被动）",
+  "icon": "bigreactors:energizerpowerport_fe",
+  "category": "bigreactors:energizer-parts",
+  "read_by_default": true,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:energizerpowerport_fe",
+      "link_recipe": true,
+      "title": "FE能量端口（被动）",
+      "text": "被动 FE 能量端口可以让你向充能器输入和从中提取能量。$(br2)任何兼容 Forge 能量的线缆或机器都可以连接到被动 FE 能量端口。连接的方块必须自行提取或输入能量。"
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "FE能量端口（被动）",
+      "crafting.recipe1": "bigreactors:energizer/powerport_fe",
+      "usage.text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面（不能在框架上）$(br)$(l)图形界面：$()是"
+    }
+  ]
+}

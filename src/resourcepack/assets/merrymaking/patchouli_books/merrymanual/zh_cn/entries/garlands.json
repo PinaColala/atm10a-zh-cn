@@ -1,0 +1,67 @@
+{
+  "name": "花环",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:garlands",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "花环与灯具极为相似。其摆放造型与经典/迷你灯具一致（封顶型除外，因水平型已适用于峰顶）。共提供三种样式：$(li)素色款 $(li)白色灯款 $(li)多彩灯款"
+    },
+    {
+      "type": "spotlight",
+      "title": "水平花环",
+      "item": "merrymaking:garland_horizontal",
+      "text": "水平花环可在角落内外自然连接，如同灯具一般。"
+    },
+    {
+      "type": "spotlight",
+      "title": "对角花环",
+      "item": "merrymaking:garland_lights_diagonal_left",
+      "text": "对角线花环在放置时会略微向下延伸，类似冰凌灯。此举旨在使它们彼此对齐效果更佳。"
+    },
+    {
+      "type": "spotlight",
+      "title": "竖直花环",
+      "item": "merrymaking:garland_vertical_right",
+      "text": "竖直花环将与方块的左侧或右侧对齐。"
+    },
+    {
+      "type": "spotlight",
+      "title": "竖直角花环",
+      "item": "merrymaking:garland_vertical_corner_multi_right",
+      "text": "竖直转角花环将在90度夹角处形成两段花环，分别与方块的左侧或右侧对齐。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "你将首先合成水平花环。$(br2)合成所需材料为3个云杉树叶与2张弓。$(br2)其余造型的花环同样需要模板，正如灯具所需。更多配方请继续阅读……"
+    },
+    {
+      "type": "crafting",
+      "title": "花环与蝴蝶结",
+      "recipe": "merrymaking:garland_horizontal",
+      "recipe2": "merrymaking:garland_horizontal_lights_multi"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "要制作亮灯版本的花环，请在工作台中将水平花环与你选择的“树形”灯具组合。$(br2)要制作其他造型，请在工作台中将3个花环与对应模板组合，具体如图所示："
+    },
+    {
+      "type": "crafting",
+      "title": "对角花环",
+      "recipe": "merrymaking:garland_diag_left",
+      "recipe2": "merrymaking:garland_lights_diag_right"
+    },
+    {
+      "type": "crafting",
+      "title": "竖直花环",
+      "recipe": "merrymaking:garland_vert_left",
+      "recipe2": "merrymaking:garland_multi_vert_right"
+    },
+    {
+      "type": "crafting",
+      "title": "竖直角花环",
+      "recipe": "merrymaking:garland_lights_vert_corner_right",
+      "recipe2": "merrymaking:garland_vert_corner_left"
+    }
+  ]
+}

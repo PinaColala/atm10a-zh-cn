@@ -1,0 +1,20 @@
+{
+  "name": "末地自动机核心",
+  "icon": "advancedperipherals:end_automata_core",
+  "category": "advancedperipherals:metaphysics",
+  "advancement": "advancedperipherals:weak_automata_core",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "末地自动机核心",
+      "item": "advancedperipherals:end_automata_core",
+      "text": "虚弱自动机核心吞噬10只末影人后，将转化为末地自动机核心！$(p)除作为更强大的虚弱自动机核心变体外，该灵魂似乎还赋予海龟有限的传送能力。"
+    },
+    {
+      "type": "link",
+      "text": "除继承虚弱自动机核心的能力外，该灵魂还可实现受限于世界的传送。看来你需要先存储传送点，再传送到这些位置！$(p)但请注意：一旦海龟被破坏，所有已存储的传送点都将丢失。",
+      "url": "https://docs.advanced-peripherals.de/metaphysics/end_automata/",
+      "link_text": "API 文档"
+    }
+  ]
+}

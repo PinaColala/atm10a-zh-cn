@@ -1,0 +1,16 @@
+{
+  "name": "蒸汽炉",
+  "icon": "railcraft:steam_oven",
+  "category": "railcraft:multiblock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "蒸汽炉是一种2×2×2尺寸的结构，当通入蒸汽后可自动为您烹煮物品。它能在短短256刻（即12.8秒）内同时烹煮最多9件物品！"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "蒸汽炉",
+      "multiblock_id": "railcraft:steam_oven"
+    }
+  ]
+}

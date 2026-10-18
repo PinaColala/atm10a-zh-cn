@@ -1,0 +1,23 @@
+{
+  "name": "外观面板",
+  "icon": "xnet:facade",
+  "category": "rftoolsbase:category_xnet_simple",
+  "extra_recipe_mappings": {
+    "xnet:facade": 0
+  },
+  "sortnum": 40,
+  "pages": [
+    {
+      "type": "text",
+      "text": "伪装块通过模拟其他方块外观来遮蔽XNet线缆。对目标方块使用伪装块物品以复制其外观，随后将其覆盖于XNet线缆之上。"
+    },
+    {
+      "type": "text",
+      "text": "连接器亦可通过伪装块隐藏。破坏伪装块即可显露或恢复其后方的线缆布局。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:facade"
+    }
+  ]
+}

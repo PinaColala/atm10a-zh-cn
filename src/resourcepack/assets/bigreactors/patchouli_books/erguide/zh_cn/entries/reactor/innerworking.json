@@ -1,0 +1,17 @@
+{
+  "name": "内部结构",
+  "icon": "bigreactors:basic_reactorfuelrod",
+  "category": "bigreactors:reactor",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "反应堆是如何$(l:bigreactors/passive)产生能量$(/l)或$(l:bigreactors/active)汽化冷却液$(/l)的呢？$(br2)靠的是热量。$(br2)被辐照的$(l:bigreactors/reactants)燃料$(/l)会升温，$(l:bigreactors/moderators)慢化剂$(/l)会吸收部分辐射，并将热量从$(l:bigreactors/part-fuelrod)燃料棒$(/l)带走，传递到$(l:bigreactors/part-casing)机壳$(/l)。$(br2)机壳热量最终会用来产生能量或汽化$(l:bigreactors/coolantsystem)冷却液$(/l)。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "将热量从$(l:bigreactors/part-fuelrod)燃料棒$(/l)中带走，是反应堆设计中非常重要的一环，而$(l:bigreactors/moderators)慢化剂$(/l)在其中扮演着关键角色。还需要提到的是，辐射会沿着与$(l:bigreactors/part-fuelrod)燃料棒$(/l)柱轴线垂直的所有方向传播。$(br2)$(italic)请注意，虽然这个说法已经足够接近真实情况，能让你建造出尽可能优秀的反应堆，但它仍然只是对反应堆内部实际过程的一种简化说明。$()"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "传送带升级",
+  "icon": "industrialforegoing:conveyor_extraction_upgrade",
+  "category": "industrialforegoing:transport",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:conveyor_extraction_upgrade",
+      "title": "精炼",
+      "text": "从容器中提取物品与流体。亦可从玩家物品栏中提取。$(br2)需提取的物品与流体可在GUI中设置过滤条件。"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:conveyor_insertion_upgrade",
+      "title": "注入",
+      "text": "向容器中插入物品和流体。它有 2 种模式：插入接触传送带的物品，或插入直接接触升级模块的物品。$(br2)需要插入的物品和流体都可以在 GUI 中进行过滤。"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:conveyor_detection_upgrade",
+      "title": "侦测",
+      "text": "检测位于传送带上方的物品和实体。$(br2)需要检测的物品和实体都可以在 GUI 中进行过滤。实体可以通过装有该实体的御币进行过滤。"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:conveyor_bouncing_upgrade",
+      "title": "弹性",
+      "text": "将位于传送带上方的物品与实体弹射出去。弹射的垂直与水平强度可在GUI中调节。$(br2)需弹射的物品与实体可在GUI中设置过滤条件。实体可通过内置对应实体的MIB进行过滤。"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:conveyor_dropping_upgrade",
+      "title": "投下",
+      "text": "将位于传送带上方的物品与实体直接向下丢弃。$(br2)需丢弃的物品与实体可在GUI中设置过滤条件。实体可通过内置对应实体的MIB进行过滤。"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:conveyor_blinking_upgrade",
+      "title": "闪现",
+      "text": "将位于传送带上方的物品与实体进行传送。传送的垂直与水平距离可在GUI中调节。$(br2)需传送的物品与实体可在GUI中设置过滤条件。实体可通过内置对应实体的MIB进行过滤。"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:conveyor_splitting_upgrade",
+      "title": "拆分",
+      "text": "按GUI中设定的比例，将位于传送带上方的物品与实体进行拆分。所有需要分配的方向均需安装对应的升级卡。"
+    }
+  ]
+}

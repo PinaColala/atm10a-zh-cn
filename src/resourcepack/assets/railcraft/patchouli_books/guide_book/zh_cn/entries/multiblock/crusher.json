@@ -1,0 +1,16 @@
+{
+  "name": "粉碎机",
+  "icon": "railcraft:crusher",
+  "category": "railcraft:multiblock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "粉碎机是一种3×2×2尺寸的结构，用于加工各类材料。该粉碎机由12块特殊方块构成，原料为钢块、活塞与钻石。若将其拆除，重建一台粉碎机需消耗3个钢块、12个活塞与12颗钻石。粉碎机之间不可相邻建造——两台粉碎机间至少需间隔一格空间。"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "粉碎机",
+      "multiblock_id": "railcraft:crusher"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Forge能量接口",
+  "icon": "bigreactors:reinforced_turbinepowertapfe_active",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbinepowertapfe_active",
+      "link_recipe": true,
+      "title": "Forge能量接口",
+      "text": "Forge Energy 能量输出端口允许你从涡轮机中提取能量。$(br2)顾名思义，这个能量输出端口使用 Forge Energy $(l:bigreactors:misc/powersystem)供能系统$(/l)输出能量，因此它只能连接到兼容该系统的管道或机器。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每台涡轮机只能使用一种$(l:bigreactors:misc/powersystem)供能系统$(/l)，因此在建造单台涡轮机时也只能使用一种类型的能量输出端口。$(br2)能量输出端口同时提供$(l:bigreactors:misc/passiveactiveparts)被动和主动$(/l)两种形式。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础（被动）",
+      "recipe1": "bigreactors:turbine/basic/passivetap_fe",
+      "title2": "强化（被动）",
+      "recipe2": "bigreactors:turbine/reinforced/passivetap_fe"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础（主动）",
+      "recipe1": "bigreactors:turbine/basic/activetap_fe",
+      "title2": "加固 (主动)",
+      "recipe2": "bigreactors:turbine/reinforced/activetap_fe"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面（不能在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()否$(br)$(l)供能系统：$()Forge Energy"
+    }
+  ]
+}

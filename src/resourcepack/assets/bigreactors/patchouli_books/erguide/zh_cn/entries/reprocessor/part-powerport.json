@@ -1,0 +1,22 @@
+{
+  "name": "能量端口",
+  "icon": "bigreactors:reprocessorpowerport",
+  "category": "bigreactors:reprocessor-parts",
+  "read_by_default": true,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reprocessorpowerport",
+      "link_recipe": true,
+      "title": "能量端口",
+      "text": "能量端口允许你为再处理器提供运行所需的能量。$(br2)任何兼容 Forge Energy 的电缆或发电机都可以连接到能量端口。"
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "能量端口",
+      "crafting.recipe1": "bigreactors:reprocessor/powerport",
+      "usage.text": "$(l)必需：$()需要且只能有一个$(br)$(l)有效位置：$()任意垂直面上（不在框架上）$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "门控轨道",
+  "icon": "railcraft:iron_gated_track",
+  "category": "railcraft:tracks",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "此类铁轨同时具备栅栏门功能，既可手动开关，也可通过红石控制。$(br)单向门将矿车强力推过门体，以防止周围生物将其向后推挤。"
+    }
+  ]
+}

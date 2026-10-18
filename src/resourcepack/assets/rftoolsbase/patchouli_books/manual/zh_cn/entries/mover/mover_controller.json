@@ -1,0 +1,19 @@
+{
+  "name": "传运器控制器",
+  "icon": "rftoolsbuilder:mover_controller",
+  "category": "rftoolsbase:category_rftoolsbuilder_mover",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:mover_controller": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "传运器控制器用于连接多个传运器。将其放置于一台传运器旁，再使用它查找其他已连接的传运器。"
+    },
+    {
+      "type": "text",
+      "text": "当两个传运器在正交方向（上下左右）距离彼此128格以内时，即视为已连接。"
+    }
+  ]
+}

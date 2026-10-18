@@ -1,0 +1,18 @@
+{
+  "name": "位移模块",
+  "icon": "mffs:translation_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:translation_module",
+      "link_recipe": true,
+      "text": "$(5)位移模块$()可被置入$(l:mffs:machines/projector)力场投影仪$()的力场插槽中，以偏移投射力场的位置。您可通过在对应方向的力场插槽中放置$(5)位移模块$()，使力场沿各方向移动。每个模块可使力场移动1个方块。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:translation_module",
+      "text": "合成$(5)位移模块$()。"
+    }
+  ]
+}

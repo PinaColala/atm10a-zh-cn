@@ -1,0 +1,17 @@
+{
+  "name": "建造方法",
+  "icon": "bigreactors:fluidizersolidinjector",
+  "category": "bigreactors:fluidizer",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "text",
+      "text": "流化器是一种由机壳方块和其他设备部件混合搭建而成的 3x3x3（最小尺寸）机器。$(br)机器所有面都可以用玻璃替代机壳方块（但框架不能替代）。$(br2)请查看各个流化器部件页面，了解每个部件可放置位置的限制。"
+    },
+    {
+      "type": "zcmultiblock",
+      "multiblock_id": "bigreactors:bookfluidizer"
+    }
+  ]
+}

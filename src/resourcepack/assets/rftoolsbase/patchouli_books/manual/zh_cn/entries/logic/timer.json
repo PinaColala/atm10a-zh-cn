@@ -1,0 +1,18 @@
+{
+  "name": "定时触发器",
+  "icon": "rftoolsutility:timer",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:timer": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "计时器是一个简单的门电路，会重复发送红石脉冲。你可以输入任意延迟值，因此它也可用于非常长的超时设置。"
+    },
+    {
+      "type": "text",
+      "text": "这个计时器的特别之处在于，当它自己的输入端收到红石脉冲时，它会重新开始计时。因此，如果输入脉冲足够及时，这个方块就永远不会自行输出脉冲。利用这个特性，这个方块可用于检测某项活动是否已经超时。"
+    }
+  ]
+}

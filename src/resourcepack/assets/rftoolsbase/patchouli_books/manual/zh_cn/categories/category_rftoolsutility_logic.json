@@ -1,0 +1,7 @@
+{
+  "name": "逻辑方块",
+  "description": "逻辑方块主要用于产生红石信号并对其作出反应",
+  "parent": "rftoolsbase:category_rftoolsutility",
+  "icon": "rftoolsutility:sequencer",
+  "sortnum": 30
+}

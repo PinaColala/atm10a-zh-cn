@@ -1,0 +1,27 @@
+{
+  "name": "玻璃",
+  "icon": "bigreactors:reinforced_turbineglass",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbineglass",
+      "link_recipe": true,
+      "title": "玻璃",
+      "text": "玻璃方块是装饰性方块，可以替代$(l:bigreactors:turbine/part-casing)机壳$(/l)方块使用，用来展示涡轮机内部结构。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:turbine/basic/glass",
+      "title2": "加固",
+      "recipe2": "bigreactors:turbine/reinforced/glass"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面上（不在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

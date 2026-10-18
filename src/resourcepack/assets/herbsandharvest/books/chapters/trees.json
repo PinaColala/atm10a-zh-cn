@@ -1,0 +1,117 @@
+{
+  "pages": [ 
+
+		{
+			"type": "standard",
+
+			"summary": "香草与丰收为游戏加入了 8 种果树。\n\n选择下面的条目了解详情：",
+
+			"sub_sections": [
+				{
+					"title": "herbsandharvest.guide_book.trees.info",
+					"target_page": 1
+				},
+				{
+					"title": "herbsandharvest.guide_book.trees.list",
+					"target_page": 2
+				}
+				
+			],
+
+			"elements": [
+				{
+					"type": "image",
+					"image_path": "textures/gui/guide/chapters/trees/trees.png",
+					"caption": "herbsandharvest.guide_book.chapters.trees.trees_caption",
+					"image_width": 110,
+					"image_height": 62
+				},
+
+				{
+					"type": "text",
+					"literal_text": "",
+					"text": null
+				}
+			]
+		  
+		},
+		
+		{
+			"type": "standard",
+
+			"title": "herbsandharvest.guide_book.trees.info",
+
+			"summary": "果树树冠呈圆形，叶片深绿。\n\n它们几乎在主世界的每个生物群系里都会自然生长。",
+
+			"elements": [
+			 
+				{
+				  "type": "text",
+				  "literal_text": "果树的叶子会不断结果，用骨粉可以加快结果。\n\n果树树苗能在主世界的箱子里找到，也可以栽进花盆。",
+				  "text": null
+				}
+			 
+			]
+		  
+		},
+		
+	  	 {
+		  "type": "standard",
+
+		  "title": "herbsandharvest.guide_book.trees.list",
+		  
+		  "summary": "",
+
+		  "elements": [
+				{
+				"type": "icon_list",
+				"entries": [
+					  {
+						"item": "herbsandharvest:avocado_fruit_sapling",
+						"text": "guide.herbsandharvest.avocado_sap_desc"
+					  },
+					  {
+						"item": "herbsandharvest:cherry_fruit_sapling",
+						"text": "guide.herbsandharvest.cherry_sap_desc"
+					  },
+					  {
+						"item": "herbsandharvest:lemon_fruit_sapling",
+						"text": "guide.herbsandharvest.lemon_sap_desc"
+					  },
+					  {
+						"item": "herbsandharvest:lime_fruit_sapling",
+						"text": "guide.herbsandharvest.lime_sap_desc"
+					  },
+					  {
+						"item": "herbsandharvest:orange_fruit_sapling",
+						"text": "guide.herbsandharvest.orange_sap_desc"
+					  },
+					  {
+						"item": "herbsandharvest:peach_fruit_sapling",
+						"text": "guide.herbsandharvest.peach_sap_desc"
+					  },
+					  {
+						"item": "herbsandharvest:pear_fruit_sapling",
+						"text": "guide.herbsandharvest.pear_sap_desc"
+					  },
+					  {
+						"item": "herbsandharvest:plum_fruit_sapling",
+						"text": "guide.herbsandharvest.plum_sap_desc"
+					  }
+					  
+					]
+		}
+		
+      ]
+    }
+	  
+	
+	]
+}
+	
+
+	
+
+	
+	
+	

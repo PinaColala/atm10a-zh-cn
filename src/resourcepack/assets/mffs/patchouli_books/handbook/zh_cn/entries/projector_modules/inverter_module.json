@@ -1,0 +1,18 @@
+{
+  "name": "反转模块",
+  "icon": "mffs:inverter_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:inverter_module",
+      "link_recipe": true,
+      "text": "$(5)反转模块$()可被置入$(l:mffs:machines/projector)力场投影仪$()的矩阵插槽中，将投射形状内外翻转，从而生成一个实体填充型力场区域。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:inverter_module",
+      "text": "合成$(5)反转模块$()。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "电脑端口",
+  "icon": "bigreactors:reinforced_reactorcomputerport",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorcomputerport",
+      "link_recipe": true,
+      "title": "电脑端口",
+      "text": "计算机端口可以让你将反应堆连接到计算机上，以执行复杂的自动化任务。$(br2)连接的计算机会获得一组标准方法，你可以用它们来查询反应堆状态并控制其行为。"
+    },
+    {
+      "type": "crafting-text",
+      "text": "要使用计算机端口，你需要安装一个能为游戏添加可编程计算机的外部模组。$(br2)目前唯一受支持（且可用）的这类模组是 CC。",
+      "title": "加固",
+      "recipe": "bigreactors:reactor/reinforced/computerport"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面上（不在框架上）$(br)$(l)变种：$()强化$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

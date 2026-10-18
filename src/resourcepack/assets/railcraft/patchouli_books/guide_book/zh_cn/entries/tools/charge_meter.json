@@ -1,0 +1,11 @@
+{
+  "name": "电表",
+  "icon": "railcraft:charge_meter",
+  "category": "railcraft:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "电表是铁路模组（Railcraft）提供的工具，用于测量各类使用或传输铁路电荷的机器、导线及轨道中的电荷值，包括电力机车、电力馈电单元及各类电力轨道。它会记录5秒周期内的网络使用情况。"
+    }
+  ]
+}

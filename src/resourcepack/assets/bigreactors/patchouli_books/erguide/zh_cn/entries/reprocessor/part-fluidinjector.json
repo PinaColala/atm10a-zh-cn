@@ -1,0 +1,22 @@
+{
+  "name": "流体注入器",
+  "icon": "bigreactors:reprocessorfluidinjector",
+  "category": "bigreactors:reprocessor-parts",
+  "read_by_default": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "bigreactors:reprocessorfluidinjector",
+      "link_recipe": true,
+      "title": "流体注入器",
+      "text": "流体注入器允许你向再处理器中注入再处理废料所需的流体。$(br2)不同类型的废料可能需要不同的流体。"
+    },
+    {
+      "type": "crafting-part_usage",
+      "crafting.title1": "流体注入器",
+      "crafting.recipe1": "bigreactors:reprocessor/fluidinjector",
+      "usage.text": "$(l)必需：$()需要且只能有一个$(br)$(l)有效位置：$()任意垂直面上（不在框架上）$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+原 ATM10 汉化：星野夢華（Hoshino Yumeka），https://github.com/chiba233/atm10-zh-cn
+基础发布：r27-beta1 / ATM10 8.2。
+社区译文：CFPAOrg / Minecraft-Mod-Language-Package，CC BY-NC-SA 4.0。
+航空版整合包：AllTheMods / ATM-10-a，基准 ATM10AERO 0.7.1。
+新增适配：航空版任务与附属译文、两端一致性、插图补全、拼接文本修复与安装器。
+此仓库是第三方衍生适配，不是原汉化作者或 AllTheMods 团队的官方发布。
+
+VaultPatcher 作者：FengMing3093，GPL-3.0-only。
+官方发布：https://github.com/3093FengMing/VaultPatcher/releases/tag/1.5.3-fix-all
+对应源码：https://github.com/3093FengMing/VaultPatcher/tree/1.5.3-fix-all
+发布 JAR SHA-256：d79668dd66f3edeffa347917ba10ff7930c9d09788aa86528d4af6514fc6af52
+未修改的官方二进制及完整对应源码压缩包同时提供在 third_party/vaultpatcher/。
+离线验证使用 ASM、Gson、fastutil；测试依赖不随汉化安装到游戏。
+
+译文：CC BY-NC-SA 4.0（署名、非商业性使用、相同方式共享）。
+安装器、构建和测试代码：GPL-3.0-or-later；第三方许可证保持各自原有声明。
+AllTheMods 的脚本代码与模组原始配方定义不随此仓库或发布包分发，安装时读取用户本地副本。
+本仓库不包含整合包本体、游戏存档、认证信息、用户配置备份或服务器地址。

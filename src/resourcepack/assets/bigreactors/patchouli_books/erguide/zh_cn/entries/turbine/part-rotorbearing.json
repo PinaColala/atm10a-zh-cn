@@ -1,0 +1,27 @@
+{
+  "name": "转子轴承",
+  "icon": "bigreactors:reinforced_turbinerotorbearing",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbinerotorbearing",
+      "link_recipe": true,
+      "title": "转子轴承",
+      "text": "转子轴承是你的涡轮机$(l:bigreactors:turbine/rotor)转子$(/l)组件的底座。$(br2)它必须放置在涡轮机的某个面上，通常位于中央位置，后面还必须接上一些$(l:bigreactors:turbine/part-rotorshaft)转子轴$(/l)方块。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:turbine/basic/bearing",
+      "title2": "加固",
+      "recipe2": "bigreactors:turbine/reinforced/bearing"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()需要且只能有一个$(br)$(l)有效位置：$()任意面上（不在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

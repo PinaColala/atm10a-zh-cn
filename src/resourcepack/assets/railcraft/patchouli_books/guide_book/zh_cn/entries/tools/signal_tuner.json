@@ -1,0 +1,11 @@
+{
+  "name": "信号调谐器",
+  "icon": "railcraft:signal_tuner",
+  "category": "railcraft:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "此电子频率扫描仪用于将控制器与接收器配对。启动配对时，只需右键点击控制器；完成后，请移至您希望配对的接收器并同样右键点击。若配对成功，屏幕将显示相应提示信息。您也可通过右键点击控制器或接收器，清除现有配对关系。"
+    }
+  ]
+}

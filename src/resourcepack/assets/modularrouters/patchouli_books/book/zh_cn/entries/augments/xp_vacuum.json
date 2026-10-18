@@ -1,0 +1,19 @@
+{
+  "name": "经验吸收拓展",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:xp_vacuum_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个增强件只能添加到$(l:modules/vacuum)虚空模块/$。$(p)添加该增强件后，虚空模块吸收的将不再是物品，而是经验球。经验球会按每瓶 7XP 的比例转换成$(item)附魔之瓶/$（这正是打碎一瓶附魔之瓶平均获得的经验值）。"
+    },
+    {
+      "type": "text",
+      "text": "根据安装的其他模组不同，也可能可以将经验球转换为经验流体。这要求路由器缓冲区中有一个含流体的储罐物品，或者该储罐与路由器相邻。若是后一种情况，请确保虚空模块 GUI 中的$(bold)弹出/$按钮已启用。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:xp_vacuum_augment"
+    }
+  ]
+}

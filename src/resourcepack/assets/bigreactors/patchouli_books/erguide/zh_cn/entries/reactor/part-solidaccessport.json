@@ -1,0 +1,31 @@
+{
+  "name": "固体访问端口",
+  "icon": "bigreactors:reinforced_reactorsolidaccessport",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorsolidaccessport",
+      "link_recipe": true,
+      "title": "固体访问端口",
+      "text": "固体访问端口会将固体材料（通常是锭）转换为燃料反应物，用来填充你的$(l:bigreactors:reactor/part-fuelrod)燃料棒$(/l)并为反应堆供能。$(br2)你可以在图形界面中设置端口模式：在$(bold)入口模式$()下，端口会接收燃料源材料；在$(bold)出口模式$()下，它会输出废料。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "你可以使用$(l:bigreactors:misc/wrench)扳手$(/l)切换端口模式。$(br2)图形界面也可用于手动插入和提取材料。$(br2)固体访问端口是向反应堆添加燃料的快捷方案，但就像所有快捷方案一样，它并不完美，少量材料损耗是无法避免的。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:reactor/basic/solidaccessport",
+      "title2": "加固",
+      "recipe2": "bigreactors:reactor/reinforced/solidaccessport"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()否，但无论如何你都需要几个$(br)$(l)有效位置：$()任意面（不能在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()是$(br)$(l)扳手：$()可以使用$(l:bigreactors:misc/wrench)扳手$(/l)切换端口模式。"
+    }
+  ]
+}

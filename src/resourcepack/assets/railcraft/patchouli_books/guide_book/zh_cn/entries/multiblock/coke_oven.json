@@ -1,0 +1,20 @@
+{
+  "name": "焦炉",
+  "icon": "railcraft:coke_oven_bricks",
+  "category": "railcraft:multiblock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "焦炉是一种3×3×3尺寸的砖砌结构，中间为空心，用于将煤炭炼制成焦煤，或将原木烧制成木炭，同时副产杂酚油。$(br2)该烤炉由26块特殊砖块构成，原料为红砖与沙子。若将其拆除，重建一座焦炉需消耗104份粘土与130份沙子。焦炉之间不可相邻建造，两座焦炉间至少需间隔一格空间。"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "焦炉",
+      "multiblock_id": "railcraft:coke_oven"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "焦煤炉可储存64,000单位杂酚油，这些油可通过桶或玻璃瓶提取并储存。每个桶或玻璃瓶最多可容纳1,000单位杂酚油。装满的桶无法堆叠，而装满的玻璃瓶可以。$(br2)将煤炭炼制成焦煤的过程较为缓慢。若您计划铺设大量轨道，建议建造多座焦炉。"
+    }
+  ]
+}

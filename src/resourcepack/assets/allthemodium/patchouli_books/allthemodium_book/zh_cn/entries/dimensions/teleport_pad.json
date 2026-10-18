@@ -1,0 +1,16 @@
+{
+  "name": "传送垫",
+  "icon": "allthemodium:teleport_pad",
+  "category": "allthemodium:dimensions",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "crafting",
+      "recipe": "allthemodium:teleport_pad"
+    },
+    {
+      "type": "text",
+      "text": "传送垫可用于传送到 $(l:dimensions/miningdim)采矿维度$(/c) 和 $(l:dimensions/otherdim)异界$(/c)，你需要在主手和副手都为空的情况下按住 Shift 右键点击。$(br2)另外需要注意的是，$(l:dimensions/miningdim)采矿维度$(/c) 在 ATM6: To The Sky 整合包中已被禁用"
+    }
+  ]
+}

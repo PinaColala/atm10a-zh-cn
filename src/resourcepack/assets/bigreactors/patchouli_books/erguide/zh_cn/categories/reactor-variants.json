@@ -1,0 +1,7 @@
+{
+  "name": "变种",
+  "description": "反应堆部件有不同的变体，接下来的页面会分别进行说明。$(br2)某些反应堆部件可能不适用于特定变体，因为该变体的功能无法支持它们。",
+  "icon": "bigreactors:basic_reactorpowertapfe_active",
+  "parent": "bigreactors:reactor",
+  "sortnum": 2
+}

@@ -1,0 +1,23 @@
+{
+  "name": "丑圣诞盔甲生物",
+  "icon": "merrymaking:mob_in_hat_item",
+  "category": "merrymaking:mobs",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:red_santa_hat",
+      "text": "各类僵尸与骷髅、苦力怕，甚至僵尸猪灵，都正通过身着丑毛衣与圣诞老人帽子展现节日精神！$(br2)穿戴该盔甲的怪物有一定几率掉落盔甲部件。"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/zombie_sweater.png"
+      ],
+      "text": "一位身着丑毛衣的僵尸。他已准备好狂欢啦！"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "注意：此功能支持自定义，可在配置文件中禁用。$(br2)丑毛衣盔甲的怪物掉落也可在配置文件中禁用。"
+    }
+  ]
+}

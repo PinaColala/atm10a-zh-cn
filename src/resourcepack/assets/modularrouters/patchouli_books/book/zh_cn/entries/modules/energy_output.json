@@ -1,0 +1,15 @@
+{
+  "name": "能量输出模块",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:energy_output_module",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个模块会尝试将 FE（Forge Energy）从路由器输出到其设定方向上的相邻受能方块。模块既可以从路由器内部能量缓冲区提取能量（如果安装了$(l:upgrades/energy)能量升级/$），也可以从路由器物品缓冲区中的储能物品提取能量。优先使用内部能量缓冲区。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:energy_output_module"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "控制器",
+  "icon": "bigreactors:reinforced_reactorcontroller",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorcontroller",
+      "link_recipe": true,
+      "title": "控制器",
+      "text": "控制器是你操作反应堆的主要界面。$(br2)右键点击控制器即可打开它的图形界面，你可以在其中开启或关闭反应堆、查看燃料棒中有多少反应物、反应堆有多热，等等。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "根据反应堆的运行模式不同，你还可以查看$(l:bigreactors/passive)被动冷却$(/l)反应堆的内部能量缓冲状态和产能比率，或查看$(l:bigreactors/active)主动冷却$(/l)反应堆中的冷却液与蒸汽数量。$(br2)如果你将鼠标悬停在界面中的某个控件上，就会显示一个提示框，提供该控件的额外信息或说明文字。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:reactor/basic/controller_ingots_yellorium",
+      "title2": "加固",
+      "recipe2": "bigreactors:reactor/reinforced/controller_ingots_yellorium"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()至少需要一个$(br)$(l)有效位置：$()任意面（不能在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()是"
+    }
+  ]
+}

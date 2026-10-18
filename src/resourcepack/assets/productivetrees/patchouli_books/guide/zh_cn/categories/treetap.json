@@ -1,0 +1,6 @@
+{
+  "name": "木龙头兼容性",
+  "description": "该模组兼容树龙头模组，从而可提取更多种类的树木产物。",
+  "icon": "treetap:tap",
+  "flag": "mod:treetap"
+}

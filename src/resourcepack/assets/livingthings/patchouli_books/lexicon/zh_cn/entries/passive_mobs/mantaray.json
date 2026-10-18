@@ -1,0 +1,20 @@
+{
+  "name": "蝠鲼",
+  "icon": "livingthings:mantaray_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种形似在海中飞翔的水生动物。$(br2)$(bold)生命值：$()5颗心$(br2)$(bold)掉落物：$()$(li)1–2个生鳕鱼"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:mantaray",
+      "rotate": false,
+      "scale": 0.8,
+      "default_rotation": 37,
+      "offset": -0.1,
+      "text": "可在所有$(bold)海洋$()生物群系中找到。"
+    }
+  ]
+}

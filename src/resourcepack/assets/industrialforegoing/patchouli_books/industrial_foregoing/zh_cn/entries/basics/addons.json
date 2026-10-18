@@ -1,0 +1,33 @@
+{
+  "name": "附件",
+  "icon": "industrialforegoing:range_addon11",
+  "category": "industrialforegoing:basics",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:range_addon_tier_11",
+      "title": "范围",
+      "text": "提升具有工作区域之机器的作用范围；但并非所有机器均支持范围升级卡。每级升级使范围增加1格。"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:speed_addon_tier_2",
+      "title": "速度",
+      "text": "提升进度条每刻所推进的数值。$(br2)等级一 → +1$(br)等级二 → +2"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:efficiency_addon_tier_2",
+      "title": "效率",
+      "text": "减少完成一次操作所需的刻数。$(br2)等级一 → -10%$(br)等级二 → -20%"
+    },
+    {
+      "type": "spotlight",
+      "item": "industrialforegoing:processing_addon_tier_2",
+      "title": "处理",
+      "text": "增加机器完成处理时执行的操作次数。$(br2)1 级 -> +1 次操作 $(br)2 级 -> +2 次操作"
+    }
+  ]
+}

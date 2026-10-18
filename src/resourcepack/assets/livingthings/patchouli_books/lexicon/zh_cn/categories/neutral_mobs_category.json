@@ -1,0 +1,6 @@
+{
+  "name": "中立生物",
+  "description": "这些生物仅会在你率先攻击它们时进行自卫！",
+  "icon": "minecraft:writable_book",
+  "sortnum": 1
+}

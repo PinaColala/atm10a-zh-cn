@@ -1,0 +1,27 @@
+{
+  "name": "模块化存储器",
+  "icon": "rftoolsstorage:modular_storage",
+  "category": "rftoolsbase:category_rftoolsstorage_modularstorage",
+  "extra_recipe_mappings": {
+    "rftoolsstorage:modular_storage": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "模块化存储器是一种支持搜索的存储方块。插入$(l:rftoolsbase:modularstorage/storagemodules)存储模块$(/l)以定义其可容纳的物品堆叠数量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:modular_storage"
+    },
+    {
+      "type": "text",
+      "text": "该方块将物品存于模块内，因此模块在移动时可保留其内容。更高阶模块可解锁更大的物品栏容量。"
+    },
+    {
+      "type": "text",
+      "text": "通过GUI可执行搜索、排序、压缩及循环切换可见物品栏尺寸等操作。模块插槽则控制实际存储容量。"
+    }
+  ]
+}

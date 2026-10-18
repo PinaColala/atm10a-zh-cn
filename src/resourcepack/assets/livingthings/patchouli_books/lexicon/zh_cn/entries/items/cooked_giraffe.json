@@ -1,0 +1,16 @@
+{
+  "name": "烤长颈鹿肉",
+  "icon": "livingthings:cooked_giraffe",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)可通过冶炼生长颈鹿肉获得"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:cooked_giraffe",
+      "text": "$(br)$(bold)用途：$()$(li)可食用"
+    }
+  ]
+}

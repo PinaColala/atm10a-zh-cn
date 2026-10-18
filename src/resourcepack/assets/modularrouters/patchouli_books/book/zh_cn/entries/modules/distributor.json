@@ -1,0 +1,19 @@
+{
+  "name": "分配模块",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:distributor_module",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这是 $(l:modules/sender_2)发送模块 Mk2/$ 的扩展版本，可以将物品发送到多个目标。$(thing)潜行右击/$一个容器以将其添加到分配模块中，再次对该容器执行 $(thing)潜行右击/$ 可将其移除。$(p)分配模块最多可以分配到 8 个目标。"
+    },
+    {
+      "type": "text",
+      "text": "右侧的 GUI 控件还能提供一些额外的分配策略控制：$(li)$(bold)轮询/$ - 依次向各个容器分配，尽可能平均$(li)$(bold)随机/$ - 随机挑选一个目标$(li)$(bold)最近/$ - 总是优先填充最近且有空间容纳该物品的目标$(li)$(bold)最远/$ - 总是优先填充最远且有空间容纳该物品的目标"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:distributor_module"
+    }
+  ]
+}

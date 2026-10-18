@@ -1,0 +1,7 @@
+{
+  "name": "再处理器部件",
+  "description": "再处理器由以下部件构成。$(br2)除玻璃外，所有部件都是必需的；玻璃可以在机器四个垂直面上替代外壳方块使用。",
+  "icon": "bigreactors:reprocessorcontroller",
+  "parent": "bigreactors:reprocessor",
+  "sortnum": 5
+}

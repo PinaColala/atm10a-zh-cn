@@ -1,0 +1,17 @@
+{
+  "name": "钓鱼机",
+  "icon": "industrialforegoing:marine_fisher",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "猫咪最好的朋友 <3$(br2)当放置在一个至少为 $(6)3x3$()、深 $(6)1$() 格的 $(6)水池$() 上方时，它会开始$(6)钓鱼$()，并将钓到的鱼（也许还有别的东西？）放入内部容器中，每次操作消耗 $(6)5000$()RF。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:marine_fisher"
+    }
+  ]
+}

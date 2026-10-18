@@ -1,0 +1,11 @@
+{
+  "name": "高速推进轨道",
+  "icon": "railcraft:high_speed_booster_track",
+  "category": "railcraft:tracks",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "此类铁轨在充能时可将矿车加速至高速，未充能时则使其减速并维持普通矿车速度。$(br2)您需使用此类轨道或高速过渡轨道，才能达到高速轨道所允许的最高速度。"
+    }
+  ]
+}

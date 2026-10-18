@@ -1,0 +1,130 @@
+{
+  "pages": [ 
+ 
+    {
+      "type": "standard",
+
+     
+
+      "summary": "食品储藏室更新加入了若干新物品。选择下面的条目了解详情：",
+
+      "sub_sections": [
+       
+        {
+          "title": "herbsandharvest.guide_book.items.rennet",
+          "target_page": 1
+        },
+        {
+          "title": "herbsandharvest.guide_book.items.salt",
+          "target_page": 2
+        },
+		
+        {
+          "title": "herbsandharvest.guide_book.items.spices",
+          "target_page": 3
+        }
+		
+      ],
+
+      	"elements": [
+				{
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/items/rennet.png",
+				  "caption": "herbsandharvest.guide_book.chapters.items.rennet_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				}
+			]
+    },
+
+
+	 
+
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.items.rennet",
+
+		  "summary": "凝乳酶由蓟制成，用于制作奶酪。",
+
+		  "elements": [
+				{
+					"type": "icon_list",
+					"entries": [
+						 
+						 {
+							"item": "herbsandharvest:rennet",
+							"text": "guide.herbsandharvest.rennet_desc"
+						  }
+					]
+				},
+				{
+				  "type": "text",
+				  "literal_text": "\n奶下锅后要**立刻**把它加进去。\n\n凝乳酶加得太晚，奶就会变成奶油。",
+				  "text": null
+				}
+		  ]
+
+	  },
+	  
+	  	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.items.salt",
+
+		  "summary": "盐盆装满后晒干，就会产出盐。",
+
+		  "elements": [
+				{
+					"type": "icon_list",
+					"entries": [
+						 
+						 {
+							"item": "herbsandharvest:salt",
+							"text": "guide.herbsandharvest.salt_desc"
+						  }
+					]
+				},
+				{
+				  "type": "text",
+				  "literal_text": "\n盐用于奶酪制作的收尾一步，香草与丰收里的许多食物配方也要用到它。",
+				  "text": null
+				}
+		  ]
+
+	  },
+	  
+	   
+	  
+	  	
+	  
+	  	{
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.items.spices",
+
+		  "summary": "香草与丰收里所有的新鲜香草都可以合成为「碎」香草，胡椒可以合成为研磨香料。",
+
+		  "elements": [
+				{
+					"type": "icon_list",
+					"entries": [
+						 
+						 {
+							"item": "herbsandharvest:chopped_parsley",
+							"text": "guide.herbsandharvest.chopped_parsley_desc"
+						  }
+					]
+				},
+			 
+				{
+				  "type": "text",
+				  "literal_text": "\n洋葱和大蒜可以做成「末」，肉桂和姜可以做成「粉」。\n\n这些香草香料，连同盐和糖，都能装进小香料罐里。",
+				  "text": null
+				}
+		  ]
+
+	  }
+	  
+	
+  ]
+}

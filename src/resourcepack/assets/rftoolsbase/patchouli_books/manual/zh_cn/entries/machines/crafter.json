@@ -1,0 +1,20 @@
+{
+  "name": "合成器",
+  "icon": "rftoolsutility:crafter3",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:crafter1": 0,
+    "rftoolsutility:crafter2": 0,
+    "rftoolsutility:crafter3": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "自动合成机可用于自动合成方块和物品。最高阶版本支持最多 8 种不同配方。$(br2)它有 26 个输入槽（用于原料）和 4 个输出槽。"
+    },
+    {
+      "type": "text",
+      "text": "可以使用 R 键$(l)记住$()槽位中的内容。这样一来，输入槽或输出槽中就只能包含该特定物品。使用 F 键可再次忘记此设置$(br2)$(5)对$()这台机器进行注魔$(br2)可以降低能耗$(l:rftoolsbase:tools/filtermodule)该合成器支持$(/l)存储过滤模块"
+    }
+  ]
+}

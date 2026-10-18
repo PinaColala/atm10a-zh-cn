@@ -1,0 +1,15 @@
+{
+  "name": "便携式计算机附件",
+  "icon": "computercraft:pocket_computer_advanced",
+  "category": "advancedperipherals:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "我们为以下外设提供便携式计算机升级支持：$(li)$(9)$(l:peripherals/environment_detector)环境监测仪$(/l)$()$(li)$(9)$(l:peripherals/player_detector)玩家侦测器$(/l)$()$(li)$(9)$(l:peripherals/chat_box)聊天方块$(/l)$()$(p)完整说明请参阅$(9)$(l:https://docs.advanced-peripherals.de/items/pocket_computer/)官方维基页面$(/l)$()！"
+    },
+    {
+      "type": "text",
+      "text": "只需将其与便携式计算机合成，即可为便携式计算机添加该外设。请注意，你无法使用相关的事件。"
+    }
+  ]
+}

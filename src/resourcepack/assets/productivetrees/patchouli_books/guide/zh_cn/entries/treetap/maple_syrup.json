@@ -1,0 +1,18 @@
+{
+  "name": "枫糖浆",
+  "icon": "productivetrees:maple_syrup",
+  "category": "productivetrees:treetap",
+  "flag": "mod:treetap",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "productivetrees:maple_sap_bucket",
+      "text": "可以从糖槭树中提取枫树汁。"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "productivetrees:maple_syrup",
+      "text": "枫树汁可制成枫糖浆，美味可口的枫糖浆！"
+    }
+  ]
+}

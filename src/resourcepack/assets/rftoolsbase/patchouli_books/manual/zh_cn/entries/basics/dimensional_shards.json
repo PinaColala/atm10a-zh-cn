@@ -1,0 +1,62 @@
+{
+  "name": "次元裂片",
+  "icon": "rftoolsbase:dimensionalshard",
+  "category": "rftoolsbase:category_basics",
+  "extra_recipe_mappings": {
+    "rftoolsbase:dimensionalshard": 0,
+    "rftoolsbase:dimensionalshard_overworld": 0,
+    "rftoolsbase:dimensionalshard_nether": 0,
+    "rftoolsbase:dimensionalshard_end": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)维度碎片矿石$()可以在多种维度的地下以小矿脉形式找到。它受$(thing)时运$()影响，破坏后会掉落$(item)次元裂片$()。$(br2)这些材料用于多种较复杂的配方，也可用于$(l:rftoolsbase:machines/infusing)为机器注能$()。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "rftoolsbase:textures/manual/image_ore.png"
+      ],
+      "text": "主世界地下会生成一些维度碎片矿石。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbase:infused_diamond",
+      "recipe2": "rftoolsbase:infused_enderpearl"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsdim",
+      "text": "$(item)次元裂片$()还可用于制作多种$(item)装饰性方块$()。"
+    },
+    {
+      "type": "text",
+      "flag": "!mod:rftoolsdim",
+      "text": "如果你有 RFTools Dimensions，就能制作一些相当酷的装饰方块，但你没有，唉 :("
+    },
+    {
+      "type": "crafting",
+      "flag": "mod:rftoolsdim",
+      "recipe": "rftoolsdim:dimensional_blank_block",
+      "recipe2": "rftoolsdim:dimensional_block"
+    },
+    {
+      "type": "crafting",
+      "flag": "mod:rftoolsdim",
+      "recipe": "rftoolsdim:dimensional_small_blocks",
+      "recipe2": "rftoolsdim:dimensional_cross_block"
+    },
+    {
+      "type": "crafting",
+      "flag": "mod:rftoolsdim",
+      "recipe": "rftoolsdim:dimensional_pattern1_block",
+      "recipe2": "rftoolsdim:dimensional_pattern2_block"
+    },
+    {
+      "type": "crafting",
+      "flag": "mod:rftoolsdim",
+      "recipe": "rftoolsdim:dimensional_cross2_block"
+    }
+  ]
+}

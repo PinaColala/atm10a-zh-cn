@@ -1,0 +1,11 @@
+{
+  "name": "电梯轨道",
+  "icon": "railcraft:elevator_track",
+  "category": "railcraft:tracks",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "此铁轨的独特之处在于可垂直放置。充能后，它将激活下方所有铁轨。充能铁轨可将矿车向上提升，未充能铁轨则使其向下降低。当矿车抵达顶端时，将被推送至上方方块处的任意普通铁轨上。该铁轨还兼具梯子功能。"
+    }
+  ]
+}

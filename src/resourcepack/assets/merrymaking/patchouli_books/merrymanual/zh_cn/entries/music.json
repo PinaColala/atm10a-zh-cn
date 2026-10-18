@@ -1,0 +1,23 @@
+{
+  "name": "节日音乐唱片",
+  "icon": "merrymaking:christmas_music_disc_1",
+  "category": "merrymaking:music",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "节日音乐唱片可在主世界的宝箱中找到，或由骷髅击杀苦力怕后掉落。"
+    },
+    {
+      "type": "spotlight",
+      "title": "红色节日音乐唱片",
+      "item": "merrymaking:christmas_music_disc_1",
+      "text": "红色唱片播放由LofiGeek创作的一系列轻松假日歌曲。"
+    },
+    {
+      "type": "spotlight",
+      "title": "绿色节日音乐唱片",
+      "item": "merrymaking:christmas_music_disc_2",
+      "text": "绿色唱片播放更为传统的节日音乐。"
+    }
+  ]
+}

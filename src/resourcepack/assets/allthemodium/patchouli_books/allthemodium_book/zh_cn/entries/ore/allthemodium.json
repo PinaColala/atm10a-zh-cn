@@ -1,0 +1,15 @@
+{
+  "name": "ATM矿石",
+  "icon": "allthemodium:allthemodium_ore",
+  "category": "allthemodium:ore",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "allthemodium:allthemodium_ore",
+      "title": "ATM矿石",
+      "link_recipe": false,
+      "text": "ATM矿石会生成在深暗之域生物群系的洞穴墙壁和天花板上；你也可以在山地生物群系 170Y 以上的高空较常见地发现它。它还会在采矿维度中 Y -59 到 Y 20 之间的任何位置生成，也会出现在异界维度的深板岩层洞穴中"
+    }
+  ]
+}

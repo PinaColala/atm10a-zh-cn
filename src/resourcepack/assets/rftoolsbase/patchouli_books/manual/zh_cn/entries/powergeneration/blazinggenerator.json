@@ -1,0 +1,27 @@
+{
+  "name": "烈焰发电机",
+  "icon": "rftoolspower:blazing_generator",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:blazing_generator": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "烈焰发电机通过燃烧充能烈焰棒来产生FE。普通烈焰棒必须先经$(l:rftoolsbase:powergeneration/blazingagitator)烈焰激活器$(/l)处理。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:blazing_generator"
+    },
+    {
+      "type": "text",
+      "text": "充能烈焰棒有两个关键数值：功率输出与持续时间。高品质烈焰棒单位时间产电更多（FE/t），长时效烈焰棒则能使发电机运行更久。"
+    },
+    {
+      "type": "text",
+      "text": "该发电机最多可同时使用四根烈焰棒，连续运行时效率最佳。插入烈焰棒后需一定预热时间，才能充分发挥其全部潜力。"
+    }
+  ]
+}

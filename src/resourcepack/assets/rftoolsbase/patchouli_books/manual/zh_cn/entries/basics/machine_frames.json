@@ -1,0 +1,15 @@
+{
+  "name": "机械框架",
+  "icon": "rftoolsbase:machine_frame",
+  "category": "rftoolsbase:category_basics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "每台机器或设备都需要某种外壳，也就是一个$(thing)框架$()。它们本身没有任何作用，但却是非常常见的合成材料。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbase:machine_frame"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "干涉矩阵",
+  "icon": "mffs:interdiction_matrix",
+  "category": "mffs:machines",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:interdiction_matrix",
+      "link_recipe": true,
+      "text": "$(9)干涉矩阵$()属于MFFS系列机器之一。它会对周围空间内的玩家或实体施加限制。例如，可配置为自动击杀进入其作用区域的生物或玩家，或阻止未授权玩家篡改其他机器。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:interdiction_matrix",
+      "text": "合成$(9)干涉矩阵$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "操作",
+      "text": "$(9)干涉矩阵$()周围的区域分为两个逻辑区域：$(bold)作用$()区域与$(bold)警告$()区域。作用区域从干涉矩阵本体向外延伸，延伸距离等于已安装的$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()数量。默认情况下，警告区域从作用区域边缘（呈同心球形）再向外延伸3格。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "当玩家进入$(l:mffs:machines/interdiction_matrix)干涉矩阵$()的警告区域时，系统将发送一条提醒消息，告知其已进入扫描范围。若玩家不想亲身体验干涉矩阵已安装的模块效果，则不应继续靠近。未安装任何模块时，$(l:mffs:machines/interdiction_matrix)干涉矩阵$()基本不会产生任何效果；而安装$(l:mffs:interdiction_modules)$(5)模块$()后，它便可成为一套强大的防御系统。"
+    }
+  ]
+}

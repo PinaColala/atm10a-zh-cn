@@ -1,0 +1,20 @@
+{
+  "name": "海马",
+  "icon": "livingthings:seahorse_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种色彩斑斓的动物，常成群结队地在海洋中游荡。$(br2)$(bold)生命值：$()2颗心"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:seahorse",
+      "rotate": false,
+      "scale": 1.4,
+      "default_rotation": 40,
+      "offset": -0.1,
+      "text": "可在$(bold)暖水海洋$()与$(bold)温水海洋$()中找到。"
+    }
+  ]
+}

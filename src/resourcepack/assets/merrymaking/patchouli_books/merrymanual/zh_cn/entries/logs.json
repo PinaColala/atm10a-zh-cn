@@ -1,0 +1,17 @@
+{
+  "name": "壁炉原木",
+  "icon": "minecraft:flint_and_steel",
+  "category": "merrymaking:mantels",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "壁炉原木",
+      "item": "merrymaking:fireplace_logs",
+      "text": "壁炉原木与节日壁炉台完美契合。它具备方向朝向，可用打火石点燃，亦可用一桶水浇灭。$(br2)如需，壁炉原木还可接入红石信号。$(br2)壁炉原木的合成配方如下："
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:fireplace_logs"
+    }
+  ]
+}

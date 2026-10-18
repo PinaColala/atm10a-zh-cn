@@ -1,0 +1,4 @@
+{
+  "block.createpropulsion.platinum_fluid_vessel": "铂流体容器",
+  "createpropulsion.platinum_fluid_vessel.tooltip.summary": "像铜流体容器一样储存流体，但每个方块容量翻倍。"
+}

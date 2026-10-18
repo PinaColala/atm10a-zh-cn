@@ -1,0 +1,30 @@
+{
+  "name": "模版",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:misc",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:left_diag_template",
+      "text": "模板用于在合成灯具/花环方块时定义“左”或“右”的造型。模板可重复使用，合成后仍保留。模板配方需绿色染料与纸，灯具与花环通用。模板配方如下："
+    },
+    {
+      "type": "crafting",
+      "title": "对角模板",
+      "recipe": "merrymaking:left_diag_template",
+      "recipe2": "merrymaking:right_diag_template"
+    },
+    {
+      "type": "crafting",
+      "title": "竖直模板",
+      "recipe": "merrymaking:left_vert_template",
+      "recipe2": "merrymaking:right_vert_template"
+    },
+    {
+      "type": "crafting",
+      "title": "竖直角模板",
+      "recipe": "merrymaking:left_corner_template",
+      "recipe2": "merrymaking:right_corner_template"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "范围降级拓展",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:range_down_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个增强件可以添加到任何具有范围的模块中（发送模块 $(l:modules/sender_1)Mk1/$ / $(l:modules/sender_2)Mk2/$，抽取模块 Mk1 $(l:modules/puller_1)Mk1/$ / $(l:modules/puller_2)Mk2/$，造桥模块 $(l:modules/extruder_1)Mk1/$ / $(l:modules/extruder_2)Mk2/$，$(l:modules/fluid_2)流体 Mk2/$，$(l:modules/vacuum)虚空模块/$）。$(p)它可以叠加；每个增强件会使模块范围减少 1 格。$(p)它大概只会在配合$(l:modules/vacuum)虚空模块/$时比较有用，用来控制其扫描物品的范围。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:range_down_augment",
+      "recipe2": "modularrouters:range_down_from_up"
+    }
+  ]
+}

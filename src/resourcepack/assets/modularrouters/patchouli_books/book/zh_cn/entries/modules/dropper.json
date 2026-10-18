@@ -1,0 +1,15 @@
+{
+  "name": "投掷器模块",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:dropper_module",
+  "pages": [
+    {
+      "type": "text",
+      "text": "该模块尝试将路由器缓存中的物品作为实体物品丢弃至世界中。丢弃位置位于模块$(l:intro/modules#direction)已配置方向/$上紧邻路由器处。该物品实体将以零初速度放置，不同于原版$(item)投掷器/$——后者会给物品附加令人困扰的随机初速度。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:dropper_module"
+    }
+  ]
+}

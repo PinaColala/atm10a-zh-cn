@@ -1,0 +1,16 @@
+{
+  "name": "生长颈鹿肉",
+  "icon": "livingthings:giraffe",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)可由长颈鹿掉落"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:giraffe",
+      "text": "$(br)$(bold)用途：$()$(li)可食用$(li)可冶炼为烤长颈鹿肉"
+    }
+  ]
+}

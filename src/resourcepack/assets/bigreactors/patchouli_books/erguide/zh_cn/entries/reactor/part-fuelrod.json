@@ -1,0 +1,31 @@
+{
+  "name": "燃料棒",
+  "icon": "bigreactors:reinforced_reactorfuelrod",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorfuelrod",
+      "link_recipe": true,
+      "title": "燃料棒",
+      "text": "燃料棒会以横向或纵向的长列形式放置在你的反应堆内部。它们用于储存反应物——燃料、废料，或两者的混合物——并会在反应堆运行时受到辐照，产生的热量可以被转化为能量，或用于将冷却液汽化。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每列中的第一根燃料棒必须紧邻$(l:bigreactors/part-casing)机壳方块$(/l)放置，而最后一根燃料棒后方必须接着放置一个$(l:bigreactors/part-controlrod)控制棒$(/l)。你可以选择将所有燃料棒列都纵向排列（沿 Y 轴），或横向排列（沿 X 轴或 Z 轴），但不能混用不同朝向。因此，所有控制棒都必须放置在反应堆的同一面上。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:reactor/basic/fuelrod_ingots_yellorium",
+      "title2": "加固",
+      "recipe2": "bigreactors:reactor/reinforced/fuelrod_ingots_yellorium"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()是$(br)$(l)有效位置：$()反应堆内部$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

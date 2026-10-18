@@ -1,0 +1,12 @@
+{
+  "client": {
+    "r1Upgrade": "passed",
+    "restoreR1ByteExact": "passed",
+    "batWithSpaceAndUnicodePath": "passed"
+  },
+  "server": {
+    "r1Upgrade": "passed",
+    "restoreR1ByteExact": "passed",
+    "batWithSpaceAndUnicodePath": "passed"
+  }
+}

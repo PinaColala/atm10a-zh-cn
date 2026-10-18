@@ -1,0 +1,17 @@
+{
+  "name": "冷却盒",
+  "icon": "sushigocrafting:cooler_box",
+  "category": "sushigocrafting:using_tools",
+  "sortnum": 1,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种便捷的箱子，可自动合成具有重量的食材——只需将它们放入其中，即可完成合成。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "sushigocrafting:cooler_box"
+    }
+  ]
+}

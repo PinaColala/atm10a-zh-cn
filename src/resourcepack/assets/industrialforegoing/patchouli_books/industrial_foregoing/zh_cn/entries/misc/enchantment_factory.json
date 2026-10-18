@@ -1,0 +1,17 @@
+{
+  "name": "自动附魔机",
+  "icon": "industrialforegoing:enchantment_factory",
+  "category": "industrialforegoing:misc",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "当该机器获得大量$(l:agr_hus/essence)精华$()及一件待附魔物品后，可为其附上等级$(6)30$()的魔咒。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:enchantment_factory"
+    }
+  ]
+}

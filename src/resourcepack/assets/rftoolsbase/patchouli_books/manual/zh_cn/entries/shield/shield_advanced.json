@@ -1,0 +1,30 @@
+{
+  "name": "高级",
+  "icon": "rftoolsbuilder:red_shield_template_block",
+  "category": "rftoolsbase:category_rftoolsbuilder_shield",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:blue_shield_template_block": 0,
+    "rftoolsbuilder:red_shield_template_block": 0,
+    "rftoolsbuilder:green_shield_template_block": 0,
+    "rftoolsbuilder:yellow_shield_template_block": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "护盾投射器可利用附近模板方块生成护盾，也可通过GUI中插入的塑形卡片生成护盾。经塑形的护盾将忽略模板方块。"
+    },
+    {
+      "type": "text",
+      "text": "可见性模式包括：隐形、护盾、透明、实心与模仿。模仿模式将使用模仿槽位中插入的方块纹理作为护盾外观。"
+    },
+    {
+      "type": "text",
+      "text": "过滤器决定实体的处理方式：放行、阻挡、造成伤害，或同时阻挡并造成伤害。过滤器类型包括全部、被动、敌对、物品与玩家。"
+    },
+    {
+      "type": "text",
+      "text": "过滤器顺序至关重要。请将具体规则置于宽泛规则之上，确保特定玩家或物品规则优先于通用‘全部’规则得到处理。"
+    }
+  ]
+}

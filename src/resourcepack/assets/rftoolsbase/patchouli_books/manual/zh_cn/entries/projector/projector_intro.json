@@ -1,0 +1,15 @@
+{
+  "name": "投影仪",
+  "icon": "rftoolsbuilder:projector",
+  "category": "rftoolsbase:category_rftoolsbuilder_projector",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:projector": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "投影仪可将塑形卡片内容投射至世界中。$(br2)使用它可在将该形状应用于其他机器前进行预览或可视化确认。"
+    }
+  ]
+}

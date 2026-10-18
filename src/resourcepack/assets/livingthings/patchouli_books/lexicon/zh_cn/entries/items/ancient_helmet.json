@@ -1,0 +1,16 @@
+{
+  "name": "远古头盔",
+  "icon": "livingthings:ancient_helmet",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)可由远古烈焰人掉落。"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:ancient_helmet",
+      "text": "$(br)$(bold)用途：$()$(li)佩戴时可添加火焰保护效果"
+    }
+  ]
+}

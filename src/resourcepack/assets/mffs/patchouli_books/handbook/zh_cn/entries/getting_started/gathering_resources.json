@@ -1,0 +1,29 @@
+{
+  "name": "收集资源",
+  "icon": "mffs:steel_compound",
+  "category": "mffs:getting_started",
+  "sortnum": 1,
+  "turnin": "mffs:smelt_steel",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "迈向力场的第一步是寻找基础资源。$(br)MFFS组件主要由$(5)钢锭$()制成，而钢锭可通过两个简单步骤合成：首先在合成界面制作$(5)钢化合物$()，再将其冶炼成锭。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:steel_compound",
+      "text": "将1个铁锭与4个煤炭合成钢化合物。"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "mffs:steel_ingot",
+      "text": "将钢化合物冶炼为钢锭。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:steel_ingot",
+      "link_recipe": true,
+      "text": "你在MFFS中将频繁使用的一种基础材料。它可用于合成基础组件，例如$(5)聚焦矩阵$()或$(2)空白卡$()，也可用于制造力场机械。"
+    }
+  ]
+}

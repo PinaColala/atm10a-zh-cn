@@ -1,0 +1,15 @@
+{
+  "name": "载具建造机",
+  "icon": "rftoolsbuilder:vehicle_builder",
+  "category": "rftoolsbase:category_rftoolsbuilder_mover",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:vehicle_builder": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "载具构建器可从空间舱室中创建载具。$(br2)请先构建一个形态正确的舱室，再使用载具构建器将该舱室转化为载具。"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "农牧业自动机核心",
+  "icon": "advancedperipherals:husbandry_automata_core",
+  "category": "advancedperipherals:metaphysics",
+  "advancement": "advancedperipherals:weak_automata_core",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "农牧业自动机核心",
+      "item": "advancedperipherals:husbandry_automata_core",
+      "text": "虚弱自动机核心吞噬3只鸡、3头牛、3只羊后，将转化为农牧业自动机核心！$(p)除作为更强大的虚弱自动机核心变体外，该灵魂似乎还赋予海龟与动物交互的能力！"
+    },
+    {
+      "type": "link",
+      "text": "除继承虚弱自动机核心的能力外，该核心还可与动物交互，甚至能将动物收入其中！$(p)但请注意：一旦海龟被破坏，所有已收纳的动物都将丢失。",
+      "url": "https://docs.advanced-peripherals.de/metaphysics/husbandry_automata/",
+      "link_text": "API 文档"
+    }
+  ]
+}

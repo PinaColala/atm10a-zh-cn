@@ -1,0 +1,197 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "香草与丰收加入了若干香草与香料。选择下面的条目了解详情：",
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.herbs.info",
+          "target_page": 1
+        },
+        {
+          "title": "herbsandharvest.guide_book.herbs.list",
+          "target_page": 2
+        },
+        {
+          "title": "herbsandharvest.guide_book.herbs.spices",
+          "target_page": 3
+        },
+        {
+          "title": "herbsandharvest.guide_book.herbs.thistle",
+          "target_page": 4
+        },
+        {
+          "title": "herbsandharvest.guide_book.herbs.cinn",
+          "target_page": 5
+        }
+      ],
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/herbs/herbs.png",
+          "caption": "herbsandharvest.guide_book.chapters.herbs.herbs_caption",
+          "image_width": 110,
+          "image_height": 62
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.info",
+      "summary": "和作物一样，香草需要耕地和水才能生长。\n\n收获后的香草可以放在草方块或泥土上作装饰。\n\n也可以栽进花盆里。",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/herbs/potted.png",
+          "caption": "herbsandharvest.guide_book.chapters.herbs.potted_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "\n在食品储藏室更新中，新鲜香草可以切碎或研磨，装进香料罐备用。",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.list",
+      "summary": "",
+      "elements": [
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:fresh_basil",
+              "text": "guide.herbsandharvest.fresh_basil_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_bay_leaf",
+              "text": "guide.herbsandharvest.fresh_bay_leaf_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_chive",
+              "text": "guide.herbsandharvest.fresh_chive_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_cilantro",
+              "text": "guide.herbsandharvest.fresh_cilantro_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_dill",
+              "text": "guide.herbsandharvest.fresh_dill_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_lemongrass",
+              "text": "guide.herbsandharvest.fresh_lemongrass_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_mint",
+              "text": "guide.herbsandharvest.fresh_mint_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_mustard",
+              "text": "guide.herbsandharvest.fresh_mustard_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_oregano",
+              "text": "guide.herbsandharvest.fresh_oregano_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_parsley",
+              "text": "guide.herbsandharvest.fresh_parsley_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_rosemary",
+              "text": "guide.herbsandharvest.fresh_rosemary_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_sage",
+              "text": "guide.herbsandharvest.fresh_sage_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_thyme",
+              "text": "guide.herbsandharvest.fresh_thyme_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.spices",
+      "summary": "和香草一样，胡椒、姜和姜黄也都要种在耕地上。\n\n胡椒与肉桂树苗还可以栽进花盆。",
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n\n香料一览：\n",
+          "text": null
+        },
+        {
+          "type": "icon_list",
+          "entries": [
+            {
+              "item": "herbsandharvest:cinnamon",
+              "text": "guide.herbsandharvest.cinnamon_desc"
+            },
+            {
+              "item": "herbsandharvest:ginger_root",
+              "text": "guide.herbsandharvest.ginger_desc"
+            },
+            {
+              "item": "herbsandharvest:fresh_peppercorn",
+              "text": "guide.herbsandharvest.fresh_peppercorn_desc"
+            },
+            {
+              "item": "herbsandharvest:thistle",
+              "text": "guide.herbsandharvest.thistle_desc"
+            },
+            {
+              "item": "herbsandharvest:turmeric_root",
+              "text": "guide.herbsandharvest.turmeric_desc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.thistle",
+      "summary": "蓟是一种花，几乎在主世界的任何生物群系里都能找到。\n\n蓟用来制作凝乳酶，而凝乳酶是做奶酪的必需品。",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/plant/thistle.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.thistle_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "蓟有两格高，开紫粉色的花。\n\n可以用骨粉催熟，种法与高花相同。",
+          "text": null
+        }
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "herbsandharvest.guide_book.herbs.cinn",
+      "summary": "肉桂树有两格高，树皮会不断生长，剥下来就能得到肉桂。\n\n肉桂树苗生长在热带生物群系，也能在主世界的箱子里找到。",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/plant/cinn_tree.png",
+          "caption": "herbsandharvest.guide_book.chapters.blocks.cinn_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "用斧右键树干即可剥皮取肉桂。\n\n只要树皮已经长成，就会掉落一些肉桂。",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

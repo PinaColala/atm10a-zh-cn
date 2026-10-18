@@ -1,0 +1,16 @@
+{
+  "name": "力场子",
+  "icon": "mffs:battery",
+  "category": "mffs:getting_started",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Fortron是一种MFFS机器所使用的能量形式，最初由$(l:mffs:machines/coercion_deriver)Fortron 衍生器$()产生并储存，再通过$(l:mffs:machines/fortron_capacitor)Fortron 能量储存器$()传输给其他机器。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Fortron能量的另一来源是一种仅限创造模式使用的物品——$(5)无限能量卡$()。它可直接插入$(l:mffs:machines/fortron_capacitor)Fortron 能量储存器$()（最左侧物品栏）中，从而提供无限的Fortron供应。Fortron可以液态形式存在，能够像抽取水或岩浆一样，直接从电容器中泵出并进行操控。"
+    }
+  ]
+}

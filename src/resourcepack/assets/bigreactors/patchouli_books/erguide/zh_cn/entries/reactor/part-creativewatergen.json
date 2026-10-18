@@ -1,0 +1,20 @@
+{
+  "name": "创造模式无限水",
+  "icon": "bigreactors:reinforced_reactorcreativewatergenerator",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorcreativewatergenerator",
+      "link_recipe": true,
+      "title": "水发电机",
+      "text": "水发生器是一个仅限创造模式使用的部件，可为$(l:bigreactors/active)主动冷却$(/l)反应堆提供持续不断的水源。$(br2)该部件会自动向冷却液流体储罐补充一桶水，但仅在反应堆开启时生效。"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面上（不在框架上）$(br)$(l)变种：$()强化$(br)$(l)图形界面：$()否$(br)$(l)创造模式：$()该部件仅可在创造模式中使用，没有对应的合成配方。"
+    }
+  ]
+}

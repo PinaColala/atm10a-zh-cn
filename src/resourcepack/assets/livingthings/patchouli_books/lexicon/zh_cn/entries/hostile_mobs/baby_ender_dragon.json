@@ -1,0 +1,20 @@
+{
+  "name": "幼年末影龙",
+  "icon": "livingthings:baby_ender_dragon_spawn_egg",
+  "category": "livingthings:hostile_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种半危险的生物，尤其畏惧紫颂果！$(br)驯服后的幼年末影龙会跟随你四处走动。$(br2)$(bold)生命值：$()5颗心$(br2)$(bold)驯服物品：$()$(li)紫颂果"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:baby_ender_dragon",
+      "rotate": false,
+      "scale": 0.6,
+      "default_rotation": 45,
+      "offset": 0.2,
+      "text": "将龙蛋放置于紫珀块柱顶部即可孵化。"
+    }
+  ]
+}

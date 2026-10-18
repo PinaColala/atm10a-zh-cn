@@ -1,0 +1,11 @@
+{
+  "name": "控制轨道",
+  "icon": "railcraft:iron_control_track",
+  "category": "railcraft:tracks",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "此类铁轨作用类似弱效助推器，仅单向助推矿车；反向行驶的矿车则会被逐渐减速。对其充能可反转轨道助推方向。其制作成本低廉，且可在双向各传播红石信号长达十六格。默认方向可通过撬棍调整。"
+    }
+  ]
+}

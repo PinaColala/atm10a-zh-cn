@@ -1,0 +1,7 @@
+{
+  "name": "存储检测器",
+  "description": "一种强大的方块，可以从集中管理的位置访问附近的容器",
+  "parent": "rftoolsbase:category_rftoolsstorage",
+  "icon": "rftoolsstorage:storage_scanner",
+  "sortnum": 20
+}

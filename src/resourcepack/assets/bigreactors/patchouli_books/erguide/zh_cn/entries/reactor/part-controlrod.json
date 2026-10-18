@@ -1,0 +1,31 @@
+{
+  "name": "控制杆",
+  "icon": "bigreactors:reinforced_reactorcontrolrod",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorcontrolrod",
+      "link_recipe": true,
+      "title": "控制杆",
+      "text": "控制棒可以插入其对应的$(l:bigreactors/part-fuelrod)燃料棒$(/l)柱中，并由一种能够吸收中子辐射的材料制成。否则，这些辐射会击中储存在$(l:bigreactors/part-fuelrod)燃料棒$(/l)中的反应物，从而减缓或阻止燃料消耗、热量产生以及废料生成。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "右键点击控制棒即可打开它的图形界面。$(br2)在该界面中，你可以为控制棒指定一个名称，之后在使用$(l:bigreactors/part-computerport)计算机端口$(/l)管理反应堆时，就能通过这个名称来引用这根特定的控制棒。$(br2)插入百分比表示控制棒插入其$(l:bigreactors/part-fuelrod)燃料棒$(/l)柱的深度。你可以只修改这一根控制棒的数值，也可以同时修改全部控制棒。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:reactor/basic/controlrod",
+      "title2": "加固",
+      "recipe2": "bigreactors:reactor/reinforced/controlrod"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()是$(br)$(l)有效位置：$()全部位于同一面，并接在燃料棒之后$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()是"
+    }
+  ]
+}

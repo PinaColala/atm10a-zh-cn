@@ -1,0 +1,29 @@
+{
+  "name": "物质投影仪",
+  "icon": "rftoolsutility:matter_beamer",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:matter_beamer": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "物质投影仪可将物品材料传送至$(l:rftoolsbase:machines/spawner)生物生成器$(/l)。它拥有一个输入槽位，运行时消耗FE，且仅当链接的生物生成器能够使用这些物品时才进行投射。"
+    },
+    {
+      "type": "crafting",
+      "heading": "物质投影仪",
+      "recipe": "rftoolsutility:matter_beamer"
+    },
+    {
+      "type": "text",
+      "title": "连接",
+      "text": "使用扳手右键点击物质投影仪，再用同一把扳手右键点击目标生物生成器。再次对已选定的投影仪使用扳手，即可清除其目的地设定。"
+    },
+    {
+      "type": "text",
+      "title": "操作",
+      "text": "向物质投影仪输入红石信号，并插入生成器配方所需的材料。$(5)注魔$()可提升每次脉冲输出的物品数量，并降低FE消耗。"
+    }
+  ]
+}

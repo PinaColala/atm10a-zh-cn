@@ -1,0 +1,19 @@
+{
+  "name": "鲨鱼",
+  "icon": "livingthings:shark_spawn_egg",
+  "category": "livingthings:hostile_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种迅捷的水生生物，会主动追击玩家！$(br2)$(bold)生命值：$()11颗心$(br)$(bold)攻击伤害：$()3颗心$(br2)$(bold)掉落物：$()$(li)0–3个鲨鱼牙齿$(li)1–2个生鳕鱼"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:shark",
+      "rotate": false,
+      "scale": 0.5,
+      "default_rotation": 45,
+      "text": "可在所有$(bold)海洋$()生物群系中找到。"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "栅栏与栅栏门",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:fences",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/fence.png"
+      ],
+      "text": "已装饰的橡木尖桩篱栅！"
+    },
+    {
+      "type": "spotlight",
+      "item": "merrymaking:oak_picket_fence",
+      "text": "尖桩篱栅是一种特殊的装饰性篱栅方块，配有匹配的栅门，并涵盖全部原版木材颜色。$(br2)这些美观的篱栅可通过绿植与灯具装饰，为节日增添氛围。"
+    },
+    {
+      "type": "text",
+      "text": "要装饰尖桩篱栅，请在工作台中将其与任意水平花环组合。$(br2)尖桩篱栅门则可与任选花环组合以作装饰。"
+    },
+    {
+      "type": "crafting",
+      "title": "尖桩栅栏",
+      "recipe": "merrymaking:oak_picket_fence",
+      "recipe2": "merrymaking:cherry_picket_fence_gate"
+    },
+    {
+      "type": "crafting",
+      "title": "装饰尖桩栅栏",
+      "recipe": "merrymaking:jungle_wreath_lights_multi_fence",
+      "recipe2": "merrymaking:birch_wreath_fence_gate"
+    }
+  ]
+}

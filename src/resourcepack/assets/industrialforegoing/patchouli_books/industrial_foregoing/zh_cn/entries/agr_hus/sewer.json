@@ -1,0 +1,17 @@
+{
+  "name": "排污器",
+  "icon": "industrialforegoing:sewer",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 12,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种用于收集动物与经验值产生的$(l:agr_hus/sewage)污水$()，并将其转化为精华的机器。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sewer"
+    }
+  ]
+}

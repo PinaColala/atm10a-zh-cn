@@ -1,0 +1,13 @@
+{
+  "name": "牛油果",
+  "icon": "sushigocrafting:avocado",
+  "category": "sushigocrafting:world",
+  "sortnum": 2,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "text",
+      "text": "你可在世界中找到牛油果树，多分布于平原。$(br2)当牛油果树完全成熟后，右击树叶即可收获牛油果。"
+    }
+  ]
+}

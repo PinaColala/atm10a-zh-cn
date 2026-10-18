@@ -1,0 +1,19 @@
+{
+  "name": "蘑菇人",
+  "icon": "livingthings:shroomie_spawn_egg",
+  "category": "livingthings:passive_mobs_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种乐于助人的动物，当你给予它一个蘑菇时，它至少会为你种下一个蘑菇。$(br2)$(bold)生命值：$()5颗心$(br2)$(bold)繁殖物品：$()$(li)小麦$(br2)$(bold)掉落物：$()$(li)1–2个红蘑菇$(br)    —— 或 ——$(li)1–2个棕蘑菇"
+    },
+    {
+      "type": "entity",
+      "entity": "livingthings:shroomie{ShroomieType:1}",
+      "rotate": false,
+      "default_rotation": 30,
+      "offset": 0.1,
+      "text": "可在所有$(bold)蘑菇岛$()中找到。"
+    }
+  ]
+}

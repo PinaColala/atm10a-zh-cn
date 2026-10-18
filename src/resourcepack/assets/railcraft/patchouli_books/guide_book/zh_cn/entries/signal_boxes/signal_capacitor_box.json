@@ -1,0 +1,19 @@
+{
+  "name": "信号电容器",
+  "icon": "railcraft:signal_capacitor_box",
+  "category": "railcraft:signal_boxes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "此方块可放置于信号接收器或信号中继器旁，每当相邻方块输出红石信号时，它便会按预设时长发射一次红石脉冲。其原理与RedPower状态单元类似。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "右键点击该方块可打开其GUI界面。在此界面中，您可查看并调整当前红石脉冲的持续时间。此外，界面中还有一个按钮，用于在“上升沿”与“下降沿”模式间切换。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "上升沿模式将在相邻方块输出红石信号时，立即按指定时长发射一次红石脉冲；下降沿模式则会在相邻方块停止输出红石信号后，延迟指定时长再发射红石脉冲（形成延迟效果）。"
+    }
+  ]
+}

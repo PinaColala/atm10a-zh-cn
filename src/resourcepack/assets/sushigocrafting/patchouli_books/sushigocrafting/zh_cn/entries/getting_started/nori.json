@@ -1,0 +1,21 @@
+{
+  "name": "海苔片",
+  "icon": "sushigocrafting:nori_sheets",
+  "category": "sushigocrafting:getting_started",
+  "sortnum": 2,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "text",
+      "text": "要获得海苔片，你需要先在海洋中寻找海带，并用其制作干海带块。$(br2)将干海带块（以物品形式掉落）置于铁块与活塞之间进行挤压，即可获得海苔片。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "sushigocrafting:textures/gui/book/nori.png"
+      ],
+      "title": "使用活塞制作海苔片",
+      "text": ""
+    }
+  ]
+}

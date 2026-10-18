@@ -1,0 +1,18 @@
+{
+  "name": "反敌对生物模块",
+  "icon": "mffs:anti_hostile_module",
+  "category": "mffs:interdiction_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:anti_hostile_module",
+      "link_recipe": true,
+      "text": "$(5)反敌对生物模块$()是$(l:mffs:machines/interdiction_matrix)干涉矩阵$()的可选模块。安装此模块后，干涉矩阵将自动检测进入其扫描范围的敌对生物，并几乎瞬间将其击杀。玩家及非敌对实体（如村民和动物）则不会受到伤害。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:anti_hostile_module",
+      "text": "合成$(5)反敌对生物模块$()。"
+    }
+  ]
+}

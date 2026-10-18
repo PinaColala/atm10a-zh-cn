@@ -1,0 +1,17 @@
+{
+  "name": "污泥精炼机",
+  "icon": "industrialforegoing:sludge_refiner",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 10,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台能把 $(6)污泥$() 变成有用东西的机器。$(br2)当输入由 $(l:agriculture_n_husbandry/plant_gatherer)植物收割机$() 产生的 $(6)污泥$() 时，它会生成 $(6)某种东西$()。$(br)不过该过程需要 $(6)1000$()RF/t，所以请确保储备足够的电力。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:sludge_refiner"
+    }
+  ]
+}

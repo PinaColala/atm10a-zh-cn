@@ -1,0 +1,854 @@
+{
+  "pages": [ 
+ 
+    {
+      "type": "standard",
+
+     
+
+      "summary": "食品储藏室更新加入了若干新方块。选择下面的条目了解详情：",
+
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.basin",
+          "target_page": 1
+        },       
+		{
+          "title": "herbsandharvest.guide_book.blocks.p_jars",
+          "target_page": 2
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.s_jars",
+          "target_page": 3
+        },
+        {
+          "title": "herbsandharvest.guide_book.blocks.plates",
+          "target_page": 4
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.shelf",
+          "target_page": 5
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.churn",
+          "target_page": 8
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.stands",
+          "target_page": 9
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.pot",
+          "target_page": 12
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.pan",
+          "target_page": 17
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.serve",
+          "target_page": 22
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.drink",
+          "target_page": 23
+        }
+		
+      ],
+
+      "elements": [
+	  
+			]
+    },
+
+
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.basin",
+
+		  "summary": "用锹右键沙子即可做出一个盐盆。\n\n往里倒一桶水，或者等雨水把它灌满。\n\n然后等它晒干。",
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/basin.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.basin_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  },
+
+			  {
+				  "type": "text",
+				  "literal_text": "盐盆晒干后就会出现盐。\n\n在盆下方放一个漏斗，就能自动收集。",
+				  "text": null
+			  }
+		  ]
+	  },
+
+	 
+	  
+	   
+	  
+	  	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.blocks.p_jars",
+
+		  "summary": "储藏罐是储物用的罐子，可以存放一组任意物品。",
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/jars.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.jars_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  },
+			  {
+				  "type": "text",
+				  "literal_text": "储藏罐只能装物品，装不了方块。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  	{
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.blocks.s_jars",
+
+		  "summary": "这种小罐子可以存放一组调味料。\n\n标签会根据罐内的材料自动变化。\n\n香料罐被打破捡起时，里面的东西不会丢。",
+
+		  "elements": [
+		  
+			 	{
+				"type": "icon_list",
+				"entries": [
+
+						{
+							"item": "herbsandharvest:chopped_sage",
+							"text": "guide.herbsandharvest.chopped_herb_desc"
+						},
+						{
+							"item": "herbsandharvest:minced_garlic",
+							"text": "guide.herbsandharvest.minced_garlic_desc"
+						},
+						{
+							"item": "herbsandharvest:minced_onion",
+							"text": "guide.herbsandharvest.minced_onion_desc"
+						},									
+						{
+							"item": "herbsandharvest:ground_turmeric",
+							"text": "guide.herbsandharvest.ground_turmeric_desc"
+						},
+						{
+							"item": "herbsandharvest:ground_cinnamon",
+							"text": "guide.herbsandharvest.ground_cinn_desc"
+						},
+						{
+							"item": "herbsandharvest:ground_ginger",
+							"text": "guide.herbsandharvest.ground_ginger_desc"
+						},
+						{
+							"item": "herbsandharvest:salt",
+							"text": "guide.herbsandharvest.s_salt_desc"
+						},
+						{
+							"item": "minecraft:sugar",
+							"text": "guide.herbsandharvest.s_sugar_desc"
+						}
+				]	
+			}
+		
+			
+		  ]
+
+	    },
+	  
+	    {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.plates",
+
+		  "summary": "餐盘可以盛放并展示一个物品。\n\n餐盘也用来从烤盘餐或熟食拼盘上取一份出来。",
+
+		  "elements": [
+				{
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/plates.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.plates_caption",
+				  "image_width": 110,
+				  "image_height": 62
+				},
+				{
+				"type": "text",
+				"literal_text": "餐盘有 3 种样式：\n",
+				"text": null
+				},
+				{
+					"type": "icon_list",
+					"entries": [
+					  {
+						"item": "herbsandharvest:dinner_plate",
+						"text": "guide.herbsandharvest.plate_desc"
+					  },
+					  {
+						"item": "herbsandharvest:delftware_dinner_plate",
+						"text": "guide.herbsandharvest.delf_plate_desc"
+					  },
+					  {
+						"item": "herbsandharvest:holiday_dinner_plate",
+						"text": "guide.herbsandharvest.hol_plate_desc"
+					  }
+					  
+					]
+			    }
+				
+			  
+			 
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.shelf",
+
+		  "summary": "奶酪熟成架是可交互方块，界面与熔炉类似。点击下面的条目了解详情。",
+		  
+		   "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.shelf.info",
+          "target_page": 6
+        },      
+        {
+          "title": "herbsandharvest.guide_book.blocks.shelf.auto",
+          "target_page": 7
+        }
+		
+      ],
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/shelf.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.shelf_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  }
+			  
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.shelf.info",
+
+		  "summary": "点击熟成架打开界面，把生奶酪轮放进输入槽。关掉界面后，就能看到奶酪轮出现在架子上。一个架子同时可放两轮。",
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/shelf_gui.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.shelf_gui_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  },
+			  {
+				  "type": "text",
+				  "literal_text": "\n过一段时间，奶酪轮会变成陈年奶酪轮。再打开一次界面，就能把它取出来。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.shelf.auto",
+
+		  "summary": "奶酪的熟成过程可以用红石自动化。 ",
+
+		  "elements": [
+			  
+			  {
+				  "type": "text",
+				  "literal_text": "\n奶酪熟成架允许漏斗把生奶酪轮送进去，也允许漏斗从中取走陈年奶酪轮。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.churn",
+
+		  "summary": "黄油搅拌器用奶油做黄油。放下搅拌器方块，再对它使用一桶奶油即可。",
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/churn.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.churn_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  },
+			  {
+				  "type": "text",
+				  "literal_text": "搅拌器会开始动作并发出声音，完成后掉出一条黄油。这个过程可以用发射器自动化。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.stands",
+
+		  "summary": "用来摆放甜点的架子有两种。点击下面的链接了解详情。",
+		  
+		     "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.stands.cake",
+          "target_page": 10
+        },      
+        {
+          "title": "herbsandharvest.guide_book.blocks.stands.pastry",
+          "target_page": 11
+        }
+		
+      ],
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/stands.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.stands_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.stands.cake",
+
+		  "summary": "蛋糕架只有一层、底盘较大，可以放一个蛋糕、派或芝士蛋糕，也可以放最多 8 个小点心或甜品。",
+
+		  "elements": [			  
+			  
+			  {
+				  "type": "text",
+				  "literal_text": "放在蛋糕架上的蛋糕、派或芝士蛋糕，可切的份数与平时相同。\n\n注意：咸味派也可以放在蛋糕架上。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	   {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.stands.pastry",
+
+		  "summary": "点心架略小一些，有两层。\n\n可以放最多 8 个同一种类的小点心或甜品。",
+
+		  "elements": [
+			
+			  {
+				  "type": "text",
+				  "literal_text": "\n\n松饼、纸杯蛋糕、曲奇和小面包都可以放在点心架上。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	   {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pot",
+
+		  "summary": "汤锅是一种可放置的食物方块。点击下面的链接了解详情。",
+		  
+		     "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.pot.craft",
+          "target_page": 13
+        },      
+        {
+          "title": "herbsandharvest.guide_book.blocks.pot.soup",
+          "target_page": 14
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.pot.list",
+          "target_page": 15
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.pot.listc",
+          "target_page": 16
+        }
+		
+      ],
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/pots.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.pots_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pot.craft",
+
+		  "summary": "煮汤需要一口空汤锅，合成配方如下：",
+
+		  "elements": [
+			
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/pot_craft.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.pot_craft_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  },
+			  {
+				  "type": "text",
+				  "literal_text": "\n\n空汤锅可以放下，也可以空手捡回。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pot.soup",
+
+		  "summary": "把空锅与食材合成就得到一锅汤，它本身是可放置的方块。\n\n要加热汤锅，在它下面放一个热源，比如营火或火。",
+
+		  "elements": [
+						 
+			  {
+				  "type": "text",
+				  "literal_text":  "汤锅加热后，对它使用碗就能盛出汤。",
+				  "text": null
+			  },
+			   {
+				  "type": "text",
+				  "literal_text": "\n汤碗示例：",
+				  "text": null
+			  },
+			  {
+				"type": "icon_list",
+				"entries": [
+					 
+					 {
+						"item": "herbsandharvest:broccoli_cheddar_soup",
+						"text": "guide.herbsandharvest.broc_cheddar_soup_desc"
+					  }
+				]
+			  },
+			  
+			  {
+				  "type": "text",
+				  "literal_text": "\n注意：**只有**加热过的锅才能用碗盛汤。每锅可盛 8 碗。",
+				  "text": null
+			  }
+			  
+			  
+		  ]
+
+	  },
+	  
+	    {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pot.list",
+
+		  "summary": "玩家拿到某道汤的主料或肉类时，就会解锁该汤的配方。\n\n下面是各种汤及其解锁材料（括号内）： ",
+
+		  "elements": [
+		  
+					{
+					  "type": "icon_list",
+					
+					  "entries": [
+						
+							{
+							"item": "herbsandharvest:beef_stew_pot",
+							"text": "guide.herbsandharvest.beef_stew_pot_desc"
+							},
+							{
+							"item": "herbsandharvest:broccoli_cheddar_pot",
+							"text": "guide.herbsandharvest.broccoli_cheddar_pot_desc"
+							},
+							{
+							"item": "herbsandharvest:chicken_dumplings_pot",
+							"text": "guide.herbsandharvest.chicken_dump_pot_desc"
+							},
+							{
+							"item": "herbsandharvest:chicken_noodle_pot",
+							"text": "guide.herbsandharvest.chicken_noodle_pot_desc"
+							},								  
+							{
+							"item": "herbsandharvest:chicken_rice_pot",
+							"text": "guide.herbsandharvest.chicken_rice_pot_desc"
+							}
+											  								  					  						 								  
+						  
+						]
+					}
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pot.listc",
+
+		  "summary": "汤与其解锁材料（续）： ",
+
+		  "elements": [
+		  
+					{
+					  "type": "icon_list",
+					
+					  "entries": [					
+							
+							{
+							"item": "herbsandharvest:corn_chowder_pot",
+							"text": "guide.herbsandharvest.corn_chowder_pot_desc"
+							},				 				  								  
+							{
+							"item": "herbsandharvest:pea_soup_pot",
+							"text": "guide.herbsandharvest.pea_soup_pot_desc"
+							},
+							{
+							"item": "herbsandharvest:potato_soup_pot",
+							"text": "guide.herbsandharvest.potato_soup_pot_desc"
+							},
+							{
+							"item": "herbsandharvest:squash_soup_pot",
+							"text": "guide.herbsandharvest.squash_soup_pot_desc"
+							},
+							{
+							"item": "herbsandharvest:tomato_soup_pot",
+							"text": "guide.herbsandharvest.tomato_soup_pot_desc"
+							},								 
+							{
+							"item": "herbsandharvest:vegetable_soup_pot",
+							"text": "guide.herbsandharvest.veg_soup_pot_desc"
+							}				  								  					  						 								  
+						  
+						]
+					}
+						 
+					
+		  ]
+
+	  },
+	  
+	  
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pan",
+
+		  "summary": "烤盘餐同样是可放置的食物方块。点击下面的链接了解详情。",
+		  
+		     "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.pan.info",
+          "target_page": 18
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.pan.make",
+          "target_page": 19
+        },
+		 {
+          "title": "herbsandharvest.guide_book.blocks.pan.list",
+          "target_page": 20
+        },
+		{
+          "title": "herbsandharvest.guide_book.blocks.pan.listc",
+          "target_page": 21
+        }
+		
+      ],
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/pots.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.pots_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pan.info",
+
+		  "summary": "做烤盘餐需要一个空烤盘，合成配方如下：",
+
+		  "elements": [
+		  
+		  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/pan_craft.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.pans_craft_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  },
+						 
+			  {
+				  "type": "text",
+				  "literal_text": "\n\n空烤盘可以放下，也可以空手捡回。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pan.make",
+
+		  "summary": "把烤盘与配方食材合成，再放进熔炉或烟熏炉里「烤」，就做成了烤盘餐。",
+
+		  "elements": [
+		  
+				{
+				  "type": "text",
+				  "literal_text": "烤盘餐是可放置的方块。用餐盘对着它使用即可「分餐」，每盘可分 8 份。\n\n玩家拿到主料或肉类时会解锁对应的烤盘餐配方。",
+				  "text": null
+				}						 
+				
+		  ]
+
+	  },
+	  
+		{
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pan.list",
+
+		  "summary": "烤盘餐配方与解锁材料：",
+
+		  "elements": [
+		  
+					{
+					"type": "icon_list",
+					"entries": [
+
+							{
+							"item": "herbsandharvest:wellington_pan",
+							"text": "guide.herbsandharvest.wellington_pan_desc"
+							},				 				  								  
+							{
+							"item": "herbsandharvest:chicken_pan",
+							"text": "guide.herbsandharvest.chicken_pan_desc"
+							},
+							{
+							"item": "herbsandharvest:eggplant_pan",
+							"text": "guide.herbsandharvest.eggplant_pan_desc"
+							},
+							{
+							"item": "herbsandharvest:lamb_pan",
+							"text": "guide.herbsandharvest.lamb_pan_desc"
+							},
+							{
+							"item": "herbsandharvest:lasagna_pan",
+							"text": "guide.herbsandharvest.lasagna_pan_desc"
+							}
+							
+							
+						]	
+					}							 
+				
+				]			
+
+	    },
+		
+		{
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.pan.listc",
+
+		  "summary": "烤盘餐配方与解锁材料（续）：",
+
+		  "elements": [
+		  
+					{
+					"type": "icon_list",
+					"entries": [
+
+														 
+							{
+							"item": "herbsandharvest:meatloaf_pan",
+							"text": "guide.herbsandharvest.meatloaf_pan_desc"
+							},
+							{
+							"item": "herbsandharvest:pork_pan",
+							"text": "guide.herbsandharvest.pork_pan_desc"
+							},
+							{
+							"item": "herbsandharvest:roast_pan",
+							"text": "guide.herbsandharvest.roast_pan_desc"
+							},								 
+							{
+							"item": "herbsandharvest:salmon_pan",
+							"text": "guide.herbsandharvest.salmon_pan_desc"
+							},
+							{
+							"item": "herbsandharvest:pears_pan",
+							"text": "guide.herbsandharvest.pears_pan_desc"
+							}
+							
+							
+						]	
+					}							 
+				
+				]			
+
+	    },
+	  
+	   {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.serve",
+
+		  "summary": "用餐盘对着烤盘餐使用，就会得到那道菜的「摆盘餐」。\n\n摆盘餐是可放置的方块，之后右键就能「吃」掉。",
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/served.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.served_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  },
+			  {
+				  "type": "text",
+				  "literal_text": "你也可以直接拿着盘子吃，吃完会留下一个空盘。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.drink",
+
+		  "summary": "香草与丰收里有好几种饮品。要调饮品，得先有玻璃器皿。\n\n点击下面的链接了解详情：",
+		  
+		     "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.blocks.drink.pitcher",
+          "target_page": 24
+        },
+		 {
+          "title": "herbsandharvest.guide_book.blocks.drink.cup",
+          "target_page": 25
+        }
+		
+      ],
+
+		  "elements": [
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/drink.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.drink_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.drink.pitcher",
+
+		  "summary": "饮品壶用玻璃合成，可以反复使用。\n\n先合成玻璃壶，再与不同的饮品配方组合，就得到可放置的饮品壶。",
+
+		  "elements": [
+		  
+		  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/pitcher_craft.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.pitcher_craft_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  },
+						 
+			  {
+				  "type": "text",
+				  "literal_text": "用壶对着玻璃杯使用即可「倒」出一杯。每壶最多倒 4 杯，倒完会在背包里留下空玻璃壶。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	    {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.blocks.drink.cup",
+
+		  "summary": "杯子同样用玻璃合成，也可以反复使用。\n\n放下的玻璃杯可以空手捡回。\n如果杯里有饮品，收进背包后饮品也还在。",
+
+		  "elements": [
+		  
+		  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/blocks/cup_craft.png",
+				  "caption": "herbsandharvest.guide_book.chapters.blocks.cup_craft_caption",
+				  "image_width": 110,
+				  "image_height": 62
+			  },
+						 
+			  {
+				  "type": "text",
+				  "literal_text": "捡起装满的杯子会得到一个可饮用的物品，喝完后背包里留下空杯。",
+				  "text": null
+			  }
+		  ]
+
+	  }
+	
+
+
+	
+  ]
+}

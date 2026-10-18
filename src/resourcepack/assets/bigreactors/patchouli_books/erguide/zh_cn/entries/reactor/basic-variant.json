@@ -1,0 +1,13 @@
+{
+  "name": "基础",
+  "icon": "bigreactors:basic_reactorcasing",
+  "category": "bigreactors:reactor-variants",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "基础变种是你的入门反应堆。$(br2)它的最大尺寸为 5x5x5 方块（外部尺寸），而且合成所需材料大多只有铁锭，是非常适合游戏前期能源需求的廉价方案。"
+    }
+  ]
+}

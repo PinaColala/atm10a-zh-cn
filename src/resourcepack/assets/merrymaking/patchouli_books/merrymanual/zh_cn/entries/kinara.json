@@ -1,0 +1,40 @@
+{
+  "name": "金纳拉烛台",
+  "icon": "merrymaking:kinara",
+  "category": "merrymaking:kwanzaa",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/kinara.png"
+      ],
+      "text": "金纳拉烛台"
+    },
+    {
+      "type": "spotlight",
+      "title": "金纳拉烛台",
+      "item": "merrymaking:kinara",
+      "text": "金纳拉具有方向朝向，如需还可置于麦凯卡之上。$(br2)它功能完备，专为按顺序模拟宽扎节蜡烛点燃过程而设计。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "点亮金纳拉烛台",
+      "text": "点燃金纳拉需准备以下物品：$(li)1支黑色蜡烛 $(li)3支红色蜡烛 $(li)3支绿色蜡烛 $(li)打火石 $(br2)蜡烛按如下颜色顺序置入金纳拉：黑、红、绿、红、绿、红、绿。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "点亮金纳拉烛台",
+      "text": "首先放置第一支蜡烛并点燃；随后放置第二支并点燃；依此类推，直至全部蜡烛点亮。$(br2)每次点燃一支蜡烛，聊天栏均会显示提示消息。点亮的蜡烛越多，金纳拉散发的光亮越强。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "排障",
+      "text": "若误用错误颜色的蜡烛，系统将返还你最新放置的那支蜡烛，供你重试。$(br2)若金纳拉未能点亮，请先全部移除蜡烛（空手点击即可），再按正确顺序重新放置并点燃。"
+    },
+    {
+      "type": "crafting",
+      "title": "金纳拉烛台",
+      "recipe": "merrymaking:kinara"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Fortron 衍生器",
+  "icon": "mffs:coercion_deriver",
+  "category": "mffs:machines",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:coercion_deriver",
+      "link_recipe": true,
+      "text": "$(9)Fortron 衍生器$()属于MFFS系列机器之一。它主要用于将FE能量转化为$(l:mffs:getting_started/fortron)Fortron$()，而其他MFFS机器需依靠Fortron才能运行。$(9)Fortron 衍生器$()专为与$(l:mffs:machines/fortron_capacitor)Fortron 能量储存器$()协同工作而设计，可为其充入$(l:mffs:getting_started/fortron)Fortron$()。$(l:mffs:getting_started/fortron)Fortron$()随后将由电容器分发至其他机器。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:coercion_deriver",
+      "text": "合成$(9)Fortron 衍生器$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "使用",
+      "text": "要生成$(l:mffs:getting_started/fortron)Fortron$()，请将$(9)Fortron 衍生器$()连接至FE能源源，并通过红石信号启动。一旦通电并激活，$(9)Fortron 衍生器$()将由红色变为蓝色，并开始生成$(l:mffs:getting_started/fortron)Fortron$()。$(9)Fortron 衍生器$()可通过设置其频率编号与其它机器（如$(l:mffs:machines/fortron_capacitor)Fortron 能量储存器$()）保持一致，从而实现联动。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "此操作可通过以下任一方式实现：$(li)右键点击Fortron 衍生器，并在GUI界面中输入目标频率编号$(li)手持频率卡对Fortron 衍生器按住Shift键右击$(p)$(9)Fortron 衍生器$()生成$(l:mffs:getting_started/fortron)Fortron$()的能力，可通过$(2)青金石$()或$(2)下界石英$()进一步增强。为此，请将其中任一材料放入箭头旁的插槽中。此举应可将$(l:mffs:getting_started/fortron)Fortron$()输出提升约20倍。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "工作模式",
+      "text": "$(9)Fortron 衍生器$()具有两种运行模式：转换模式与整合模式。默认情况下，其处于转换模式——即稳定地将输入的FE能量转化为$(l:mffs:getting_started/fortron)Fortron$()。点击GUI界面中央的$(2)转换$()切换按钮，可将其运行模式切换为$(2)整合$()，反之亦然。在整合模式下，Fortron 衍生器将反向运行，将可用的$(l:mffs:getting_started/fortron)Fortron$()重新转化为FE。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "可升级性",
+      "text": "Fortron 衍生器可通过安装多种模块来提升性能。$(li)$(l:mffs:upgrade_modules/speed_module)$(5)速度模块$()：增强在Fortron 衍生器中插入$(2)青金石$()或$(2)下界石英$()时所获得的增益效果。$(li)$(l:mffs:upgrade_modules/capacity_module)$(5)容量模块$()：提升Fortron 衍生器可储存的$(l:mffs:getting_started/fortron)Fortron$()总量。$()"
+    }
+  ]
+}

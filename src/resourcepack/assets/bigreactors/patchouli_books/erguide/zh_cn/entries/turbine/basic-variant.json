@@ -1,0 +1,13 @@
+{
+  "name": "基础",
+  "icon": "bigreactors:basic_turbinecasing",
+  "category": "bigreactors:turbine-variants",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "和反应堆一样，基础变种是你的入门级涡轮机。$(br2)它的最大尺寸为 5x5x10 方块，且合成材料主要只需要铁锭，因此是一个适合你游戏前中期能源需求的高性价比方案。$(br2)基础涡轮机最多可使用 1000 mB/t 的蒸汽来带动转子旋转。"
+    }
+  ]
+}

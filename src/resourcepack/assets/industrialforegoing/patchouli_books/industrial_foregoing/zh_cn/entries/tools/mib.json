@@ -1,0 +1,17 @@
+{
+  "name": "生物捕捉工具",
+  "icon": "industrialforegoing:mob_imprisonment_tool",
+  "category": "industrialforegoing:tools",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "当你手持MIB$(6)右击$()某实体时，该实体将被存入MIB中。$(br2)你可通过将MIB$(6)右击$()地面来释放其中的实体。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_imprisonment_tool"
+    }
+  ]
+}

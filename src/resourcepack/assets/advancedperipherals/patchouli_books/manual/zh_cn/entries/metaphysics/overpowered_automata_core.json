@@ -1,0 +1,25 @@
+{
+  "name": "过强自动机核心",
+  "icon": "advancedperipherals:overpowered_weak_automata_core",
+  "category": "advancedperipherals:metaphysics",
+  "advancement": "advancedperipherals:weak_automata_core",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "过强虚弱自动机核心",
+      "item": "advancedperipherals:overpowered_weak_automata_core",
+      "text": "这是你首次尝试突破形而上学的规则。嗯……结果远不如你所期望的那般成功。$(p)任何自动机核心与下界之星的天真组合，都会产生某种结果……"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:overpowered_weak_automata_core",
+      "recipe2": "advancedperipherals:overpowered_end_automata_core"
+    },
+    {
+      "type": "link",
+      "text": "过强自动机核心在使用时不会消耗物品耐久度。$(p)但凡事皆有代价。若使用该核心执行操作时燃料不足，升级将立即损坏。",
+      "url": "https://docs.advanced-peripherals.de/metaphysics/overpowered_automata/",
+      "link_text": "API 文档"
+    }
+  ]
+}

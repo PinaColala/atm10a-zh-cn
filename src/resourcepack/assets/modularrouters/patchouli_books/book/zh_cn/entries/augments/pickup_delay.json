@@ -1,0 +1,15 @@
+{
+  "name": "延迟拾取拓展",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:pickup_delay_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个增强件只能添加到$(l:modules/dropper)投掷器/$和$(l:modules/flinger)抛掷术/$模块中。$(p)它可以叠加；每添加一个增强件，掉落/抛出的物品拾取延迟就会增加 10 tick（0.5 秒）。例如，如果你不希望玩家误捡附近掉落的物品，它就会很有用。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:pickup_delay_augment"
+    }
+  ]
+}

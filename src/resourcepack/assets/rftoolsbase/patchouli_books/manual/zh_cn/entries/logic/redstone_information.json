@@ -1,0 +1,15 @@
+{
+  "name": "红石信号",
+  "icon": "rftoolsutility:redstone_information",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:redstone_information": 0,
+    "rftoolsutility:tablet_redstone": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "此物品可储存多个红石通道（$(5)右键$()点击$(l:rftoolsbase:logic/redstone_transmitter)红石信号发信器$(/l)或$(l:rftoolsbase:logic/redstone_receiver)红石信号接收器$(/l)即可添加通道）。随后可将其放入$(l:rftoolsbase:tools/tablet)平板电脑$(/l)中，从而随时随地查看并修改红石信号。"
+    }
+  ]
+}

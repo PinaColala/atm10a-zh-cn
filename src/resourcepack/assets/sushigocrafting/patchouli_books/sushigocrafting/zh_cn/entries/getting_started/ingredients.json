@@ -1,0 +1,17 @@
+{
+  "name": "食材",
+  "icon": "sushigocrafting:cleaver_knife",
+  "category": "sushigocrafting:getting_started",
+  "sortnum": 1,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "text",
+      "text": "食材‘通常’是已加工完毕、可直接用于烹饪的食品；其中大多数自带重量，且这些重量可在合成台或$(l:using_tools/cooler_box)冷却盒$()中进行组合，实现自动化合成。$(br2)若食材无法合成，可能是因为总重量超出了上限。"
+    },
+    {
+      "type": "text",
+      "text": "大多数食材均附带某种效果，或带有效果修饰器，可用于修改/增强其他食材的效果。"
+    }
+  ]
+}

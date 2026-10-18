@@ -1,0 +1,7 @@
+{
+  "name": "充能器部件",
+  "description": "物品充能站由以下部件构成。",
+  "icon": "bigreactors:energizercontroller",
+  "parent": "bigreactors:energizer",
+  "sortnum": 6
+}

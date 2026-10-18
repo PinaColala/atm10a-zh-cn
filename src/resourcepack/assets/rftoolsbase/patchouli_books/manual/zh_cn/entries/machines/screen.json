@@ -1,0 +1,38 @@
+{
+  "name": "屏幕",
+  "icon": "rftoolsutility:screen",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:screen": 0,
+    "rftoolsutility:creative_screen": 0,
+    "rftoolsutility:text_module": 0,
+    "rftoolsutility:energy_module": 0,
+    "rftoolsutility:energyplus_module": 0,
+    "rftoolsutility:inventory_module": 0,
+    "rftoolsutility:inventoryplus_module": 0,
+    "rftoolsutility:clock_module": 0,
+    "rftoolsutility:fluid_module": 0,
+    "rftoolsutility:fluidplus_module": 0,
+    "rftoolsutility:machineinformation_module": 0,
+    "rftoolsutility:computer_module": 0,
+    "rftoolsutility:button_module": 0,
+    "rftoolsutility:redstone_module": 0,
+    "rftoolsutility:counter_module": 0,
+    "rftoolsutility:counterplus_module": 0,
+    "rftoolsutility:tablet_screen": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "屏幕是一种多功能方块，可显示各类信息，具体取决于你安装的模块。屏幕所需电力由附近的$(l:rftoolsbase:machines/screen_controller)屏幕控制器$(/l)远程供应。$(br2)$(5)空手$()右键可打开屏幕用户界面。"
+    },
+    {
+      "type": "text",
+      "text": "在 GUI 中，你可以安装模块（也可以通过拿着模块对屏幕右键来安装）。$(br2)许多模块（如能量模块）需要有目标才能工作。要设置该目标，你必须先拿着该模块对你想监控的机器$(5)潜行右键$()。"
+    },
+    {
+      "type": "text",
+      "text": "当模块安装到屏幕中后，还可以通过打开对应模块的 GUI 来设置多种显示选项（从普通的屏幕 GUI 中进入）。$(br2)在该 GUI 中，你还可以启用“全亮”模式，并且通过使用扳手来改变屏幕的大小和透明度。"
+    }
+  ]
+}

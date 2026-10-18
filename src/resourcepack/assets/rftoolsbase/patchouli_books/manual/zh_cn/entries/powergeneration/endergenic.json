@@ -1,0 +1,55 @@
+{
+  "name": "末影能发电机",
+  "icon": "rftoolspower:endergenic",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:endergenic": 0,
+    "rftoolspower:ender_monitor": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "末影能发电基于精确时机控制。末影珍珠填充器生成末影能珍珠，发电机负责捕获并发射该珍珠，而精准的时机把控可将珍珠抵达瞬间高效转化为FE。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:endergenic",
+      "recipe2": "rftoolspower:ender_monitor"
+    },
+    {
+      "type": "text",
+      "text": "基础配置至少需要两台末影能发电机、一台末影珍珠填充器、红石定时装置，以及通过扳手设定的目的地。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "rftoolspower:textures/manual/endergenic.png"
+      ]
+    },
+    {
+      "type": "text",
+      "text": "发电机状态说明：空闲（Idle）表示等待；充能（Charging）表示可接收末影珍珠；持留（Holding）表示已捕获珍珠，正持续消耗FE直至再次发射。"
+    },
+    {
+      "type": "text",
+      "text": "第一步：向末影珍珠填充器发送脉冲，使其向首台发电机注入一枚珍珠；第二步：向该发电机发送脉冲，令其将珍珠射向配对的另一台发电机。"
+    },
+    {
+      "type": "text",
+      "text": "第三步：在珍珠抵达前，向接收端发电机发送脉冲使其进入充能状态。理想捕获点为其15刻充能周期中的第10刻。"
+    },
+    {
+      "type": "text",
+      "text": "第四步：迅速发射珍珠。持留状态下的珍珠每刻均消耗FE，若持留过久或发电机断电，珍珠即告丢失。"
+    },
+    {
+      "type": "text",
+      "text": "使用扳手配对发电机。聊天信息将显示传输耗时（单位：刻），最长为4刻。该传输耗时即为你红石计时的关键值。"
+    },
+    {
+      "type": "text",
+      "text": "末影显示器通过监测发电机状态协助自动化时机控制。即使经过精细调校的系统仍可能丢失珍珠，因此请务必兼顾珍珠供应与启动逻辑设计。"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "球体模式",
+  "icon": "mffs:sphere_mode",
+  "category": "mffs:projector_modes",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:sphere_mode",
+      "link_recipe": true,
+      "text": "默认情况下，$(2)球体模式$()会将投射器设置为生成厚度恰好为1个方块的球形力场。每个$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()均可使力场整体扩大1个方块。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:sphere_mode",
+      "text": "合成$(2)球体模式$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "场调整",
+      "text": "向带有方向箭头标记的物品槽中添加$(l:mffs:upgrade_modules/scale_module)$(5)扩展模块$()，可进一步将力场半径扩大1个方块/模块。"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/sphere_mode.png"
+      ],
+      "border": true,
+      "title": "投射",
+      "text": "一个已缩放的$(2)球体模式$()力场正在被投射。"
+    }
+  ]
+}

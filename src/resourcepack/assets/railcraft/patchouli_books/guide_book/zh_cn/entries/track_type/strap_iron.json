@@ -1,0 +1,15 @@
+{
+  "name": "镀铁",
+  "icon": "railcraft:strap_iron_track",
+  "category": "railcraft:track_type",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "带状铁轨（或称木制轨道）以极低的速度限制为特点——仅为铁制轨道限速的30%。此类轨道由木制铁轨与木制轨枕构成。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "带状铁轨所需的铁远少于铁制轨道，但木材与杂酚油用量略多。总体而言，当您缺铁时，更推荐建造此类轨道。其他推荐用途包括观光游览与精密计时应用。"
+    }
+  ]
+}

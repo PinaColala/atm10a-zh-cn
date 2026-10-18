@@ -1,0 +1,11 @@
+{
+  "name": "模拟信号控制器",
+  "icon": "railcraft:analog_signal_controller_box",
+  "category": "railcraft:signal_boxes",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "模拟信号控制器与其前代版本控制盒类似，均可输出红石信号，但并非仅在通电/断电时分别输出单一固定信号。它会依据接收的红石信号强度，输出对应类型的信号。您可在GUI界面中设置：例如当红石信号强度为5时输出绿色信号，强度为0时输出红色信号，强度为15时则关闭输出。"
+    }
+  ]
+}

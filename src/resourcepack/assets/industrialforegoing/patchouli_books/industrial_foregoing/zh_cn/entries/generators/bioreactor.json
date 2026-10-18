@@ -1,0 +1,17 @@
+{
+  "name": "生物质炉",
+  "icon": "industrialforegoing:bioreactor",
+  "category": "industrialforegoing:generators",
+  "sortnum": 2,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台在提供水以及一些 $(6)种子$()、$(6)树苗$()、$(6)染料$()，还有……$(6)头颅$()？？？时，会制造出 $(l:generators/biofuel)生物燃料$() 的机器。$(br2)反应堆内物品种类越多，每件物品产出的生物燃料就越多。例如：如果反应堆中只有 1 种物品，每件只能产出 $(6)80$()mb；但如果有 4 种不同物品，则每件会产出 $(6)110$()mb，总计 $(6)440$()mb。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:bioreactor"
+    }
+  ]
+}

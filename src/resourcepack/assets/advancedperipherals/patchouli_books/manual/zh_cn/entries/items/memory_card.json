@@ -1,0 +1,15 @@
+{
+  "name": "记忆卡",
+  "icon": "advancedperipherals:memory_card",
+  "category": "advancedperipherals:items",
+  "pages": [
+    {
+      "type": "text",
+      "text": "使用$(9)$(l:items/ar_goggles)AR眼镜$(/l)$()，配合$(9)$(l:peripherals/inventory_manager)库存管理器$(/l)$()，即可与玩家的物品栏进行通信。$(p)手持记忆卡对准自己右键点击，即可将其绑定至自身。$(p)完整说明请参阅$(9)$(l:https://docs.advanced-peripherals.de/items/ar_goggles/)官方维基页面$(/l)$()！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:memory_card"
+    }
+  ]
+}

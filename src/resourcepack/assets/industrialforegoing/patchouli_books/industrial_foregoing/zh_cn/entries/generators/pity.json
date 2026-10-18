@@ -1,0 +1,17 @@
+{
+  "name": "低端火力发电机",
+  "icon": "industrialforegoing:pitiful_generator",
+  "category": "industrialforegoing:generators",
+  "sortnum": 0,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种效率极低的发电机，仅可燃烧煤炭等燃料。$(br2)其效率之低，以至于当机器能量缓冲区充满时，仍会持续消耗燃料。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:pitiful_generator"
+    }
+  ]
+}

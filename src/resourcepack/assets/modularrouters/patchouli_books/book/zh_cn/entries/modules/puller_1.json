@@ -1,0 +1,15 @@
+{
+  "name": "抽取模块 Mk1",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:puller_module_1",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个模块会尝试从其$(l:intro/modules#direction)设定方向/$上的相邻容器中，将第一个符合条件的物品拉入路由器缓冲区。如果缓冲区已满，或者其中装着一种无法与目标容器中任何物品堆叠的东西，那就不会拉取任何物品。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:puller_module_1"
+    }
+  ]
+}

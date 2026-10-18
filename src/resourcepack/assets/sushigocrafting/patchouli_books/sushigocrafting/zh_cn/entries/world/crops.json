@@ -1,0 +1,13 @@
+{
+  "name": "作物",
+  "icon": "sushigocrafting:wasabi_root",
+  "category": "sushigocrafting:world",
+  "sortnum": 3,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "text",
+      "text": "你可以通过破坏草方块获取种子。$(br2)大部分作物的种植方式与普通作物相同，唯独稻米需在水下的泥土上种植。"
+    }
+  ]
+}

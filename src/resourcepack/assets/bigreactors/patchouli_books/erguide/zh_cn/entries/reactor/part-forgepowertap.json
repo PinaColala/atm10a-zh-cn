@@ -1,0 +1,38 @@
+{
+  "name": "Forge能量接口",
+  "icon": "bigreactors:reinforced_reactorpowertapfe_active",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorpowertapfe_passive",
+      "link_recipe": true,
+      "title": "Forge能量接口",
+      "text": "Forge Energy 能量输出端口允许你从$(l:bigreactors/passive)被动冷却$(/l)反应堆中提取能量。该输出端口使用 Forge Energy $(l:bigreactors/powersystem)供能系统$(/l)输出能量，这意味着它只能连接到兼容该系统的管道或机器。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每个反应堆只能使用一种$(l:bigreactors/powersystem)供能系统$(/l)，这意味着在单个反应堆结构中只能使用一种类型的能量输出端口。能量输出端口同时提供$(l:bigreactors/passiveactiveparts)被动和主动$(/l)两种形式。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础（被动）",
+      "recipe1": "bigreactors:reactor/basic/passivetap_fe",
+      "title2": "强化（被动）",
+      "recipe2": "bigreactors:reactor/reinforced/passivetap_fe"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础（主动）",
+      "recipe1": "bigreactors:reactor/basic/activetap_fe",
+      "title2": "加固 (主动)",
+      "recipe2": "bigreactors:reactor/reinforced/activetap_fe"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面（不能在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()否$(br)$(l)供能系统：$()Forge Energy"
+    }
+  ]
+}

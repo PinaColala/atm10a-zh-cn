@@ -1,0 +1,326 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+
+     
+
+      "summary": "香草与丰收为游戏加入了 32 种新作物。\n\n选择下面的条目了解详情：",
+
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.crops.info",
+          "target_page": 1
+        },
+        {
+          "title": "herbsandharvest.guide_book.crops.tall",
+          "target_page": 2
+        },
+		
+		 {
+          "title": "herbsandharvest.guide_book.crops.grapes",
+          "target_page": 3
+        },
+		
+        {
+          "title": "herbsandharvest.guide_book.crops.list",
+          "target_page": 4
+        }
+      ],
+
+      "elements": [
+	   {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/intro/crops.png",
+				  "caption": "herbsandharvest.guide_book.chapters.intro.crops_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				}
+			]
+    },
+
+    {
+      "type": "standard",
+
+      "title": "herbsandharvest.guide_book.crops.info",
+	  "summary": "香草与丰收的作物与原版作物表现一致。\n\n它们都种在耕地上，破坏后才能得到产物和种子。",
+
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n\n村庄的农田里能找到这些作物，主世界各处的箱子里能找到种子。\n\n种子也能用产物合成：在工作台里，一份作物出一颗种子。",
+          "text": null
+        }
+      ]
+    },
+
+    {
+      "type": "standard",
+
+      "title": "herbsandharvest.guide_book.crops.tall",
+	  "summary": "有几种作物是两格高的：\n\n玉米、茄子、豌豆和番茄。",
+
+      "elements": [
+        {
+          "type": "text",
+          "literal_text": "\n\n破坏上半部分或下半部分都会整株破坏；若已成熟，会掉落产物和种子。\n\n种一株高作物只需一颗种子，收完要重新种。",
+          "text": null
+        }
+      ]
+    },
+	
+	 {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.crops.grapes",
+		  "summary": "葡萄藤的生长方式与洞穴藤类似，会结出可采摘的果实。\n\n把它种在方块下方，它会随时间向下生长并结果。",
+
+		  "elements": [			
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/grapes/grapes.png",
+				  "caption": "herbsandharvest.guide_book.chapters.grapes.grapes_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+			  },
+			   {
+				  "type": "text",
+				  "literal_text": "和洞穴藤一样，可以用骨粉催熟。\n\n村庄的藤架上长着葡萄，主世界的箱子里也能找到。",
+				  "text": null
+			  }
+		  ]
+	  },
+	  
+	   {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.crops.list",
+		  
+		  "sub_sections": [
+				{
+				  "title": "herbsandharvest.guide_book.crops.list.lista",
+				  "target_page": 5
+				},
+				{
+				  "title": "herbsandharvest.guide_book.crops.list.listb",
+				  "target_page": 6
+				},
+				
+				 {
+				  "title": "herbsandharvest.guide_book.crops.list.listc",
+				  "target_page": 7
+				}
+      ],
+		  "summary": "下面是香草与丰收全部作物的完整列表（按字母顺序）。\n点击下面的链接查看各部分：",
+
+		  "elements": [			
+			  {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/intro/crops.png",
+				  "caption": "herbsandharvest.guide_book.chapters.intro.crops_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+			  },
+			   {
+				  "type": "text",
+				  "literal_text": "",
+				  "text": null
+			  }
+		  ]
+	  },
+
+    {
+      "type": "standard",
+
+      "title": "herbsandharvest.guide_book.crops.list.lista",
+	  
+	  "summary": "",
+
+      "elements": [
+		{
+			"type": "icon_list",
+			"entries": [
+				   {
+					"item": "herbsandharvest:asparagus",
+					"text": "guide.herbsandharvest.asparagus_desc"
+				  },
+				  {
+					"item": "herbsandharvest:barley",
+					"text": "guide.herbsandharvest.barley_desc"
+				  },
+				  {
+					"item": "herbsandharvest:eggplant",
+					"text": "guide.herbsandharvest.eggplant_desc"
+				  },
+				  {
+					"item": "herbsandharvest:blackberry",
+					"text": "guide.herbsandharvest.blackberry_desc"
+				  },
+				  {
+					"item": "herbsandharvest:blueberry",
+					"text": "guide.herbsandharvest.blueberry_desc"
+				  },
+				  {
+					"item": "herbsandharvest:broccoli",
+					"text": "guide.herbsandharvest.broccoli_desc"
+				  },
+				  {
+					"item": "herbsandharvest:cabbage",
+					"text": "guide.herbsandharvest.cabbage_desc"
+				  },
+				  {
+					"item": "herbsandharvest:cauliflower",
+					"text": "guide.herbsandharvest.cauliflower_desc"
+				  },
+				  {
+					"item": "herbsandharvest:celery",
+					"text": "guide.herbsandharvest.celery_desc"
+				  },
+				  {
+					"item": "herbsandharvest:corn",
+					"text": "guide.herbsandharvest.corn_desc"
+				  },
+				  {
+					"item": "herbsandharvest:cucumber",
+					"text": "guide.herbsandharvest.cucumber_desc"
+				  }
+				 
+				 
+			]
+		}
+		
+      ]
+	  
+    },
+	
+	  {
+      "type": "standard",
+
+      "title": "herbsandharvest.guide_book.crops.list.listb",
+	  
+	  "summary": "",
+
+      "elements": [
+		{
+			"type": "icon_list",
+			"entries": [
+				  {
+					"item": "herbsandharvest:garlic_bulb",
+					"text": "guide.herbsandharvest.garlic_bulb_desc"
+				  },				  
+				  {
+					"item": "herbsandharvest:green_bean",
+					"text": "guide.herbsandharvest.green_bean_desc"
+				  },
+				  {
+					"item": "herbsandharvest:green_pepper",
+					"text": "guide.herbsandharvest.green_pepper_desc"
+				  },
+				  {
+					"item": "herbsandharvest:lettuce",
+					"text": "guide.herbsandharvest.lettuce_desc"
+				  },
+				  {
+					"item": "herbsandharvest:oats_item",
+					"text": "guide.herbsandharvest.oats_item_desc"
+				  },
+				  {
+					"item": "herbsandharvest:onion",
+					"text": "guide.herbsandharvest.onion_desc"
+				  },
+				  {
+					"item": "herbsandharvest:peanut",
+					"text": "guide.herbsandharvest.peanut_desc"
+				  },
+				  {
+					"item": "herbsandharvest:peas",
+					"text": "guide.herbsandharvest.peas_desc"
+				  },
+				  {
+					"item": "herbsandharvest:pineapple",
+					"text": "guide.herbsandharvest.pineapple_desc"
+				  },
+				  {
+					"item": "herbsandharvest:radish",
+					"text": "guide.herbsandharvest.radish_desc"
+				  },
+				  {
+					"item": "herbsandharvest:rice_item",
+					"text": "guide.herbsandharvest.rice_item_desc"
+				  },
+				  {
+					"item": "herbsandharvest:raspberry",
+					"text": "guide.herbsandharvest.raspberry_desc"
+				  },
+				  {
+					"item": "herbsandharvest:rye",
+					"text": "guide.herbsandharvest.rye_desc"
+				  }
+			]
+		}
+		
+      ]
+    },
+	
+	  {
+      "type": "standard",
+
+      "title": "herbsandharvest.guide_book.crops.list.listc",
+	  
+	  "summary": "",
+
+      "elements": [
+		{
+			"type": "icon_list",
+			"entries": [
+				 
+				  {
+					"item": "herbsandharvest:squash",
+					"text": "guide.herbsandharvest.squash_desc"
+				  },
+				  {
+					"item": "herbsandharvest:strawberry",
+					"text": "guide.herbsandharvest.strawberry_desc"
+				  },
+				  {
+					"item": "herbsandharvest:sweet_potato",
+					"text": "guide.herbsandharvest.sweet_potato_desc"
+				  },
+				  {
+					"item": "herbsandharvest:tomato",
+					"text": "guide.herbsandharvest.tomato_desc"
+				  },				  
+				  {
+					"item": "herbsandharvest:turnip",
+					"text": "guide.herbsandharvest.turnip_desc"
+				  },
+				  {
+					"item": "herbsandharvest:zucchini",
+					"text": "guide.herbsandharvest.zucchini_desc"
+				  }
+			]
+		},
+		
+		{
+			"type": "text",
+			"literal_text": "\n\n藤蔓类作物的种植：\n",
+			"text": null
+		},
+		
+		{
+			"type": "icon_list",
+			"entries": [
+				 
+				 {
+					"item": "herbsandharvest:grapes",
+					"text": "guide.herbsandharvest.grapes_desc"
+				  }
+			]
+		}
+		
+      ]
+    }
+	
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "轮机部件",
+  "description": "涡轮机由以下部件构成。$(br2)有些部件是必需的，而有些则是可选的。有些适用于所有涡轮机变体，也有些并非如此。部件页面会说明目标涡轮机可使用哪些部件。",
+  "icon": "bigreactors:basic_turbinecontroller",
+  "parent": "bigreactors:turbine",
+  "sortnum": 3
+}

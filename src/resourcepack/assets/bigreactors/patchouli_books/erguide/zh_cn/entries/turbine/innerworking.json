@@ -1,0 +1,17 @@
+{
+  "name": "内部结构",
+  "icon": "bigreactors:basic_turbinerotorbearing",
+  "category": "bigreactors:turbine",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "涡轮机是如何产生能量的？$(br2)靠它旋转的$(l:bigreactors/rotor)转子$(/l)。$(br2)涡轮机蒸汽流体储罐中的流体会按照你在$(l:bigreactors/part-controller)控制器$(/l)图形界面中设置的速率，被泵入$(l:bigreactors/rotor)转子$(/l)腔室。$(br2)每个$(l:bigreactors/part-rotorblade)扇叶$(/l)都会捕获少量蒸汽，从而带动$(l:bigreactors/rotor)转子$(/l)旋转。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "当$(l:bigreactors/coils)感应线圈$(/l)处于$(l:bigreactors/part-controller)接合$(/l)状态时，系统会根据$(l:bigreactors/rotor)转子$(/l)的转速，以及你所有线圈方块在效率、阻力等属性上的平均值来生成能量。$(br2)$(italic)请注意，虽然这段概述足以帮助你造出尽可能优秀的涡轮机，但它仍然是对涡轮机内部实际机制的简化说明。$()"
+    }
+  ]
+}

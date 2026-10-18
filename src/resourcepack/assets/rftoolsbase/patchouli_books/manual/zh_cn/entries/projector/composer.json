@@ -1,0 +1,15 @@
+{
+  "name": "构建器",
+  "icon": "rftoolsbuilder:composer",
+  "category": "rftoolsbase:category_rftoolsbuilder_projector",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:composer": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "构建器可将多张塑形卡片合并为一张。$(br2)每张输入塑形卡片均可选择“添加”、“减去”或“相交”，从而由简单卡片构建出更复杂的形状。"
+    }
+  ]
+}

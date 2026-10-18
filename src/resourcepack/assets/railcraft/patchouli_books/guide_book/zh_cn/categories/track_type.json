@@ -1,0 +1,5 @@
+{
+  "name": "追踪类型",
+  "description": "它们由铁轨类型和道砟类型表示。每种类型都具有不同的能力，例如速度、导热、碰撞、是否可悬空放置、爆炸抗性等。",
+  "icon": "railcraft:reinforced_track"
+}

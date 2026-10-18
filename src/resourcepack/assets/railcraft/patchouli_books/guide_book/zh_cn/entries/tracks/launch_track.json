@@ -1,0 +1,15 @@
+{
+  "name": "发射轨道",
+  "icon": "railcraft:iron_launcher_track",
+  "category": "railcraft:tracks",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "此轨道可将经过其上的任何矿车弹射至空中。弹射力度可通过撬棍右键点击轨道进行调节。$(br2)轨道必须由红石充能才能弹射矿车。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "虽不甚符合现实，却充满无穷乐趣！此轨道可将经过其上的任何矿车弹射至空中。弹射力度可通过撬棍右键点击轨道进行调节。$(br2)轨道必须由红石充能才能弹射矿车。$(br2)虽不甚符合现实，却充满无穷乐趣！"
+    }
+  ]
+}

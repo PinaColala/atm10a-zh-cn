@@ -1,0 +1,17 @@
+{
+  "name": "宽扎节食物",
+  "icon": "merrymaking:sweet_potato_pie",
+  "category": "merrymaking:kwanzaa",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "宽扎节食物",
+      "item": "merrymaking:sweet_potato_pie"
+    },
+    {
+      "type": "crafting",
+      "title": "甜薯派",
+      "recipe": "merrymaking:sweet_potato_pie"
+    }
+  ]
+}

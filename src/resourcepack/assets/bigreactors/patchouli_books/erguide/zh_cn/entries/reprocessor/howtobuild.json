@@ -1,0 +1,17 @@
+{
+  "name": "建造方法",
+  "icon": "bigreactors:reprocessorcollector",
+  "category": "bigreactors:reprocessor",
+  "read_by_default": true,
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "text",
+      "text": "再处理器是一台 3×3、总高 7 格的机器，由机壳方块以及其他各一个设备部件构成。$(br)在机器的竖直侧面上，可以使用玻璃代替机壳方块（但不能放在框架上）。$(br2)关于各个部件可放置位置的限制，请查看对应的再处理器部件页面。"
+    },
+    {
+      "type": "zcmultiblock",
+      "multiblock_id": "bigreactors:bookreprocessor"
+    }
+  ]
+}

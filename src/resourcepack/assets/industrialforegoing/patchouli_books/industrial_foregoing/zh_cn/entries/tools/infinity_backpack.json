@@ -1,0 +1,21 @@
+{
+  "name": "无限背包",
+  "icon": "industrialforegoing:infinity_backpack",
+  "category": "industrialforegoing:tools",
+  "sortnum": 3,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "无限背包是一种便携式工具，可让你随身存储大量物品。$(br2)它可以容纳 3 种特定流体：$(6)生物燃料$()，用于维持自动功能运作；$(6)精华液$()，来自拾取的经验（启用自动拾取时）；以及 $(6)肉汤$()，用于自动喂食你。"
+    },
+    {
+      "type": "text",
+      "text": "启用 $(6)磁引模式$() 后，附近可被拾取的物品会被传送到玩家身边。$(br2)启用 $(6)自动拾取模式$() 后，玩家拾取到且可放入背包的物品会自动进入背包。$(br2)每个槽位都可以设置为将多余物品 $(6)虚空$() 掉，或为你物品栏中未堆满的物品栏位进行 $(6)补充$()。"
+    },
+    {
+      "type": "industrialforegoing:dissolution",
+      "recipe": "industrialforegoing:dissolution_chamber/infinity_backpack"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "肉汤注射器",
+  "icon": "industrialforegoing:meat_feeder",
+  "category": "industrialforegoing:tools",
+  "sortnum": 1,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "当肉汤注射器位于你的物品栏中时，它会用工具内储存的肉汤自动为你进食。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:meat_feeder"
+    }
+  ]
+}

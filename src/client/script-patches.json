@@ -1,0 +1,1097 @@
+[
+  {
+    "path": "kubejs/client_scripts/RecipeViewer.js",
+    "originalSha256": "79bc31ca008542d363c29e58d78cf84d3e49f38783ee2ec25c2fdf66b4491edf",
+    "resultSha256": "5e2d360652efe7c7ecfafa24541440438f86311cd9385cb20f7be1eb84bc3c2b",
+    "replacements": [
+      {
+        "from": "'§8Drop a §cPolymorphic Catalyst§8 into §1Water§8 to get Polymorphic Fluid'",
+        "to": "'§8将§c多态催化剂§8投入§1水§8中，可获得多态流体'",
+        "count": 1
+      },
+      {
+        "from": "'§8Drop a §dPortal Fluid Catalyst§8 into Polymorphic Fluid§8 in t§dThe End§8 to get §5Unstable Portal Fluid'",
+        "to": "'§8将§d传送流体催化剂§8投入§d多态流体§8中，地点位于§5末地§8，即可获得§5不稳定的传送流体'",
+        "count": 1
+      },
+      {
+        "from": "'§8In the Reaction Chamber: §e4000mb of Water§8 + §e1x Quantum Infused Dust§8 = §b1000mb of Quantum Infusion'",
+        "to": "'§8在反应室内：§e4000毫桶水§8 + §e1份量子灌注粉§8 = §b1000毫桶量子灌注液'",
+        "count": 1
+      },
+      {
+        "from": "'§8Drop a §cPolymorphic Catalyst§8 into §bWater§8 to get Polymorphic Fluid'",
+        "to": "'§8将§c多态催化剂§8投入§b水§8中，可获得多态流体'",
+        "count": 1
+      },
+      {
+        "from": "'§8Drop a §dPortal Fluid Catalyst§8 into §dPolymorphic Fluid§8 in §5The End§8 to get §5Unstable Portal Fluid'",
+        "to": "'§8将§d传送流体催化剂§8投入§d多态流体§8中，并置于§5末地§8，可获得§5不稳定的传送流体'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/tooltips.js",
+    "originalSha256": "63650d3de293b3ce0a5e61e6b747ce58fa437aa565e76b31f970e97a9b5cac52",
+    "resultSha256": "01db53f04731f0b95357ef9a08d868ceffdc6bbbc312fa796889a7e3650e4f13",
+    "replacements": [
+      {
+        "from": "'§7Needs at least Netherite to be mined'",
+        "to": "'§7至少需要下界合金级才能挖掘'",
+        "count": 1
+      },
+      {
+        "from": "'§6Found in the Deep Dark Biome and will always spawn air exposed'",
+        "to": "'§6生成于深暗之域，且始终以暴露于空气中的方式生成'",
+        "count": 1
+      },
+      {
+        "from": "'§6Also found in the Deep Slate Layer of Mining Dimension'",
+        "to": "'§6亦可在挖矿维度的深板岩层中发现'",
+        "count": 1
+      },
+      {
+        "from": "'§7Needs at least AllTheModium to be mined'",
+        "to": "'§7至少需要ATM合金工具方可挖掘'",
+        "count": 1
+      },
+      {
+        "from": "'§bFound in any Nether biome'",
+        "to": "'§b可在任意下界生物群系中找到'",
+        "count": 1
+      },
+      {
+        "from": "'§bAlso found in The Other'",
+        "to": "'§b也可在异界找到'",
+        "count": 1
+      },
+      {
+        "from": "'§7Needs at least Vibranium to be mined'",
+        "to": "'§7至少需要振金级才能挖掘'",
+        "count": 1
+      },
+      {
+        "from": "'§dFound in the End Highlands'",
+        "to": "'§d可在末地高地找到'",
+        "count": 1
+      },
+      {
+        "from": "\"§7§oIt's less... talkative now\"",
+        "to": "\"§7§o它现在没那么……多话了\"",
+        "count": 3
+      },
+      {
+        "from": "\"§7§oThese arent the ingots you are looking for\"",
+        "to": "\"§7§o（挥了挥手）这不是你要找的锭\"",
+        "count": 3
+      },
+      {
+        "from": "\"§6Look for the [Silent Allthemodium Plate]\"",
+        "to": "\"§6去找那块[寂静ATM板]\"",
+        "count": 1
+      },
+      {
+        "from": "\"§6Look for the [Silent Vibranium Plate]\"",
+        "to": "\"§6去找那块[寂静振金板]\"",
+        "count": 1
+      },
+      {
+        "from": "\"§6Look for the [Silent Unobtainium Plate]\"",
+        "to": "\"§6去找那块[寂静难得素板]\"",
+        "count": 1
+      },
+      {
+        "from": "'§6Found in Suspicious Clay in Ancient Cities'",
+        "to": "'§6在远古城市的可疑粘土中发现'",
+        "count": 1
+      },
+      {
+        "from": "'§bFound in Suspicious Soul Sand in Bastions'",
+        "to": "'§b可在堡垒遗迹的可疑灵魂沙里找到'",
+        "count": 1
+      },
+      {
+        "from": "'§dDropped by the Trial Spawner in the Library of the Dungeon within The Other'",
+        "to": "'§d掉落自异界合金地牢图书馆内的试炼刷怪笼'",
+        "count": 1
+      },
+      {
+        "from": "\"§c§lShift-Right-Click§r§c the §c§lSmithing Table§r§c with §lMundabitur Dust\"",
+        "to": "\"§c§l搭建完成后按住潜行键使用洁净粉末右击锻造台\"",
+        "count": 1
+      },
+      {
+        "from": "\"§c█ = Gilded Chiseled Polished Darkstone with Smithing Table on top\"",
+        "to": "\"§c█ = 镀金錾制磨制暗黑石（上方放置锻造台）\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7█ = Polished Darkstone\"",
+        "to": "\"§7█ = 磨制暗黑石\"",
+        "count": 1
+      },
+      {
+        "from": "\"§5█§7 = Gilded Chiseled Polished Darkstone\"",
+        "to": "\"§5█§7 = 镀金錾制磨制暗黑石\"",
+        "count": 1
+      },
+      {
+        "from": "\"§6█§7 = Chiseled Arcane Polished Darkstone\"",
+        "to": "\"§6█§7 = 錾制神秘磨制暗黑石\"",
+        "count": 1
+      },
+      {
+        "from": "\"§c§lShift-Right-Click§r§c the §c§lClibano Core§r§c with §c§lMundabitur Dust\"",
+        "to": "\"§c§l搭建完成后使用洁净粉末右击炽炉核心\"",
+        "count": 1
+      },
+      {
+        "from": "\"§5█§7 = Polished Darkstone\"",
+        "to": "\"§5█§7 = 磨制暗黑石\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7█ = Polished Darkstone Bricks\"",
+        "to": "\"§7█ = 磨制暗黑石砖\"",
+        "count": 1
+      },
+      {
+        "from": "\"§6█§7 = Clibano Core\"",
+        "to": "\"§6█§7 = 炽炉核心\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Right to Left -> Bottom to Top\"",
+        "to": "\"§7从右到左 -> 从下到上\"",
+        "count": 1
+      },
+      {
+        "from": "\"§4Obtainable from the Wandering Trader\"",
+        "to": "\"§4可从流浪商人处获得\"",
+        "count": 1
+      },
+      {
+        "from": "\"§4Or by using a Corrupt Soul on an Oak Sapling\"",
+        "to": "\"§4或对橡树树苗使用腐化灵魂获得\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Use Ferrognetic Mixture on the Darkstone Pedestal\"",
+        "to": "\"§7在暗黑石基座上使用铁磁性混合物\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Use a Soul Extractor on Soul Sand\"",
+        "to": "\"§7对灵魂沙使用灵魂提取器\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Rarely spawns in world\"",
+        "to": "\"§7极少生成于世界中\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Use a Splash Aureal Bottle on a normal soul\"",
+        "to": "\"§7对普通灵魂使用喷溅型耀金瓶\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Rarely spawns when killing mobs\"",
+        "to": "\"§7击杀生物时极少生成\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Hold a test tube in your off-hand and then kill mobs\"",
+        "to": "\"§7副手持试管，然后击杀生物\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Only obtainable via the Black Hole\"",
+        "to": "\"§7只能通过黑洞获得\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7To make a Black Hole throw Dark Matter together with Corrupti Dust on the ground\"",
+        "to": "\"§7制作黑洞：将暗物质与腐化粉末一同投掷于地面\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Feed it enough xp to make it spit out an Xpetrified Orb\"",
+        "to": "\"§7为其注入足够经验，使其吐出一个石化经验球\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Dropped by the Ender Dragon\"",
+        "to": "\"§7由末影龙掉落\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Very rarely spawns between Y -44 and Y 42\"",
+        "to": "\"§7极罕见地生成于Y=-44至Y=42之间\"",
+        "count": 1
+      },
+      {
+        "from": "\"§cWill explode when you mine it!\"",
+        "to": "\"§c挖掘时会爆炸！\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Spawns at the bottom of the world up to Y 2\"",
+        "to": "\"§7生成于世界底层，最高至Y=2\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Very rarely spawns between Y -40 and Y 14\"",
+        "to": "\"§7极罕见地生成于Y=-40至Y=14之间\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Most common at Y -13\"",
+        "to": "\"§7在 Y=-13 最常见\"",
+        "count": 1
+      },
+      {
+        "from": "\"§aFound in the Armorer, Toolsmith, or Weaponsmith villager buildings\"",
+        "to": "\"§a可在盔甲匠、工具匠或武器匠村民的房屋中找到\"",
+        "count": 1
+      },
+      {
+        "from": "\"§cUnobtainable\"",
+        "to": "\"§c不可获得\"",
+        "count": 1
+      },
+      {
+        "from": "\"§aFound in Pillager Outposts\"",
+        "to": "\"§a可在掠夺者前哨站中找到\"",
+        "count": 1
+      },
+      {
+        "from": "\"§cWill turn into a Crimson Stone after 1 use\"",
+        "to": "\"§c使用 1 次后会变成绯红之石\"",
+        "count": 1
+      },
+      {
+        "from": "\"§aFound in Jungle Temples, Desert Pyramids, and Underwater Ruins\"",
+        "to": "\"§a可在丛林神庙、沙漠神殿及海底废墟中找到\"",
+        "count": 1
+      },
+      {
+        "from": "\"§aFound in the Village and Pyramid in The Other\"",
+        "to": "\"§a可在异界的村庄和金字塔中找到\"",
+        "count": 1
+      },
+      {
+        "from": "\"§aFound in Treasure Bastions\"",
+        "to": "\"§a可在藏宝堡垒中找到\"",
+        "count": 1
+      },
+      {
+        "from": "\"§cDisabled for Fake Player\"",
+        "to": "\"§c对假玩家无效\"",
+        "count": 1
+      },
+      {
+        "from": "\"§c(Blocks like Modular Routers, Clickers, etc)\"",
+        "to": "\"§c（如模块化路由器、点击器等方块）\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Has it's own slot to be placed in\"",
+        "to": "\"§7拥有专属插槽可供放置\"",
+        "count": 1
+      },
+      {
+        "from": "\"§7Check your Keybinds for \\\"Open Belt Slot Inventory\\\"\"",
+        "to": "\"§7检查快捷键设置中的“打开传送带物品栏”绑定\"",
+        "count": 1
+      },
+      {
+        "from": "\"§aRight click with job site block to put it inside and allow trade restocking\"",
+        "to": "\"§a使用对应职业站点方块右击，将其放入并启用交易补货\"",
+        "count": 1
+      },
+      {
+        "from": "\"§aThis mod will be removed on version 6.0+\"",
+        "to": "\"§a该模组将在6.0+版本中移除！\"",
+        "count": 1
+      },
+      {
+        "from": "'This loot bag is from the \\\"Lunar Monstrosity\\\".'",
+        "to": "'这个战利品袋来自“月藤巨物”。'",
+        "count": 1
+      },
+      {
+        "from": "'§cWARNING, this machine has be depreciated.'",
+        "to": "'§c警告：该机器已被弃用。'",
+        "count": 4
+      },
+      {
+        "from": "'Use crafting table to convert to the new version.'",
+        "to": "'请使用工作台转换为新版本。'",
+        "count": 4
+      },
+      {
+        "from": "\"§cWARNING: Will implode at wave 3 outside of the following dimensions:\"",
+        "to": "\"§c警告：在以下维度之外，第3波时将发生内爆：\"",
+        "count": 1
+      },
+      {
+        "from": "\"§cOverworld, The Nether, The End, The Twilight Forest\"",
+        "to": "\"§c主世界、下界、末地、暮色森林\"",
+        "count": 1
+      },
+      {
+        "from": "\"§9In a Botany Pot: Requires a hoe enchanted with Silk Touch to be harvested\"",
+        "to": "\"§9在植物盆中：需使用附有精准采集魔咒的锄头方可收获\"",
+        "count": 1
+      },
+      {
+        "from": "\"Any angel ring can have its appearance change in the crafting table.\"",
+        "to": "\"任意天使指环都可在工作台中改变外观。\"",
+        "count": 1
+      },
+      {
+        "from": "\"§cNOTICE: Must be fully charged before use.\"",
+        "to": "\"§c注意：必须充满能量后才能使用。\"",
+        "count": 1
+      },
+      {
+        "from": "\"Drop on the ground to charge. Needs to be day time and direct access to the sky.\"",
+        "to": "\"丢在地上即可充能，需要白天且能直接见到天空。\"",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/startup_scripts/CustomAdditions.js",
+    "originalSha256": "85bbf5ff87ea91eac1e685daf7ca13ae072ee8d09f82df2781a8ced3b011ef14",
+    "resultSha256": "ee51c44a282a2b52b630a36413ea6dd8e66d0d09347c33446cb76e1e5d14165f",
+    "replacements": [
+      {
+        "from": "'§bMagical Soil'",
+        "to": "'§b魔法土壤'",
+        "count": 1
+      },
+      {
+        "from": "'Air Essence Block'",
+        "to": "'风之源质块'",
+        "count": 1
+      },
+      {
+        "from": "'Earth Essence Block'",
+        "to": "'地之源质块'",
+        "count": 1
+      },
+      {
+        "from": "'Fire Essence Block'",
+        "to": "'火之源质块'",
+        "count": 1
+      },
+      {
+        "from": "'Water Essence Block'",
+        "to": "'水之源质块'",
+        "count": 1
+      },
+      {
+        "from": "'Blaze Powder Block'",
+        "to": "'烈焰粉块'",
+        "count": 1
+      },
+      {
+        "from": "'Saltpeter Block'",
+        "to": "'硝石块'",
+        "count": 1
+      },
+      {
+        "from": "'Generalized Starlight Prediction'",
+        "to": "'通用星光预测产物'",
+        "count": 1
+      },
+      {
+        "from": "'Silent Allthemodium Plate'",
+        "to": "'寂静Allthemodium板'",
+        "count": 1
+      },
+      {
+        "from": "'Silent Vibranium Plate'",
+        "to": "'寂静振金板'",
+        "count": 1
+      },
+      {
+        "from": "'Silent Unobtainium Plate'",
+        "to": "'寂静难得素板'",
+        "count": 1
+      },
+      {
+        "from": "'ATM Star Fragment'",
+        "to": "'ATM之星碎片'",
+        "count": 5
+      },
+      {
+        "from": "\"Allthemodium Solar Sail Package\"",
+        "to": "\"ATM太阳帆包裹\"",
+        "count": 1
+      },
+      {
+        "from": "\"Allthemodium Beam Package\"",
+        "to": "\"ATM光束包裹\"",
+        "count": 1
+      },
+      {
+        "from": "\"Dragon or Dragon Roost not found nearby...\"",
+        "to": "\"附近未找到龙或龙巢穴……\"",
+        "count": 1
+      },
+      {
+        "from": "'Liquid Souls'",
+        "to": "'液态灵魂'",
+        "count": 1
+      },
+      {
+        "from": "'Unrefined Liquid Souls'",
+        "to": "'未精炼液态灵魂'",
+        "count": 1
+      },
+      {
+        "from": "'Liquid Aureal'",
+        "to": "'液态耀金'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/ponder/fission_mek.js",
+    "originalSha256": "a9b563726261630a1e5697cd159d43a191b6db4d92950441a0bc597daadfbbe4",
+    "resultSha256": "ce16204f9d31147c448630b84125662955db7c412eb85fa6480e96b5b4ce48d0",
+    "replacements": [
+      {
+        "from": "'Mekanism Fission Reactor'",
+        "to": "'通用机械裂变反应堆'",
+        "count": 1
+      },
+      {
+        "from": "'The Edges Must Be Casings'",
+        "to": "'边框必须是外壳'",
+        "count": 1
+      },
+      {
+        "from": "'The Walls Can Be Either Casings Or Glass'",
+        "to": "'墙面可以是反应堆外壳或玻璃'",
+        "count": 1
+      },
+      {
+        "from": "'Place Fuel Assembly Blocks Inside To Make The Fuel Rods'",
+        "to": "'在内部放置燃料组件方块以制成燃料棒'",
+        "count": 1
+      },
+      {
+        "from": "'Place Control Rod Assembly At The Top Of Each Fuel Rod'",
+        "to": "'在每根燃料棒顶部放置控制棒组件'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/ponder/fission_mek_fuelrod.js",
+    "originalSha256": "e07cdd171d25188f90b6e84b4135eff6866b1e3f855f66b4e874c9f4869d6cf7",
+    "resultSha256": "88b159831b62c78ac35193d80965cb9a35c4061840290c9ddd0078b3687e12e6",
+    "replacements": [
+      {
+        "from": "'Mekanism Fission Reactor: Fuel Assembly'",
+        "to": "'通用机械裂变反应堆：燃料组件'",
+        "count": 1
+      },
+      {
+        "from": "'Place Fuel Assembly Blocks Inside To Make The Fuel Rods'",
+        "to": "'在内部放置燃料组件方块以制成燃料棒'",
+        "count": 1
+      },
+      {
+        "from": "'Fuel Rods are created with several Fission Fuel Assembly blocks with a Control Rod Assembly on top.'",
+        "to": "'燃料棒由多个裂变燃料组件方块构成，顶部需放置控制棒组件。'",
+        "count": 1
+      },
+      {
+        "from": "'Place Control Rod Assembly At The Top Of Each Fuel Rod'",
+        "to": "'在每根燃料棒顶部放置控制棒组件'",
+        "count": 1
+      },
+      {
+        "from": "'Control Rod Assembly blocks are placed 1 block from the ceiling.'",
+        "to": "'控制棒组件方块需放置在距天花板1格处。'",
+        "count": 1
+      },
+      {
+        "from": "'Fuel Rods Cannot Touch'",
+        "to": "'燃料棒不能相互接触'",
+        "count": 1
+      },
+      {
+        "from": "'Multiple Fuel Rods work best in a checkerboard pattern.'",
+        "to": "'多个燃料棒以棋盘格模式布置效果最佳。'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/ponder/fission_mek_logic.js",
+    "originalSha256": "c3a6135a4a9c47071fe131cfaafe0797d5b66bfb564a11bfe5014e4b5640c30a",
+    "resultSha256": "3bdd2f983d976a52c4654964041319eae373b51d72da1fe3f94b6995a4065a78",
+    "replacements": [
+      {
+        "from": "'Mekanism Fission Reactor: Logic Adapters'",
+        "to": "'通用机械裂变反应堆：逻辑适配器'",
+        "count": 1
+      },
+      {
+        "from": "'Logic Adapters allow Redstone Control for Reactors.'",
+        "to": "'逻辑适配器支持红石控制反应堆。'",
+        "count": 1
+      },
+      {
+        "from": "'Right Click to Open Configuration Settings'",
+        "to": "'右击以打开配置设置'",
+        "count": 1
+      },
+      {
+        "from": "'With two, you can set up a Fail Safe that can shut off the Reactor under certain conditions.'",
+        "to": "'使用两个即可设置安全模式，在特定条件下自动关闭反应堆。'",
+        "count": 1
+      },
+      {
+        "from": "'Set this one to Activation'",
+        "to": "'将这个设为启动'",
+        "count": 1
+      },
+      {
+        "from": "'Set this one to Damage Critical.'",
+        "to": "'将这个设为损伤临界值。'",
+        "count": 1
+      },
+      {
+        "from": "'When the Reactor has Critical Damage, it will give off a redstone signal.'",
+        "to": "'当反应堆遭受严重损伤时，将输出红石信号。'",
+        "count": 1
+      },
+      {
+        "from": "'We can use this to activate a piston with gravel or sand on it to activate an Observer.'",
+        "to": "'可利用此装置激活带有沙砾或沙子的活塞，从而触发侦测器。'",
+        "count": 1
+      },
+      {
+        "from": "'This is an Oberserver facing towards the Gravel. The Gravel will activate it and turn off the reactor.'",
+        "to": "'这是一个面向沙砾的侦测器。沙砾将激活它并关闭反应堆。'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/ponder/fission_mek_port.js",
+    "originalSha256": "59cea9c32cd3a74cdba18bb9e6436ed3b0d4ba6f04f4d0b1a448838b945b0b26",
+    "resultSha256": "6449c96ddb8e02dd07e20a49cbdbe57597b1b5436dcf61a5059b7d6df298e687",
+    "replacements": [
+      {
+        "from": "'Mekanism Fission Reactor: Ports'",
+        "to": "'通用机械裂变反应堆：端口'",
+        "count": 1
+      },
+      {
+        "from": "'A Reactor Needs At Least 4 Ports'",
+        "to": "'反应堆至少需要 4 个端口'",
+        "count": 1
+      },
+      {
+        "from": "'Ports Can Be Changed Using A Configurator'",
+        "to": "'端口可使用配置器进行更改'",
+        "count": 1
+      },
+      {
+        "from": "'Required Ports:'",
+        "to": "'所需端口：'",
+        "count": 1
+      },
+      {
+        "from": "'Input Coolant'",
+        "to": "'输入冷却液'",
+        "count": 1
+      },
+      {
+        "from": "'Input Fuel'",
+        "to": "'输入燃料'",
+        "count": 1
+      },
+      {
+        "from": "'Output Waste'",
+        "to": "'输出废料'",
+        "count": 1
+      },
+      {
+        "from": "'Output Heated Coolant'",
+        "to": "'输出高温冷却液'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/ponder/fusion_activate.js",
+    "originalSha256": "501cb7d9ff88bade43d54b8f287d4f70cd2f0cad45db3735abbb1f2e521139e7",
+    "resultSha256": "abf5d5ccd383f158345641c1bd3ad6fd646f784d3d7c7c775168449ae88d66d9",
+    "replacements": [
+      {
+        "from": "'Mekanism Fusion Reactor: Activation'",
+        "to": "'通用机械聚变反应堆：启动'",
+        "count": 1
+      },
+      {
+        "from": "'To activate the Fusion Reactor, we will need a few things.'",
+        "to": "'要启动聚变反应堆，我们需要准备几样东西。'",
+        "count": 1
+      },
+      {
+        "from": "'You will need to put a Hohlraum filled with D-T fuel in the Controller.'",
+        "to": "'需在控制器中放入一个装有D-T燃料的黑体辐射腔。'",
+        "count": 1
+      },
+      {
+        "from": "'You will need to shoot 400MRF using Lasers into the Laser Matrix.'",
+        "to": "'需使用激光向激光聚焦矩阵射入4亿MRF能量。'",
+        "count": 1
+      },
+      {
+        "from": "'The Laser Amplifier needs to have the Red face pointing towards the Matrix.'",
+        "to": "'激光增幅器需将红色面朝向矩阵。'",
+        "count": 1
+      },
+      {
+        "from": "\"You will also need to give the Reactor fuel.\"",
+        "to": "\"你还需要为反应堆提供燃料。\"",
+        "count": 1
+      },
+      {
+        "from": "'For Deuterium'",
+        "to": "'用于氘'",
+        "count": 1
+      },
+      {
+        "from": "'For Tritium.'",
+        "to": "'对于氚。'",
+        "count": 1
+      },
+      {
+        "from": "'The Reactor mixes the D-T fuel at a set rate when they are pumped in separately.'",
+        "to": "'当D-T燃料被分别泵入时，反应堆将以设定速率进行混合。'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/ponder/fusion_reactor.js",
+    "originalSha256": "6f49fbfe424cf956dc3cc083798e2673e6c83743ca357f62d745ecb1be9f7b38",
+    "resultSha256": "555e13454509dd7dbbfcb5e4397ed5a91d1cdc590b6b11f5a4ebdc9539888e40",
+    "replacements": [
+      {
+        "from": "'Mekanism Fusion Reactor'",
+        "to": "'通用机械聚变反应堆'",
+        "count": 1
+      },
+      {
+        "from": "'The Fusion Reactor can be used to generate millions of RF per tick.'",
+        "to": "'聚变反应堆可用于每刻生成数百万RF能量。'",
+        "count": 1
+      },
+      {
+        "from": "'Ports Can Be Changed Using A Configurator'",
+        "to": "'端口可使用配置器进行更改'",
+        "count": 1
+      },
+      {
+        "from": "'The Fusion Reactor is built using this pattern for each face.'",
+        "to": "'聚变反应堆需按此结构逐面搭建。'",
+        "count": 1
+      },
+      {
+        "from": "'You will need a port for exporting power.'",
+        "to": "'你需要一个用于输出电力的端口。'",
+        "count": 1
+      },
+      {
+        "from": "'The Laser Matrix is used to kickstart the reactor.'",
+        "to": "'激光矩阵用于启动反应堆。'",
+        "count": 1
+      },
+      {
+        "from": "'The Fusion Reactor Controller must be placed in the middle of the top face.'",
+        "to": "'聚变堆控制器必须放置在顶面正中央。'",
+        "count": 1
+      },
+      {
+        "from": "'You will need two ports for inputting Deuterium'",
+        "to": "'你需要两个端口来输入氘'",
+        "count": 1
+      },
+      {
+        "from": "'and Tritium.'",
+        "to": "'和氚。'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/ponder/induction_mek.js",
+    "originalSha256": "8fb61443b6f9bbef7840ec0e6e3eaf51a51ef6fd45d16406808eed8cd603b121",
+    "resultSha256": "fb9e9d09bac6b3ec51f9fbc4b1dc2a2c40ee104106e96cc3a09435087bf1401e",
+    "replacements": [
+      {
+        "from": "'Mekanism: Induction Matrix'",
+        "to": "'通用机械：感应矩阵'",
+        "count": 1
+      },
+      {
+        "from": "'The Induction Matrix is used to store tons of Power.'",
+        "to": "'输导矩阵用于储存海量电力。'",
+        "count": 1
+      },
+      {
+        "from": "'The Edges Must Be Casings'",
+        "to": "'边框必须是外壳'",
+        "count": 1
+      },
+      {
+        "from": "'The Faces Can Be Either Casings Or Structural Glass.'",
+        "to": "'各面可以是外壳或结构玻璃。'",
+        "count": 1
+      },
+      {
+        "from": "'Ports Are Used To Transfer Power.'",
+        "to": "'端口用于传输电力。'",
+        "count": 1
+      },
+      {
+        "from": "'Ports Can Be Changed Using A Configurator.'",
+        "to": "'端口可使用配置器进行更改。'",
+        "count": 1
+      },
+      {
+        "from": "'Induction Cells Are Used To Increase Power Storage.'",
+        "to": "'感应电池用于提高储能容量。'",
+        "count": 1
+      },
+      {
+        "from": "'Induction Providers Are Used To Increase Power Transfer Rate.'",
+        "to": "'输导供应器用于提升电力传输速率。'",
+        "count": 1
+      },
+      {
+        "from": "'The Matrix Must Have One Cell and One Provider.'",
+        "to": "'矩阵必须包含一个单元格与一个供应器。'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/ponder/sps.js",
+    "originalSha256": "b379c9a0d0ff2b0507475498126acc145a4d685a295f64af4dd8487a3c7bb529",
+    "resultSha256": "d3890483e9ea888ab03e5284ca47a31e6db404a9395803a4eb18e354877bdf11",
+    "replacements": [
+      {
+        "from": "'Mekanism: Supercritical Phase Shifter (SPS)'",
+        "to": "'通用机械：超临界移相器（SPS）'",
+        "count": 1
+      },
+      {
+        "from": "'The SPS converts Polonium into Antimatter Gas using a large amount of power'",
+        "to": "'SPS通过消耗大量电力将钋转化为反物质气体。'",
+        "count": 1
+      },
+      {
+        "from": "'Ports Can Be Changed Using A Configurator'",
+        "to": "'端口可使用配置器进行更改'",
+        "count": 1
+      },
+      {
+        "from": "'The SPS is built using this pattern for each face.'",
+        "to": "'超临界移相器（SPS）需按此结构逐面搭建。'",
+        "count": 1
+      },
+      {
+        "from": "'On one side, you will need a Port in the middle to input power.'",
+        "to": "'一侧需在中央放置一个端口以输入电力。'",
+        "count": 1
+      },
+      {
+        "from": "'On the inside, place a Supercharged Coil on the Port.'",
+        "to": "'内部需在端口上放置一个增压线圈。'",
+        "count": 1
+      },
+      {
+        "from": "'You can also use two Supercharged Coils for max power usage.'",
+        "to": "'也可使用两个增压线圈以实现最大电力消耗。'",
+        "count": 1
+      },
+      {
+        "from": "'You will need one Port for inputting Polonium.'",
+        "to": "'你需要一个端口来输入钋。'",
+        "count": 1
+      },
+      {
+        "from": "'And another for exporting Antimatter Gas.'",
+        "to": "'还需要另一个端口来输出反物质气体。'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/client_scripts/ponder/turbine_mek.js",
+    "originalSha256": "b40fcad2b2f065ce939fa834ace3200a0bce8d2c0f08a3a3b88cee8ca9e7f73f",
+    "resultSha256": "4f04369070a60a1d08a8f32f766c53f0090415c88330e0ab73932351f46c5927",
+    "replacements": [
+      {
+        "from": "'Mekanism: Industrial Turbine'",
+        "to": "'通用机械：工业涡轮机'",
+        "count": 1
+      },
+      {
+        "from": "'The Industrial Turbine uses Heated Coolant to create Power.'",
+        "to": "'工业涡轮利用热冷却剂发电。'",
+        "count": 1
+      },
+      {
+        "from": "'The edges must be made of Turbine Casings.'",
+        "to": "'边框必须由涡轮机外壳构成。'",
+        "count": 1
+      },
+      {
+        "from": "'The faces can be Turbine Casings, Structural Glass, Valves, or Vents.'",
+        "to": "'各面可采用涡轮外壳、结构玻璃、阀门或排气口。'",
+        "count": 1
+      },
+      {
+        "from": "'Turbine Valves pump in Steam, or export Power.'",
+        "to": "'涡轮阀门用于泵入蒸汽或输出电力。'",
+        "count": 1
+      },
+      {
+        "from": "'Turbine Rotors must be placed in the middle. Each Rotor uses 2 Turbine Blades.'",
+        "to": "'涡轮转子必须放置在中央。每个转子消耗2个涡轮叶片。'",
+        "count": 1
+      },
+      {
+        "from": "'A Rotational Complex must be placed on top of the Turbine Rotor.'",
+        "to": "'复杂旋钮装置必须放置在涡轮转子上方。'",
+        "count": 1
+      },
+      {
+        "from": "'Pressure Dispersers must fill the layer around the Rotational Complex.'",
+        "to": "'分压元件必须填满围绕复杂旋钮装置的整层。'",
+        "count": 1
+      },
+      {
+        "from": "'Starting on this layer, Turbine Vents can be used for the outer faces. These also export Water from the Turbine.'",
+        "to": "'从此层开始，外侧表面可使用涡轮排气口。这些排气口还可导出涡轮内的水。'",
+        "count": 1
+      },
+      {
+        "from": "'Electromagnetic Coils are placed on top of the Rotational Complex.'",
+        "to": "'电磁线圈需放置在复杂旋钮装置顶部。'",
+        "count": 1
+      },
+      {
+        "from": "'A max of 5 can be placed. They either must connect to each other, or be touching the Rotational Complex.'",
+        "to": "'最多可放置5个。它们必须彼此相连，或直接接触复杂旋钮装置。'",
+        "count": 1
+      },
+      {
+        "from": "'Saturating Condensers are used to convert Steam back into Water. These are not required, but must be placed on or above the Coil Layer.'",
+        "to": "'饱和冷凝器用于将蒸汽重新转化为水。非必需，但必须放置在或高于线圈层。'",
+        "count": 1
+      },
+      {
+        "from": "'The Top Face can be replaced with Turbine Vents, if needed.'",
+        "to": "'如需，顶面可用涡轮排气口替代。'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/startup_scripts/Applied Energistics/Universal_Press.js",
+    "originalSha256": "c896bf73c4bde5b6c5d2f5fb2a5129ee89ab320e7abdeebe159b5ed72c2bf350",
+    "resultSha256": "8e5a83e07e934aaa17120468ff0fdacb86978a83e78a7aedca2dd1e7a6fe3b91",
+    "replacements": [
+      {
+        "from": "'Inscriber Universal Press'",
+        "to": "'通用压印模板'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/startup_scripts/Modern-Industrialization/atm_stuff.js",
+    "originalSha256": "6d040ef5dbb93692ad8421259b55c70c7ab8f4b120efb14ea93469fac409c7b0",
+    "resultSha256": "0feae755bae679c6404555d6e0d80fa2dfc92ad9087af3d6795fcf4f207e9186",
+    "replacements": [
+      {
+        "from": "'Allthemodium Drill'",
+        "to": "'全合金钻头'",
+        "count": 1
+      },
+      {
+        "from": "'Allthemodium Drill Head'",
+        "to": "'ATM钻头头部'",
+        "count": 1
+      },
+      {
+        "from": "'Allthemodium Curved Plate'",
+        "to": "'ATM曲面板'",
+        "count": 1
+      },
+      {
+        "from": "'Allthemodium Bolt'",
+        "to": "'全合金螺栓'",
+        "count": 1
+      },
+      {
+        "from": "'Vibranium Drill'",
+        "to": "'振金钻头'",
+        "count": 1
+      },
+      {
+        "from": "'Vibranium Drill Head'",
+        "to": "'振金钻头头部'",
+        "count": 1
+      },
+      {
+        "from": "'Vibranium Curved Plate'",
+        "to": "'振金曲面板'",
+        "count": 1
+      },
+      {
+        "from": "'Vibranium Bolt'",
+        "to": "'振金螺栓'",
+        "count": 1
+      },
+      {
+        "from": "'Unobtainium Drill'",
+        "to": "'难得素钻头'",
+        "count": 1
+      },
+      {
+        "from": "'Unobtainium Drill Head'",
+        "to": "'难得素钻头头部'",
+        "count": 1
+      },
+      {
+        "from": "'Unobtainium Curved Plate'",
+        "to": "'难得素曲面板'",
+        "count": 1
+      },
+      {
+        "from": "'Unobtainium Bolt'",
+        "to": "'难得素螺栓'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/startup_scripts/Theurgy/SulfurAdditions.js",
+    "originalSha256": "3e5694f8d34d95342fe6c29500e06b80a330b0c76c445751bc973e25d4664dbc",
+    "resultSha256": "88d679e0a9a165bc122d53f72db4002044ce8a92fb561580b8d16985977f0b92",
+    "replacements": [
+      {
+        "from": "\"Stellarite Piece\"",
+        "to": "\"流星碎片\"",
+        "count": 1
+      },
+      {
+        "from": "\"Arcane Crystal\"",
+        "to": "\"神秘水晶\"",
+        "count": 1
+      },
+      {
+        "from": "\"Rune\"",
+        "to": "\"基础符文\"",
+        "count": 1
+      },
+      {
+        "from": "\"Salt\"",
+        "to": "\"盐\"",
+        "count": 1
+      },
+      {
+        "from": "\"Sulfur\"",
+        "to": "\"硫磺\"",
+        "count": 1
+      },
+      {
+        "from": "\"Prosperity Shard\"",
+        "to": "\"活化水晶碎片\"",
+        "count": 1
+      },
+      {
+        "from": "\"Iesnium\"",
+        "to": "\"艾瑟金属\"",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/auto_forge.js",
+    "originalSha256": "6e525572d3131bf51847dc7e9a391a8fb0e8242ff36c705c43625a8d3431c604",
+    "resultSha256": "d97cb1b4e41b9e02e077d37e637860cb51589a5683791323a33e5942d0e00f65",
+    "replacements": [
+      {
+        "from": "'Automatic Hephaestus Forge'",
+        "to": "'自动赫菲斯托斯锻炉'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/casing.js",
+    "originalSha256": "2710b7215cad02a312a7752a6b2f83d29be45b5a9992bfb811ac51f54d6a2363",
+    "resultSha256": "66a13017875d7d4ce7065bf0e62f01bb45b0cc48f94bda72f95d13930f1edab0",
+    "replacements": [
+      {
+        "from": "'Runic'",
+        "to": "'符文'",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/runic_crucible.js",
+    "originalSha256": "f9bb11765d264296085f79b94c8e0aa51f8fb43347227cf796d3184cbb1bf64b",
+    "resultSha256": "2f43799d6fc0c3e495423ac331474d034748d991e20541682d89d1a2d52fd35a",
+    "replacements": [
+      {
+        "from": "'Runic Crucible'",
+        "to": "'符文坩埚'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/runic_enchanter.js",
+    "originalSha256": "cef1820562784a651023e96398c2602a45aaf734524469debff5e7cdee03561e",
+    "resultSha256": "402ba804010c7dd832252d6a148a42a511cec6982ce6b58ba5345be51e523e79",
+    "replacements": [
+      {
+        "from": "'Runic Enchanter'",
+        "to": "'符文附魔台'",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "path": "kubejs/startup_scripts/Modern-Industrialization/multiblocks/runic_star_altar.js",
+    "originalSha256": "e9224a4291f0d9a438e8b304b5aa858b29ffc2b470edcd3571c179f0f17646c6",
+    "resultSha256": "08332c9a5825cf04460263b7ec1c8f48e63c2e4b2c20c6abb1fc75ffdb00c450",
+    "replacements": [
+      {
+        "from": "'Runic Star Altar'",
+        "to": "'符文星祭坛'",
+        "count": 1
+      }
+    ]
+  }
+]

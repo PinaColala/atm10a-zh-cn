@@ -1,0 +1,172 @@
+{
+  "quest_images_restored": [
+    "quest.0B11EAB8D76529E0.quest_desc",
+    "quest.0104C2E2E30B966B.quest_desc"
+  ],
+  "obsolete_pairs_removed": [
+    [
+      "rftools_gui_labels_zh.json",
+      "mcjty.rftoolsstorage.craftinggrid.GuiCraftingGrid",
+      "Positioned"
+    ]
+  ],
+  "concat_pairs_rewritten": [
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardType",
+      "\u0001Max area: \u0001x\u0001x\u0001"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardType",
+      "The liquid will be replaced with \u0001."
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardType",
+      "them with \u0001."
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbase.modules.filter.client.GuiFilterModule",
+      "\u0001Click to add to filter"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbase.modules.filter.client.GuiFilterModule",
+      "\u0001Shift-Click to add tags to filter"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001You can only do this on a builder!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001There is no Builder selected!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001The Builder is in another dimension!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001This card is not linked to scan data!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001Now select the first corner"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001Now select the second corner"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001Cleared area selection mode!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001New settings copied to the shape card!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001This does not appear to be a valid shapecard file!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardItem",
+      "\u0001To load a file into this card you need a linked 'scan' type card!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsstorage.modules.scanner.client.GuiStorageScanner",
+      "\u0001All routable inventories"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.client.GuiChamberDetails",
+      "Move Cost \u0001 RF"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.client.GuiChamberDetails",
+      "Total cost blocks: \u0001 RF"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.client.GuiChamberDetails",
+      "Total cost entities: \u0001 RF"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsutility.modules.teleporter.client.GuiDialingDevice",
+      "Distance: \u0001"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.lib.client.GuiTools",
+      "\u0001Position is not loaded!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.lib.client.GuiTools",
+      "\u0001Tile entity is missing!"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolsbuilder.modules.scanner.client.GuiScanner",
+      "Dim: \u0001"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolspower.modules.dimensionalcell.client.GuiDimensionalCell",
+      "Extracted: \u0001"
+    ],
+    [
+      "rftools_all_modules_zh.json",
+      "mcjty.rftoolspower.modules.dimensionalcell.client.GuiDimensionalCell",
+      "Inserted: \u0001"
+    ],
+    [
+      "rftoolsbuilder_hardcode_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.blocks.BuilderTileEntity",
+      "\u0001Progress:"
+    ],
+    [
+      "rftoolsbuilder_hardcode_zh.json",
+      "mcjty.rftoolsbuilder.modules.builder.blocks.BuilderTileEntity",
+      "    Chunk:  \u0001 of \u0001"
+    ]
+  ],
+  "effective_class_key_pairs": 449,
+  "duplicate_wording_unified": [
+    [
+      "mcjty.rftoolsbuilder.modules.builder.items.ShapeCardType",
+      "them with ",
+      "替换为",
+      "它们与 "
+    ],
+    [
+      "mcjty.rftoolspower.modules.dimensionalcell.client.GuiDimensionalCell",
+      "Inserted: ",
+      "已注入：",
+      "已插入："
+    ],
+    [
+      "mcjty.rftoolsstorage.modules.scanner.client.GuiStorageScanner",
+      "All routable inventories",
+      "所有可路由的容器",
+      "所有可路由容器"
+    ]
+  ],
+  "game_started": false
+}

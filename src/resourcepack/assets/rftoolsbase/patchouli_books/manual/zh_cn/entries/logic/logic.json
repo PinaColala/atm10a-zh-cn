@@ -1,0 +1,24 @@
+{
+  "name": "逻辑器",
+  "icon": "rftoolsutility:logic",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:logic": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个方块有三个红石输入和一个输出。通过 GUI，你可以将这三个输入的任意组合映射为单一输出。对于每种输入组合，你都可以将输出设为关闭、开启或保持。在“保持”模式下，输出状态将与切换到该输入状态之前保持一致。"
+    },
+    {
+      "type": "text",
+      "title": "GUI",
+      "text": "GUI界面列出了三个输入侧面的所有输入组合。将每行设为“关闭”、“开启”或“保持”；其中“保持”将保留上一次的输出状态。"
+    },
+    {
+      "type": "crafting",
+      "heading": "数字",
+      "recipe": "rftoolsutility:logic"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "开始",
+  "icon": "minecraft:writable_book",
+  "category": "productivetrees:guide",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "flag": "mod:productivebees",
+      "text": "将一棵树紧邻另一棵树放置，并确保附近有蜜蜂，即可坐享收益。$(br)蜂箱支持模拟运行，而射程升级可使工作范围每次提升2个方块，基础射程为4个方块。$(br2)请注意，本模组尚处测试阶段，功能尚未完善。$(br)尤其是树木的成长特性（即成长后的外观）仍在开发中。"
+    },
+    {
+      "type": "patchouli:text",
+      "flag": "!mod:productivebees",
+      "text": "将一棵树紧邻另一棵树放置，并确保附近有蜜蜂，即可坐享收益。$(br)你还可以收集树叶，再用花粉筛进行筛选以提取花粉；将花粉球用于树叶上，即可为其授粉并培育出新的树种。$(br2)请注意，本模组尚处测试阶段，功能尚未完善。$(br1)尤其是树木的成长特性（即成长后的外观）仍在开发中。"
+    },
+    {
+      "type": "patchouli:text",
+      "flag": "!mod:productivebees",
+      "text": "若使用蜜蜂进行育种，请确保两棵目标树木的树叶均位于蜂巢/蜂箱周围4个方块范围内，且蜜蜂附近需有花朵。蜜蜂每次从花朵飞回蜂巢时，都会尝试对附近的树叶进行一次授粉。"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:spyglass",
+      "text": "你可以使用单筒望远镜更清晰地分辨哪些树叶已被授粉。"
+    }
+  ]
+}

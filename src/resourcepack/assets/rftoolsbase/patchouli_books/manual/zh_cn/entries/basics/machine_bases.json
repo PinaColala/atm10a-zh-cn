@@ -1,0 +1,25 @@
+{
+  "name": "机器基座",
+  "icon": "rftoolsbase:machine_base",
+  "category": "rftoolsbase:category_basics",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)机器基座$()与$(l:rftoolsbase:basics/machine_frames)机器框架$()类似，都是合成材料，但最终做出的机器略有不同。$(br2)机器基座制作出的机器高度只有四分之一个方块，并且通常具有某种形式的$(thing)红石$()输入或输出。"
+    },
+    {
+      "type": "text",
+      "text": "当你放置这些机器中的一种时，它的朝向由$(thing)你的光标最靠近方块哪一条边$()决定。$(br2)你可以把要放置机器的那个方块侧面想象成画了一个 X，然后考虑你看向的是这个 X 的哪个“四分区”。$(br2)输出端会朝向这个方向，而输入端则来自相反方向。"
+    },
+    {
+      "type": "text",
+      "text": "这对于在狭小空间或墙面上放置这些机器特别有用——这是这些方块更方便的特性之一。$(br2)当然，如果你不喜欢方块当前的朝向，随时都可以用$(l:rftoolsbase:tools/smartwrench)扳手$()调整——只需用处于扳手模式的扳手右键点击，即可改变它的朝向。"
+    },
+    {
+      "type": "crafting",
+      "heading": "机器基座",
+      "recipe": "rftoolsbase:machine_base",
+      "text": "$(item)机器基座$()本身没有任何功能，但在许多配方中会作为其他方块的基础材料使用。"
+    }
+  ]
+}

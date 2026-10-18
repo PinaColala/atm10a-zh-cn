@@ -1,0 +1,117 @@
+{
+	quest.0061B0577B1C4AEF.quest_desc: ["&7先寻找一种奇特的发光材料，开启我们的&b末影接口&7之旅。", "&6无限粉粒&r可通过在&7基岩&r上&c点火&r获得，燃烧时有小概率产生。", "&a提示：&r前期只需少量，它是包括合金炉在内的许多基础配方的起点。"]
+	quest.0061B0577B1C4AEF.quest_subtitle: "&7来自基岩的力量火花"
+	quest.0061B0577B1C4AEF.title: "&d&l无限粉粒"
+	quest.00E6B3F670E20454.quest_desc: ["&7&l魂金&r由&6金锭&r和&7灵魂沙&r在&6合金炉&r中合成。", "它用于灵魂瓶，以及灵魂绑定机等捕捉、绑定灵魂的设备。"]
+	quest.00E6B3F670E20454.quest_subtitle: "&7与受折磨灵魂结合的黄金"
+	quest.00E6B3F670E20454.title: "&5&l魂金锭"
+	quest.03EC3173343B11F5.quest_desc: ["&7用黑钢锭制作的剑，可通过特殊模块逐步升级，例如增加伤害或额外附魔槽。", "&a提示：&r解锁升级后，潜行右键打开升级菜单。"]
+	quest.03EC3173343B11F5.quest_subtitle: "&7与我们一同成长的利刃"
+	quest.03EC3173343B11F5.title: "&7&l黑钢剑"
+	quest.0527CE6921ADB079.quest_desc: ["&7灵魂绑定机消耗 µI 能量与液态经验制作特殊物品，例如将装有生物的灵魂瓶绑定到损坏的刷怪笼。", "可以用经验棒注入经验，或通过流体导管输入液态经验。"]
+	quest.0527CE6921ADB079.quest_subtitle: "&7能量与液态经验的交汇"
+	quest.0527CE6921ADB079.title: "&5&l灵魂绑定机"
+	quest.05352452468E8375.quest_desc: ["&7导电合金由金、红石和荧石粉在合金炉中制作。", "它用于高级能量导管、部分研磨球和中级机器。"]
+	quest.05352452468E8375.quest_subtitle: "&7金、红石与荧石的结合"
+	quest.05352452468E8375.title: "&b&l导电合金锭"
+	quest.082DEC8CBA6D23E5.quest_desc: ["&7黑钢是末影接口最重要的合金之一。", "在合金炉中将铁、煤粉和黑曜石结合即可制作。", "&a提示：&r黑钢工具、护甲和多种高级机器都需要它，建议常备库存。"]
+	quest.082DEC8CBA6D23E5.quest_subtitle: "&7由铁、煤与黑曜石锻成"
+	quest.082DEC8CBA6D23E5.title: "&7&l黑钢锭"
+	quest.0A0479FEA3974603.quest_desc: ["本任务由 &6AllTheMods 团队&r或&2社区贡献者&r编写，供 AllTheMods 整合包使用。\\n\\n所有 &6AllTheMods&r 整合包均采用&e保留所有权利&r许可。未经明确许可，不得将本任务用于非 &6AllTheMods 团队&r发布的公开整合包。\\n\\n本任务有意隐藏；如果你看到了它，说明你正处于编辑模式。"]
+	quest.0C220E9B2A780082.quest_desc: ["&7升级到高级电容库，可以增加容量并加快工具充电。", "它由基础电容库和双层电容制作。"]
+	quest.0C220E9B2A780082.quest_subtitle: "&7更大缓存，更快充电"
+	quest.0C220E9B2A780082.title: "&b&l高级电容库"
+	quest.0EAB51C9B13A959B.quest_desc: ["&7无线充电器可为附近玩家手持或穿戴的 RF 工具、护甲和物品充电。", "无需手动接线，就能让装备保持电量充足。"]
+	quest.0EAB51C9B13A959B.quest_subtitle: "&7不用电缆也能充电"
+	quest.0EAB51C9B13A959B.title: "&9&l无线充电器"
+	quest.128E4A78E76F366C.quest_desc: ["&7先准备损坏的刷怪笼，再在灵魂绑定机中用装有目标生物的灵魂瓶绑定它。", "与电动刷怪笼机体组合后，即可获得消耗 µI 能量工作的对应生物刷怪笼。", "&e注意：&r任务以悦灵为例，但灵魂瓶可以捕捉许多其他生物。"]
+	quest.128E4A78E76F366C.quest_subtitle: "&7让刷怪笼听从我们的意愿"
+	quest.128E4A78E76F366C.title: "&c&l电动刷怪笼"
+	quest.141101C9A381905C.quest_desc: ["&7几乎所有末影接口机器都需要安装电容，才能储存并使用 µI 能量。", "基础电容由充能合金制作，是起步选择。没有电容，机器不会启动。"]
+	quest.141101C9A381905C.quest_subtitle: "&7每台机器的心脏"
+	quest.141101C9A381905C.title: "&a&l基础电容"
+	quest.19456F38224A24DB.quest_desc: ["&7磨粉机消耗 µI，把矿石和其他物品磨碎成粉，常能得到比直接烧炼更多的产物。", "在升级槽放入研磨球，可提高速度、效率及额外产物概率。", "&a提示：&r粗矿先研磨再烧炼，通常能提高每份矿石的金属产量。"]
+	quest.19456F38224A24DB.quest_subtitle: "&7磨出更多财富"
+	quest.19456F38224A24DB.title: "&8&l磨粉机"
+	quest.1AF97F48B4C13020.quest_desc: ["&7Yeta 扳手用于操作末影接口方块：右键旋转机器，潜行右键回收并保留物品栏和升级。", "它也能配置导管的输入输出和颜色通道，让物品、能量与流体按计划流动。"]
+	quest.1AF97F48B4C13020.quest_subtitle: "&7机器与导管的多用途工具"
+	quest.1AF97F48B4C13020.title: "&6&lYeta 扳手&r与&2&l导管"
+	quest.1D0725DC4463F895.quest_desc: ["&7自动合成机可按内部设定的配方制作物品，只要通过导管或漏斗输入所需材料。", "它是工厂自动化的基础，让你无需反复使用工作台就能批量生产。"]
+	quest.1D0725DC4463F895.quest_subtitle: "&7让工作台自动运转"
+	quest.1D0725DC4463F895.title: "&f&l自动合成机"
+	quest.224BF0C9690FBEBF.quest_desc: ["&7附魔机提供了另一条为装备获得附魔的路线。具体可用配方与消耗请查看配方浏览器。", "它对黑钢和末影系列工具、武器的附魔成长很有帮助。"]
+	quest.224BF0C9690FBEBF.quest_subtitle: "&7为装备准备附魔"
+	quest.224BF0C9690FBEBF.title: "&5&l附魔机"
+	quest.262B331BB96336F5.quest_desc: ["&7导管铺满基地后可能显得杂乱。导管伪装板能让导管束呈现你选择的方块外观。", "&a提示：&r将伪装板放到导管上即可融入建筑，内部导管仍会正常工作。"]
+	quest.262B331BB96336F5.quest_subtitle: "&7把导管藏在眼前"
+	quest.262B331BB96336F5.title: "&f&l导管伪装板"
+	quest.2802D606849ED924.quest_desc: ["&7涂装机可以为可涂装方块应用目标材质，适合批量制作统一外观的建筑部件。", "&a提示：&r放入待涂装方块和作为外观样本的方块，让机器批量处理。"]
+	quest.2802D606849ED924.quest_subtitle: "&7批量更换外观"
+	quest.2802D606849ED924.title: "&6&l涂装机"
+	quest.2AD8903E9EE3269E.quest_desc: ["&7灵魂锁链由魂金制作，是灵魂相关机器和装备的组件。", "它代表了末影接口制作体系中更偏神秘、灵魂力量的一面。"]
+	quest.2AD8903E9EE3269E.quest_subtitle: "&7以魂金锻成"
+	quest.2AD8903E9EE3269E.title: "&5&l灵魂锁链"
+	quest.2C7D1CD63680FA80.quest_desc: ["&7切片拼接机用于末影接口的特殊加工，是高级组件生产链的一部分。请在配方浏览器中查看当前版本的具体配方。", "为它准备所需工具与材料，就可以继续制作更高级的机器组件。"]
+	quest.2C7D1CD63680FA80.quest_subtitle: "&7切片与拼接"
+	quest.2C7D1CD63680FA80.title: "&2&l切片拼接机"
+	quest.32191922242B11B5.quest_desc: ["&7赋魂机架由基础虚空机架和灵魂锁链升级而来，带有灵魂绑定的力量。", "它用于制作部分高级灵魂机器，让我们进一步深入末影接口。"]
+	quest.32191922242B11B5.quest_subtitle: "&7与灵魂绑定的框架"
+	quest.32191922242B11B5.title: "&5&l赋魂机架"
+	quest.3294189EF3C0D5E5.quest_desc: ["&7旅行法杖可在满足使用条件时快速传送到已放置的旅行锚。", "在基地和远处据点放置旅行锚，可以让探索和回家更加方便。"]
+	quest.3294189EF3C0D5E5.quest_subtitle: "&7在旅行锚之间穿行"
+	quest.3294189EF3C0D5E5.title: "&d&l旅行法杖"
+	quest.3DBAC2CDD75763F3.quest_desc: ["&7电磁铁由导电合金和充能合金制作。", "它主要用作高级末影接口机器及相关物品的合成组件。"]
+	quest.3DBAC2CDD75763F3.quest_subtitle: "&7从远处吸引金属"
+	quest.3DBAC2CDD75763F3.title: "&9&l电磁铁"
+	quest.402A53010DFB2D69.quest_desc: ["&7斯特林发电机燃烧煤、木炭等固体燃料，为机器产生 µI 能量。", "它简单可靠，很适合在使用大型发电设备前搭建第一套末影接口系统。"]
+	quest.402A53010DFB2D69.quest_subtitle: "&7我们的第一个能源"
+	quest.402A53010DFB2D69.title: "&6&l斯特林发电机"
+	quest.435B180FCE208A7B.quest_desc: ["&7升级为双层电容后，机器可储存更多能量，处理速度也更快。", "它使用充能合金和基础电容制作，适合在发电能力提高后升级。"]
+	quest.435B180FCE208A7B.quest_subtitle: "&7更大功率，更快速度"
+	quest.435B180FCE208A7B.title: "&a&l双层电容"
+	quest.448CCD89539AEBAC.quest_desc: ["&7有线充电器连接能源网络后，可为放入内部的 RF 物品充电。", "它适合把工具留在基地充电，与无线充电器互相补充。"]
+	quest.448CCD89539AEBAC.quest_subtitle: "&7让装备直接接上电源"
+	quest.448CCD89539AEBAC.title: "&9&l有线充电器"
+	quest.4557E63F1A6971DA.quest_desc: ["&7充能电容库是高级能量存储设备，可以储存大量 µI。", "它需要高级电容库和八倍电容，是电网建设的长期目标。"]
+	quest.4557E63F1A6971DA.quest_subtitle: "&7终极能量存储"
+	quest.4557E63F1A6971DA.title: "&b&l充能电容库"
+	quest.477F0905998597FE.quest_desc: ["&7排液器可以将收集到的流体导入连接的储罐，具体交互方式请查看游戏内说明。", "它有助于建立自动流体收集系统，减少手动处理。"]
+	quest.477F0905998597FE.quest_subtitle: "&7自动收集流体"
+	quest.477F0905998597FE.title: "&b&l排液器"
+	quest.47F7BA8E81383714.quest_desc: ["&7末影水晶在灵魂绑定机中制作，需要装有末影人的灵魂瓶。", "它是许多高级物品的关键组件，与末影接口的末影力量息息相关。"]
+	quest.47F7BA8E81383714.quest_subtitle: "&7结晶化的末地碎片"
+	quest.47F7BA8E81383714.title: "&d&l末影水晶"
+	quest.490B64C64BDE76F7.quest_desc: ["&7虚空机架是多数前中期机器的基础框架，从发电机到加工机器都会用到。", "基地扩建时会大量消耗，建议提前储备相关材料。"]
+	quest.490B64C64BDE76F7.quest_subtitle: "&7机器背后的框架"
+	quest.490B64C64BDE76F7.title: "&8&l虚空机架"
+	quest.4A7DBDB179F30BC3.quest_desc: ["&7充能合金由红石、荧石粉和金在合金炉中合成。", "它是电容的重要材料，保持机器运转会需要大量这种合金。"]
+	quest.4A7DBDB179F30BC3.quest_subtitle: "&7红石、荧石与黄金"
+	quest.4A7DBDB179F30BC3.title: "&e&l充能合金锭"
+	quest.5D327D85B91E5032.quest_desc: ["&7有了无限粉粒，就可以制作合金炉，开启末影接口的前期加工。", "它消耗微无限能量（µI），既能像熔炉一样烧炼，也能制作黑钢等特殊合金。", "&e注意：&r至少装入一个基础电容，机器才能启动。"]
+	quest.5D327D85B91E5032.quest_subtitle: "&7第一台真正的机器"
+	quest.5D327D85B91E5032.title: "&6&l合金炉"
+	quest.60A8F55648685236.quest_desc: ["&7八倍电容由振动合金和双层电容升级制作，是可合成的高级电容。", "安装后可提高机器速度与能量缓存，适合后期工厂。"]
+	quest.60A8F55648685236.quest_subtitle: "&7最高级的电容"
+	quest.60A8F55648685236.title: "&a&l八倍电容"
+	quest.62788B8B97AF2D76.quest_desc: ["&7在合金炉中结合充能合金与末影珍珠，即可制作振动合金。", "它用于高级电容和部分后期机器，值得为此投入末影珍珠。"]
+	quest.62788B8B97AF2D76.quest_subtitle: "&7融入末影力量的充能合金"
+	quest.62788B8B97AF2D76.title: "&d&l振动合金锭"
+	quest.6B37B24E3D25BF5C.quest_desc: ["&7发酵槽将有机材料加工成特殊流体，例如利用末地粉粒制作虚空露。", "持续供给正确材料并耐心等待，发酵不会瞬间完成。"]
+	quest.6B37B24E3D25BF5C.quest_subtitle: "&7发酵出虚空露"
+	quest.6B37B24E3D25BF5C.title: "&2&l发酵槽"
+	quest.720A9D781C5B9B2D.quest_desc: ["&7基础电容库像基地电池一样储存 µI，供以后使用。", "它也能给放入物品栏的工具与护甲充电，制作需要基础电容。"]
+	quest.720A9D781C5B9B2D.quest_subtitle: "&7第一块电池"
+	quest.720A9D781C5B9B2D.title: "&b&l基础电容库"
+	quest.726857C4BE6ADCDE.quest_desc: ["&7轻盈法杖可帮助你应对高处移动与坠落，使用时需要满足其充能条件。", "&a提示：&r探索高大建筑或在高空搭桥时，它能帮上大忙。"]
+	quest.726857C4BE6ADCDE.quest_subtitle: "&7轻盈落地，跃向高处"
+	quest.726857C4BE6ADCDE.title: "&e&l轻盈法杖"
+	quest.729B89CA30BE3B28.quest_desc: ["&7脉冲漏斗用于物品自动化，可将其接入农场或加工系统；当前版本的行为请查看物品说明。", "搭配物品导管，可以继续将物品送入存储系统。"]
+	quest.729B89CA30BE3B28.quest_subtitle: "&7自动搬运物品"
+	quest.729B89CA30BE3B28.title: "&e&l脉冲漏斗"
+	quest.7717E30B48E53462.quest_desc: ["&7经验真空装置可以收集附近经验球，适合安装在刷怪设施旁。", "真空箱则收集掉落物，帮助你把大型刷怪场的战利品集中起来。"]
+	quest.7717E30B48E53462.quest_subtitle: "&7不再遗落战利品"
+	quest.7717E30B48E53462.title: "&2&l经验真空装置&r与&2&l真空箱"
+	quest.79590DE87595F3C6.quest_desc: ["&7魂金粒可由魂金锭拆分，用于只需少量魂金的配方。", "常备一些魂金粒，可以方便小规模合成。"]
+	quest.79590DE87595F3C6.quest_subtitle: "&7一小片绑定灵魂的黄金"
+	quest.79590DE87595F3C6.title: "&5&l魂金粒"
+}

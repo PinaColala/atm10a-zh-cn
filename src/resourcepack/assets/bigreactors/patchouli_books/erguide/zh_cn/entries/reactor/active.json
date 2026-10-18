@@ -1,0 +1,17 @@
+{
+  "name": "主动散热",
+  "icon": "minecraft:water_bucket",
+  "category": "bigreactors:reactor-operational_mode",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "主动冷却反应堆是一种使用外部冷却液来散去内部热量的反应堆。$(br2)在此过程中，冷却液会被汽化，而产生的蒸汽可以从反应堆中提取出来，用于驱动一个或多个涡轮机的转子。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "要建造一座主动冷却反应堆，你至少需要在多方块结构中加入两个流体端口：一个配置为向反应堆输入冷却液，另一个配置为从反应堆中提取生成的蒸汽。$(br2)随后，你就可以将提取出的蒸汽输送到涡轮机中发电。"
+    }
+  ]
+}

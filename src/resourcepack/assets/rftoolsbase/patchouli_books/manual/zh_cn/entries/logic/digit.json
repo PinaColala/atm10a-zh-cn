@@ -1,0 +1,19 @@
+{
+  "name": "数字",
+  "icon": "rftoolsutility:digit",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:digit": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个方块会简单地显示一个 0 到 F（十六进制）的数字，对应输入信号的强度。"
+    },
+    {
+      "type": "crafting",
+      "heading": "数字",
+      "recipe": "rftoolsutility:digit"
+    }
+  ]
+}

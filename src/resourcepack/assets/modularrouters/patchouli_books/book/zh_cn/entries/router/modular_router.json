@@ -1,0 +1,53 @@
+{
+  "name": "物品路由器",
+  "icon": "modularrouters:modular_router",
+  "category": "modularrouters:router",
+  "pages": [
+    {
+      "type": "text",
+      "text": "该$(thing)物品路由器/$是整套传输系统的核心。它负责执行所有接入其中的模块，以多种方式搬运物品、方块和流体。"
+    },
+    {
+      "type": "image",
+      "images": [
+        "modularrouters:textures/patchouli/router_gui.png"
+      ],
+      "text": "$(italic)一个安装了多个模块和升级的物品路由器 GUI",
+      "border": true
+    },
+    {
+      "type": "text",
+      "title": "1. 缓冲器",
+      "text": "$(thing)物品路由器/$带有一个单槽缓冲区，最多可容纳一组物品。这个缓冲区作为普通容器对外暴露，因此可以通过$(item)漏斗/$和其他模组的管道系统与之交互。$(p)此外，在路由器旁放置$(item)比较器/$时，也会如预期那样检测该槽位的填充程度。"
+    },
+    {
+      "type": "text",
+      "title": "2. 模块栏",
+      "text": "$(thing)物品路由器/$配备九个$(l:intro/modules)模块/$插槽。路由器每秒运行1至10次（具体取决于已安装的速度升级数量），每次运行时将从左至右依次$(thing)执行/$每个模块。$(p)你无需拆卸模块，即可通过悬停于模块上方并按下$(4)$(bold)[$(k:modularrouters.configure)]/$，或在GUI界面中$(thing)中键点击/$该模块，来配置已安装的模块。"
+    },
+    {
+      "type": "text",
+      "title": "3. 升级槽",
+      "text": "$(thing)物品路由器/$配备五个$(l:intro/upgrades)升级/$插槽。升级可从多方面增强路由器的功能；例如，每插入一个$(l:upgrades/speed)速度升级/$，路由器的运行频率便会略微加快；而每插入一个$(l:upgrades/stack)堆叠升级/$，路由器单次操作所能处理的物品数量也会相应增加。"
+    },
+    {
+      "type": "text",
+      "title": "4. 红石控制",
+      "text": "$(thing)物品路由器/$对红石输入的响应方式具有一定灵活性，由右上角的按钮控制：$(li)默认：始终运行，不受红石信号影响$(li)仅在$(italic)没有/$红石信号时运行$(li)仅在$(italic)有/$红石信号时运行$(li)永不运行$(li)在接收到红石脉冲时仅运行$(italic)一次/$（任何高于先前强度的信号）。"
+    },
+    {
+      "type": "text",
+      "title": "5. 节能模式",
+      "text": "本着环保精神，如果路由器闲置一段时间，它可以自动降速。$(p)启用生态模式后，如果路由器在最近$(ttcolor)$(t:可在模组配置里调整——'ecoTimeout')5 秒/$内没有执行任何工作，它就会降速为每$(ttcolor)$(t:可在模组配置里调整——'lowPowerTickRate')5 秒/$只进行一次 tick（无论是否安装了$(l:upgrades/speed)速度升级/$）。不过，一旦它开始工作，就会立刻恢复正常 tick 速度。"
+    },
+    {
+      "type": "text",
+      "title": "节能模式（续）",
+      "text": "这项功能主要是为繁忙的服务器设计的，用来节省 CPU 周期，但对于那些很少运行且不太需要快速传输物品的路由器来说也很实用（例如羊毛农场中，使用$(l:modules/vacuum)虚空模块/$定期收集剪下的羊毛）。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:modular_router"
+    }
+  ]
+}

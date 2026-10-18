@@ -1,0 +1,16 @@
+{
+  "name": "螃蟹壳",
+  "icon": "livingthings:crab_shell",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)可由螃蟹掉落"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:crab_shell",
+      "text": "$(br)$(bold)用途：$()$(li)暂无已知用途"
+    }
+  ]
+}

@@ -1,0 +1,1833 @@
+[
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/camel_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/camel_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Summon a Camel for a short time.",
+        "to": "短时间召唤一头骆驼。"
+      }
+    ],
+    "baselineSha256": "7f1a41d425611a5323b6a68f3f20b01a183de6df6eafb9eec5d2425e8761dcca",
+    "r1Sha256": "40edbff3913dbcf12c5c245a97cb159af813daa81d22f08ec8c02f848a947e8e"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/dolphin_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/dolphin_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Summon two rideable Dolphins for a short time.",
+        "to": "短时间召唤两只可骑乘的海豚。"
+      }
+    ],
+    "baselineSha256": "c2f950bada6d4d2fd0e32b3399badb3d0fd577bb57e0cec65a4c388973a4d2a1",
+    "r1Sha256": "8f59ce51ba7a9d1211fb86090ce9c01f7f3ef09b3916a80604bf20ee329cdf3e"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/flower_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/flower_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "May the venom become the seed of a flower that will blossom in undeath.",
+        "to": "愿此毒化作花种，在不死之中绽放。"
+      }
+    ],
+    "baselineSha256": "4dc998fe65c6b748a10a9b1cee5bf624a608781095dc8d26e890a012b9d87c2d",
+    "r1Sha256": "baf1923c6dc71a2d23101e93771ef1de94b95784fc34c34ef5b564550a3d458f"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/frostbite_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/frostbite_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "It's not easy to heal while you're a meat popsicle.",
+        "to": "变成人肉冰棍的时候，可不好治伤。"
+      }
+    ],
+    "baselineSha256": "0092f37e2bc259d06963829a5089af092e44d1ab751d74450a9e7f89a4498a17",
+    "r1Sha256": "df943b232083ba8c30e967e03372fe2b09f16c4a1418249358d5ed1469e803b3"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/glassmaker_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/glassmaker_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Encase yourself in glass.",
+        "to": "把自己封进玻璃里。"
+      }
+    ],
+    "baselineSha256": "9d5a5f509684a442902e0cd6f58df4c956dfc05218ec26b169bcf28d8ea5d465",
+    "r1Sha256": "9e78855e40f366e368c275c8d88e90139c39bacd23d0abdac3d0e5af86bacc64"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/hellflare_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/hellflare_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "These wicked flames cook so well that even armor becomes weaker to magic.",
+        "to": "这邪火烤得太到位，连盔甲都变得更怕魔法了。"
+      }
+    ],
+    "baselineSha256": "06cef19a39f979008568f2956e9f25dae830e716ac636c2cdd29b9a98e6b371c",
+    "r1Sha256": "383b76dcaa753f7eec9a3468c96e3cceba82c54d7c3f9f12f8fe85c68d885792"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/leviosa_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/leviosa_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Way worse than being shulked, wind feels sharp today.",
+        "to": "比被潜影贝顶飞难受多了，今天的风格外割人。"
+      }
+    ],
+    "baselineSha256": "6051a9f70d3f3d09376cc20f3607d45d2e1212081b2c52dcc8a31bf476f35433",
+    "r1Sha256": "f74351d0bf7f532edf2a6ffb8a7865281b250d34d0efe3ff8a0a1882f2d111d8"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/magnet_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/magnet_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Creates a gravity center that also attract nearby blocks.",
+        "to": "造出一个引力中心，连附近的方块也一并吸过来。"
+      }
+    ],
+    "baselineSha256": "eb3b99778a759c8dd2ddf51e6c61a712b75a4d1e86885e36e94def036bd32c52",
+    "r1Sha256": "31b4c739907d924aa453c247f040680ddda7242f16cd4f71f764d0bcce07ecae"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/shrimp_pistol_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/shrimp_pistol_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Trap the enemy in a bubble that detonates shortly after from cavitation.",
+        "to": "把敌人困进气泡，片刻后由空化效应引爆。"
+      }
+    ],
+    "baselineSha256": "33babf4f3f30fbd2d1296f673c87e54f72229e58ad392ae75b7a24528391c128",
+    "r1Sha256": "2c228851e2151b7c1c6dc6decee2cbbd54e3b1669195adc3a54c8c1f8098cf2c"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/skelehorse_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/skelehorse_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Summon a Skeletal Horse for a short time.",
+        "to": "短时间召唤一匹骷髅马。"
+      }
+    ],
+    "baselineSha256": "c86456a3981822e7a18cca491f2c315b1b79afb0e666d08a0892f82ec6f8ec65",
+    "r1Sha256": "012ad13ba6a46266fde2196ae8ceb81e501bdca9d6d2c737a56a0dc388a02bbd"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/strider_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/strider_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Summon a rideable Strider for a short time.",
+        "to": "短时间召唤一只可骑乘的炽足兽。"
+      }
+    ],
+    "baselineSha256": "978c1772d3b73b8f917cddf700a2d7325984704f23762d27a4326bd8d80f41c2",
+    "r1Sha256": "3e52a696dc02c628f273c8b2704b9a257551f56ddd5551fe52c3750caa6da2f5"
+  },
+  {
+    "path": "kubejs/data/ars_elemental/recipe/tomes/zap_tome.json",
+    "jar": "mods/ars_elemental-1.21.1-0.7.10.3.jar",
+    "entry": "data/ars_elemental/recipe/tomes/zap_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Starbchu, I Choose You!.",
+        "to": "星辉丘，就决定是你了！"
+      }
+    ],
+    "baselineSha256": "888492c7da02fba87e7beaabd88934b48d9a71ad767c41be2147187b711573e3",
+    "r1Sha256": "e29cb1793d76cdded1c173ad052b6af2fbc399cb23aa60e9ef51e689a069b674"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/alex_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/alex_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "For those who can't settle with just a tiny hut.",
+        "to": "给那些不满足于一间小破屋的人。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Alex's Magnificent Mansion",
+        "to": "Alex 的华丽宅邸"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Alex's Magnificent Mansion",
+        "to": "Alex 的华丽宅邸"
+      }
+    ],
+    "baselineSha256": "2bc97da99b0996bd8791ac86f0335fae4018efc48fe42a56b23dbc9821f43dd4",
+    "r1Sha256": "df16554f4b69c94cc3a474095f6301dda929ff4829a378ffc0cba49c29feb354"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/arachne_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/arachne_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Creates three snaring projectiles.",
+        "to": "射出三发缚身弹。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Arachne's Weaving",
+        "to": "Arachne 的织网"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Arachne's Weaving",
+        "to": "Arachne 的织网"
+      }
+    ],
+    "baselineSha256": "b9f9167808fb6432d9389b6660d4b9111d75f90015b622cd187c028523ac4d60",
+    "r1Sha256": "4a8337b95dca650205ccd07df86eeb9509d94882ea2a606dc0502e735aea5a32"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/aurellia_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/aurellia_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "The bite from this storm is worse than its bark.",
+        "to": "这场风暴雷声大，雨点更大。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Aurellia's Bite Storm",
+        "to": "Aurellia 的尖牙风暴"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Aurellia's Bite Storm",
+        "to": "Aurellia 的尖牙风暴"
+      }
+    ],
+    "baselineSha256": "4d1c06cf7b691a7004f9131040ccb551d34fce212a12695b75a75844f8f4a155",
+    "r1Sha256": "5fc8be7bc719d4e0b16519a038939c5e309193f3046d337055cd56748ac4bee0"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/bailey_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/bailey_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "To the MOOn",
+        "to": "哞向月球"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Bailey's Bovine Rocket",
+        "to": "Bailey 的奶牛火箭"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Bailey's Bovine Rocket",
+        "to": "Bailey 的奶牛火箭"
+      }
+    ],
+    "baselineSha256": "ef47846b296ce82d70f20c4823f35eff1e5261066a648c8967cc47b52b5411da",
+    "r1Sha256": "97d4f91faf07b7bcc2b933a78a04f741f5b8a45c7ca3fdc78b5bbda137b31ddb"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/beepsterr_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/beepsterr_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "It's covered in dirt and moss..",
+        "to": "上面沾满了泥土和苔藓……"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Verdant Aura",
+        "to": "翠绿光环"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Verdant Aura",
+        "to": "翠绿光环"
+      }
+    ],
+    "baselineSha256": "41ca05c8c73c7a8f8fee0c58707c36fb7744f0aa7cb95d950584690a9d7da3d8",
+    "r1Sha256": "7b2e27738d9eee87a7d55bdea4ca7af38af7b009d85e2066c673053226c5d8ee"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/bugcolez_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/bugcolez_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Their Friends are their power!",
+        "to": "他们的力量，源自他们的伙伴！"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Pixie Pummel",
+        "to": "恼鬼群殴"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Pixie Pummel",
+        "to": "恼鬼群殴"
+      }
+    ],
+    "baselineSha256": "c3920f2d828a89420e3b6cfc555898cee86550b77f5c64515fdeac45861926ec",
+    "r1Sha256": "f2e3b92695e31202be8411f10bebd973be11e1ed5294d49ef36393a3152edc2f"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/chems_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/chems_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Smothers an area with runes that launch entities upward. Do NOT get covered in the Repulsion Runes.",
+        "to": "在一片区域铺满把实体弹上天的符文。千万**别**让自己被斥力符文盖住。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Repulsion Runes",
+        "to": "斥力符文"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Repulsion Runes",
+        "to": "斥力符文"
+      }
+    ],
+    "baselineSha256": "32343d0cc6c32e54e6a4ef6463c29fcea40206923dff0fdfc42b2f10deca5c84",
+    "r1Sha256": "d36aa20fed67ee9408504552f434454b9a02b3e43ed1cf56043e20a967bc34bf"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/chosenarchitect_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/chosenarchitect_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "In a flash of magic, the world twists, and what was once here is now there.",
+        "to": "魔力一闪，世界扭曲，原本在此处的，已在彼处。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Chosen's Chaotic Shift",
+        "to": "Chosen 的混沌置换"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Chosen's Chaotic Shift",
+        "to": "Chosen 的混沌置换"
+      }
+    ],
+    "baselineSha256": "750375c3ba06aa9af0826e8ddf43e0bffef80ca7383ec351dfd006143c34c908",
+    "r1Sha256": "7294256c20320380a49841e4ec059637a320f34501023ce230f180775ded8ca2"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/cocoaeyebrows_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/cocoaeyebrows_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Leave the riches untouched. Seek only to carve the earth.",
+        "to": "财宝不取分毫，只求凿开大地。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Gobute's Humble Tunnel",
+        "to": "Gobute 的朴素隧道"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Gobute's Humble Tunnel",
+        "to": "Gobute 的朴素隧道"
+      }
+    ],
+    "baselineSha256": "2a403d79cf3b3adcbd636a7c81b5583de562da7982612431384999a5626f4371",
+    "r1Sha256": "54576a48cce48f0c4c859fd5cfea1fd0b9150890754a848099c2c53a51021436"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/crowdrone_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/crowdrone_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Crows are known to collect shiny things, even in the darkest of places.",
+        "to": "众所周知，乌鸦爱捡亮闪闪的东西——再暗的地方也不例外。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Crow's Gluttonous Gaze",
+        "to": "Crow 的贪婪目光"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Crow's Gluttonous Gaze",
+        "to": "Crow 的贪婪目光"
+      }
+    ],
+    "baselineSha256": "48e748d5fafc56b989f892971f95605023d24a1aba3eeebbde7af97f16104d00",
+    "r1Sha256": "da166e2d13051c9794532b53eb4602a9ebb1c1aff25c93ab287b06a011de97e4"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/darkfira_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/darkfira_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Encases your enemies or friends in a tomb of ice. Guaranteed to leave them shocked and confused.",
+        "to": "把敌人（或朋友）封进冰墓。保证让对方又惊又懵。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Darkfira's Flash Freeze",
+        "to": "Darkfira 的急速冰封"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Darkfira's Flash Freeze",
+        "to": "Darkfira 的急速冰封"
+      }
+    ],
+    "baselineSha256": "43fea4a1feb4dec1bf933b66438a5dea323e5e9efa0eaeb702948085e34dcdc2",
+    "r1Sha256": "972537d41191cef59755f2a0c336c852ffecd9d58b40d534ed83a7305636c984"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/farfalla_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/farfalla_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Creates a fire that quickly freezes to ice.",
+        "to": "点起一团转眼就冻成冰的火。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Farfalla's Frosty Flames",
+        "to": "Farfalla 的霜火"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Farfalla's Frosty Flames",
+        "to": "Farfalla 的霜火"
+      }
+    ],
+    "baselineSha256": "b37b282c76920a6cd8e6990564ae05d98645d6eede981e8e6f169fb25b6bf8df",
+    "r1Sha256": "03e3273081d0bbec90988baf6c97fa71c21e0b75352cf87e44ed728e15989b21"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/fireball_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/fireball_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "A classic.",
+        "to": "经典之作。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Fireball!",
+        "to": "火球术！"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Fireball!",
+        "to": "火球术！"
+      }
+    ],
+    "baselineSha256": "7e34b9324cbc75f22df49d5902c23c9207a3b1a68f4451ab376355a5bc0dbe41",
+    "r1Sha256": "c52593691533abd55b4bdf7bea54a927aa16eb187c42fa7e1ca5c5228849844b"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/frantastic_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/frantastic_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "It is unknown whether the original author of this spell survived its first casting, or if she was replaced by one of her simulacra in the ensuing chaos. Don't think too hard about it. ",
+        "to": "没人知道这个法术的原作者是否在第一次施放中幸存，还是在随后的混乱里被自己的某个幻影顶替了。别想太多。 "
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Simulmancer's Storm",
+        "to": "Simulmancer 的风暴"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Simulmancer's Storm",
+        "to": "Simulmancer 的风暴"
+      }
+    ],
+    "baselineSha256": "6ef84404f0cf0434f5ab24d445c2e8a28e53e7343d4df91a96b6e5afa8ba3957",
+    "r1Sha256": "03d25ab5575471ab87724b0de7683616ec525d8bae10128709410d762149d53c"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/glow_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/glow_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Snares the target and grants other targets Glowing.",
+        "to": "束缚目标，并让其他目标发光。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Glow Trap",
+        "to": "发光陷阱"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Glow Trap",
+        "to": "发光陷阱"
+      }
+    ],
+    "baselineSha256": "9bfef641064f26b860a9d7143536df31147f2e5195ae7b425fb4567223ba2fde",
+    "r1Sha256": "a70151ca694f4e623be00c94c4937b6aba2afc6b4ede78b60863faaa2fd5d36d"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/gootastic_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/gootastic_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "The squid's Lovecraftian roots appear to make it immune.",
+        "to": "鱿鱼那克苏鲁式的血统似乎让它免疫了。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Gootastic's Telekinetic Fishing Rod",
+        "to": "Gootastic 的念力钓竿"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Gootastic's Telekinetic Fishing Rod",
+        "to": "Gootastic 的念力钓竿"
+      }
+    ],
+    "baselineSha256": "b5fafdd20ee6db92f165e8b9f074d7384ef8cb45cfb2ca936cce315c9f15c724",
+    "r1Sha256": "5d2659a409c590f91bce82e283f82541397ba8c0a582c11cbfddbbd09c88aa81"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/ivy_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/ivy_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Now you never have to be lonely again! You will always have a friend with you! Feel free to change their name to whatever you want! :D",
+        "to": "从此再也不孤单！永远有个伙伴陪着你！想给它起什么名字都行！:D"
+      }
+    ],
+    "baselineSha256": "1cdae81e4ca86b8f440a720cd6dc049b692638f1c003cba4b73764edb46d6dba",
+    "r1Sha256": "5c88bb6dcf036ae633804b46d187d827b65f06a0e719cb748e9ef23e2f5117af"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/kamiihoney_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/kamiihoney_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Safely contain your enemies while they wither away. Some say Kamii is still stuck in a bubble somewhere after miscasting this curse.",
+        "to": "把敌人稳稳关住，看他们慢慢枯萎。据说 Kamii 施错这道咒之后，至今还困在某处的泡泡里。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Kamii's Curse",
+        "to": "Kamii 的诅咒"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Kamii's Curse",
+        "to": "Kamii 的诅咒"
+      }
+    ],
+    "baselineSha256": "45c0f4c2568d135acc61c8de6a3f40959ca9c67f12b324ff5f3b7cd63c6c95d3",
+    "r1Sha256": "7eec0dcaf1442fa03e74fae89865013a6ac11bb9f8ae1dc7addab02948024b20"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/kirin_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/kirin_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Heroes are so straightforward, so easily befuddled...",
+        "to": "英雄总是那么直来直去，也就那么好糊弄……"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "KirinDave's Sinister Switch",
+        "to": "KirinDave 的阴险调包"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "KirinDave's Sinister Switch",
+        "to": "KirinDave 的阴险调包"
+      }
+    ],
+    "baselineSha256": "1f5b14a900601773dd593428c865b602180aacc94bde4c168cca4f83e78f5d89",
+    "r1Sha256": "c431eee9b51c9143b982ace5f199d66eaf7280e9ed4213e0e82b167dec0ec9bb"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/lootz_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/lootz_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Mobs meet fireworks",
+        "to": "生物，遇上烟花"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Fireworks and Mobs",
+        "to": "烟花与生物"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Fireworks and Mobs",
+        "to": "烟花与生物"
+      }
+    ],
+    "baselineSha256": "95c00ca6b544d4e32d80f0fe838ead1f1a70fa1031e9680b80cd912613f1ccc2",
+    "r1Sha256": "4bea834ce7456f9cc36dec8c898a877e29788220940c66d22c5ef24cf2f11d01"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/lufia_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/lufia_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Your enemies will try to kill you. Use this, to kill them back. Cast under a targets feet to bury them. Results may vary.",
+        "to": "敌人想杀你，那就用这个杀回去。对着目标脚下施放即可将其活埋。效果因人而异。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Lufia's Bwomp",
+        "to": "Lufia 的砰咚"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Lufia's Bwomp",
+        "to": "Lufia 的砰咚"
+      }
+    ],
+    "baselineSha256": "54607afdfca7e07684342526a63d10b950579f1f6deecd2803560aa5e3ad44e1",
+    "r1Sha256": "016529fc03c14575b62872d8614b8516c0954982ae970405a9f34bd03bc54ec8"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/lyrellion_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/lyrellion_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "You. Shall. Not. Pass.",
+        "to": "你，不，能，通，过。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Lyrellion’s Wall of Force",
+        "to": "Lyrellion 的力场墙"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Lyrellion’s Wall of Force",
+        "to": "Lyrellion 的力场墙"
+      }
+    ],
+    "baselineSha256": "cb1a03020bb1d6af634244d43079be823bd4b10e80428c0a75486a86418d1918",
+    "r1Sha256": "cc7d4bea15c09cde1fe2f7c7058eec9e7b583a23729414c41118e15dea831cee"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/mystifi_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/mystifi_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Be careful About digging straight down, People say its like digging your own grave",
+        "to": "往正下方挖要当心，都说那跟给自己挖坟没两样"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Mysti's Gravely Dig",
+        "to": "Mysti 的自掘坟墓"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Mysti's Gravely Dig",
+        "to": "Mysti 的自掘坟墓"
+      }
+    ],
+    "baselineSha256": "0ea732623f1ce0f8ab47c18f50581a0f5633d21405d23ef07b0ff8ae2413941f",
+    "r1Sha256": "b1f32c3c161ce81103d7dc4a7827e561c0bea28fccc4ecc1697927767027403b"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/nikk_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/nikk_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Weaken it, kill it and take it home.",
+        "to": "削弱它，杀掉它，带回家。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Sutokahs LOVE",
+        "to": "Sutokah 的爱"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Sutokahs LOVE",
+        "to": "Sutokah 的爱"
+      }
+    ],
+    "baselineSha256": "5ccda00dd52b42314b73e67531cfaf9c8abe012cadcd9722e2a598d254416ba8",
+    "r1Sha256": "527c9c8e5129d19e8ea4e9f8dba513dadc1d1ea7cb9c318dd78690d3f75eefad"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/othy_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/othy_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Swarm your enemies with bladed spirits.",
+        "to": "让刃灵成群扑向你的敌人。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Othy's Misdirection",
+        "to": "Othy 的声东击西"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Othy's Misdirection",
+        "to": "Othy 的声东击西"
+      }
+    ],
+    "baselineSha256": "698affdeac0ae456d985d78d00a1c7dd0bcdc954c43cdd4a0a64fb1db4e0ce60",
+    "r1Sha256": "b9627d420c4ec9465618de98009ea1ab453b93a70d4ab99df12c63c253e477d8"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/pandoxyy_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/pandoxyy_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "First you're airborne. Then you're dizzy. Then you're somewhere else. By the time you figure out what happened, it's already happening again.",
+        "to": "先是腾空，然后发晕，接着人已在别处。等你搞明白发生了什么，它又开始了。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Pandoxyy's Spin Cycle",
+        "to": "Pandoxyy 的脱水甩干"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Pandoxyy's Spin Cycle",
+        "to": "Pandoxyy 的脱水甩干"
+      }
+    ],
+    "baselineSha256": "6cb9c9f4a8004334d2a2a2b0f376d264630475491a73f8200e50a4836faff2b7",
+    "r1Sha256": "4664c6a1fa27c5e7aa3f5165dcb92e0f6648ff86e6a44567cadd1a7bb395a6fa"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/plauged757_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/plauged757_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "WARNING: ONLY TO BE USED AS A LAST RESORT!!",
+        "to": "警告：仅限走投无路时使用！！"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Self Atomic",
+        "to": "自我核爆"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Self Atomic",
+        "to": "自我核爆"
+      }
+    ],
+    "baselineSha256": "3cb8f39b2b2a15c4191e3eb0e524492b795f32a2d349ce9e43ed6aa83408282c",
+    "r1Sha256": "f210af41e1c53645be5f48594292d3e045b054b91f80967847dc78dacaa4ae44"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/poseidon_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/poseidon_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Fire at a body of water to create a Ice bubble in the depths.",
+        "to": "朝水域施放，在深处造出一个冰泡。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Poseidon's Refuge",
+        "to": "Poseidon 的庇护所"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Poseidon's Refuge",
+        "to": "Poseidon 的庇护所"
+      }
+    ],
+    "baselineSha256": "887e167e3cb42621144a502f79627fd81648957d9b76be08d7ea81e9154cbbed",
+    "r1Sha256": "44a1fe4be3e897e60f47890a85e2194b42c5324fc853a826689439953dbd71a7"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/pranks_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/pranks_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Tome-Fuzzer sending chaotic magic streams into existence. May be hacking the planet.",
+        "to": "法术书模糊测试器，凭空吐出一股股混沌魔力流。它可能正在黑掉这颗星球。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Pranks",
+        "to": "恶作剧"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Pranks",
+        "to": "恶作剧"
+      }
+    ],
+    "baselineSha256": "39ccdef4c09b29646d7ad253fe97d7e98cf8bf00a92124cf1943e219ba75cb59",
+    "r1Sha256": "1fa30d3fc6082d6c40d0befffe82dfa88ef781c8f974bd4b4f4764d60864dffe"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/renew_rune_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/renew_rune_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Cures status effects and heals the user.",
+        "to": "清除状态效果并治疗施法者。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Rune of Renewing",
+        "to": "复原符文"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Rune of Renewing",
+        "to": "复原符文"
+      }
+    ],
+    "baselineSha256": "866051aaec86669fffcce5874b3f75614ef337cfa99a2e7eeb9ed9514834dcab",
+    "r1Sha256": "1796e2e46b2c0fa51ac4dc5c01285ec5109301937f2282e6e821dd19a8e7f424"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/riftderp_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/riftderp_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Just like that one guy, from that one thing! This spell will put you right in the enemy's face, so be ready for some swordplay!",
+        "to": "就像那个作品里的那个人一样！这个法术会把你直接怼到敌人脸上，所以剑准备好。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Rift's Blink Strike",
+        "to": "Rift 的闪现突袭"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Rift's Blink Strike",
+        "to": "Rift 的闪现突袭"
+      }
+    ],
+    "baselineSha256": "970aa3eb213bdab4e677432743c82dc9485e34cf5c54f200d36802124f5b1aff",
+    "r1Sha256": "203a5974a3d93a643bdee35a7e56ad64a25049dd01a6e4ad2f4b89d76719d151"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/sebuss_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/sebuss_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Even the book is burning hot! You might need to use this spell with caution if you don't want your item to burn!",
+        "to": "连书本身都烫手！不想让东西烧起来的话，用这法术悠着点！"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Sebuss's Very Hot Smelt",
+        "to": "Sebuss 的滚烫熔炼"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Sebuss's Very Hot Smelt",
+        "to": "Sebuss 的滚烫熔炼"
+      }
+    ],
+    "baselineSha256": "10dd36a442731d5ef8474b730d51f4d246a406ec00ae043b506d2b9f34539ee2",
+    "r1Sha256": "5ad927abecb79077107b585e34b53ecd66e29052dea4f471c3d4328ec6b6c77f"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/shadow_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/shadow_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Creates a temporary tunnel of blocks.",
+        "to": "开出一条临时的方块隧道。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "The Shadow's Temporary Tunnel",
+        "to": "Shadow 的临时隧道"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "The Shadow's Temporary Tunnel",
+        "to": "Shadow 的临时隧道"
+      }
+    ],
+    "baselineSha256": "7c310662af3ddd7b22fe51700e31ae82fe676385b97a0699a9717ce10489a64a",
+    "r1Sha256": "83056a60fe03c3ac82b3a2dc5856b4fa23c12f56c9e9431dc02150291a4c66e6"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/shoob_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/shoob_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Need a quick getaway? Using Shoob's patented \"Tactical retreat\" technique, you can escape AND do it gracefully! (Shibe Inc is not liable for misuse or failure in the escape)",
+        "to": "需要溜之大吉？用上 Shoob 专利的「战术转进」技术，逃跑也能逃得体面！（柴犬公司对误用及逃跑失败概不负责）"
+      }
+    ],
+    "baselineSha256": "83c397e19d4f1dae10701e3a9beaba3b622e4c47d1a3a6aba35f524d220880db",
+    "r1Sha256": "a745ec4edd628c5adce6a2d41ea888c8dc5c33adbd94ded8ec7a19774d38ccc9"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/silvanus_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/silvanus_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "When you want to go deeper but just don't have the torches",
+        "to": "想往深处走，偏偏没带火把的时候"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Emergency Flair",
+        "to": "应急照明"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Emergency Flair",
+        "to": "应急照明"
+      }
+    ],
+    "baselineSha256": "836c29eaec5bdb631cb42190b8cbbe16648f554bd9daed36b9f43c6437a3434e",
+    "r1Sha256": "c73a533d38a2fce868e3c4e124641ba6e190578348368862898ce1d691d2e162"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/sloppybox_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/sloppybox_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Enough heat to melt a mountain or evaporate oceans.",
+        "to": "这份热量足以熔山，或蒸干海洋。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Arcane Smelt",
+        "to": "奥术熔炼"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Arcane Smelt",
+        "to": "奥术熔炼"
+      }
+    ],
+    "baselineSha256": "eb3ac6e376f9616a10907f924effed2cb54955c69fa9fbed104bd2dbd58a76d0",
+    "r1Sha256": "b0ad002f7766eab87f9ea6c3d917994b7b941c07221dc27eae7d93f304f48b4d"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/spinoftw_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/spinoftw_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": " A utility spell to aid you in your adventures",
+        "to": " 一个助你冒险的实用法术"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "You were hurt, but you're fine",
+        "to": "你受伤了，但你没事"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "You were hurt, but you're fine",
+        "to": "你受伤了，但你没事"
+      }
+    ],
+    "baselineSha256": "fa2c3718dd4d31f29b3d1d826126f2efaee17146612c959336e3f3f4cac9c551",
+    "r1Sha256": "734414bd54470e1d109004f2e73de55059d002413529e5b22b92d308bd715cb8"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/takeoff_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/takeoff_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Launches the caster into the air and grants temporary elytra flight!",
+        "to": "把施法者弹上天，并临时赋予鞘翅飞行！"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Takeoff!",
+        "to": "起飞！"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Takeoff!",
+        "to": "起飞！"
+      }
+    ],
+    "baselineSha256": "efebdb0a53f58a0a599e31727da3adaf9d8d14a96de7cfe702d74d33ed2ae0a6",
+    "r1Sha256": "02f8efe8e6fe46bb02e142339ea08905b26570619709aefcaec29399bf5232fe"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/toxin_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/toxin_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Poisons that target and causes them to take additional damage from all sources.",
+        "to": "使目标中毒，并令其受到的一切伤害都有额外加成。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Potent Toxin",
+        "to": "剧毒"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Potent Toxin",
+        "to": "剧毒"
+      }
+    ],
+    "baselineSha256": "cf50e6cf9d5ce97a537e373bd573f2552368a96a5b762e484d0cb8514aa2a760",
+    "r1Sha256": "8a4eb102f01a84f9889d91bcb69c76b490ec51e401f6f94c9acbcb180950309b"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/treeleafs_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/treeleafs_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Just make sure your somewhere you want to be greener",
+        "to": "只要确保你所在的地方，你希望它更绿一点"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Treeleafs gardeners dream",
+        "to": "Treeleafs 的园丁之梦"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Treeleafs gardeners dream",
+        "to": "Treeleafs 的园丁之梦"
+      }
+    ],
+    "baselineSha256": "c214370a7182bda816eef5e33127d38c562c41244e729845758cee16c623aee8",
+    "r1Sha256": "c90a857ff5fdc26b9286f0db29928ec4f6ff87df44d910eb7c9489a3bfbab09e"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/uni_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/uni_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Stay away!",
+        "to": "离我远点！"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Uni's Windshield",
+        "to": "Uni 的风盾"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Uni's Windshield",
+        "to": "Uni 的风盾"
+      }
+    ],
+    "baselineSha256": "ce96580eaddb28dbb1bd3cff58260f6e7c1f9405567d93a11b015da49fe05582",
+    "r1Sha256": "3fcce909ba6fbf4125adb4743116eb5d4fe0918166324e31eae3211efb2a67d0"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/urticantodin_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/urticantodin_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": " Traveling issues? Nonsense, all it takes is one leap and you get there in no time! Why the sticky feeling? Safety precautions, your legs aren't strong enough for the sudden stop with the ground, so we made them bouncy!",
+        "to": " 赶路发愁？胡说，纵身一跃就到了！那黏糊糊的手感是怎么回事？安全措施罢了——你的腿扛不住跟地面的急停，所以我们给它加了弹性！"
+      }
+    ],
+    "baselineSha256": "8f4616db6e393fcfed2d1610ce751e2875990639442b04142f95ca5369ed8970",
+    "r1Sha256": "32e6d7f55ee46b5bd2df6359cdbb8f290c5e73820489c379f4cf2773baee6acf"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/vault_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/vault_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Sometimes you just need to get over that wall.",
+        "to": "有时候你就是得翻过那堵墙。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Vault",
+        "to": "翻越"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Vault",
+        "to": "翻越"
+      }
+    ],
+    "baselineSha256": "276b6a03b7e029317bd5d8fd008e0b670a7cb6a587c38dd1a551570ee51c1e68",
+    "r1Sha256": "e7c71bef2a6eb03950551e332a25ae7debb9396d9ef7ff3ffdd2cced354dd246"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/warp_impact_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/warp_impact_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Teleportation, with style!",
+        "to": "传送，也要传得有型！"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Warp Impact",
+        "to": "跃迁冲击"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Warp Impact",
+        "to": "跃迁冲击"
+      }
+    ],
+    "baselineSha256": "c9cb81a4ca89e7b0372a0fe39bdca0ddfc88a67c80e18543bd6e063a4df99f48",
+    "r1Sha256": "3c63d58a00e51be941fbe2b2ab54e3b10061ac2c45f836419be59b20a8362052"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/worsecookie_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/worsecookie_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Along the shore the cloud waves break, The twin suns sink beneath the lake, The shadows lengthen. In Carcosa",
+        "to": "云浪拍岸而碎，双日沉入湖底，暗影渐长。于卡尔克萨"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "The Yellow Sun",
+        "to": "黄日"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "The Yellow Sun",
+        "to": "黄日"
+      }
+    ],
+    "baselineSha256": "94fd5615c9ecf57892c886b173a1b9b7b37faac6356397244c05425b7df33d9d",
+    "r1Sha256": "e1bfd559366c66b8b60ed55c6b02b565db2f6e7cb299c5b51a0d3509616cbe0a"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/xacris_2_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/xacris_2_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Light up the sky",
+        "to": "点亮长空"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Xacris's Firework Display",
+        "to": "Xacris 的烟花表演"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Xacris's Firework Display",
+        "to": "Xacris 的烟花表演"
+      }
+    ],
+    "baselineSha256": "a3f3cf472327406c6ff71c0f39158b8ef79e1da523e49290396ef3fca1c0669f",
+    "r1Sha256": "7931a98ccda28e95c159b699e1317d6c27b1215d6aa667365f5410ee99433f1e"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/xacris_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/xacris_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Builds a small hut around the user.",
+        "to": "在施法者周围搭起一间小屋。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Xacris' Tiny Hut",
+        "to": "Xacris 的小屋"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Xacris' Tiny Hut",
+        "to": "Xacris 的小屋"
+      }
+    ],
+    "baselineSha256": "b91ac9bf3ddff0d152a6a4a4c3ee6b82e23cf62dff17e7aed205b2ae21b1fdf0",
+    "r1Sha256": "79ed0a9561016419fea2aa5f07d0ef38379e486d8b441c08accebaae6ca7d5dc"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/yeet_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/yeet_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "Summons orbiting projectiles that will launch nearby enemies.",
+        "to": "召出环绕飞行的弹体，把靠近的敌人弹开。"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Knocked out of Orbit",
+        "to": "撞出轨道"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Knocked out of Orbit",
+        "to": "撞出轨道"
+      }
+    ],
+    "baselineSha256": "3255a43d273e3a892ce39de8c72e7322e9be35be621b1cb4334a4a51713a7ae9",
+    "r1Sha256": "0707274a7900d38b39ce2c5c02bedf9394beb47f01da59b181d9aa2eb999de06"
+  },
+  {
+    "path": "kubejs/data/ars_nouveau/recipe/tomes/yuukiukami_tome.json",
+    "jar": "mods/ars_nouveau-1.21.1-5.13.2.jar",
+    "entry": "data/ars_nouveau/recipe/tomes/yuukiukami_tome.json",
+    "source": "jar",
+    "edits": [
+      {
+        "path": [
+          "flavour_text"
+        ],
+        "from": "One of YuukiUkami’s earliest creations, this spell reflects their desire for precision and mastery. Infused with the arcane finesse of its creator, it draws minerals from the earth at a distance, as if the ores themselves were eager to join the mage’s growing legacy",
+        "to": "YuukiUkami 最早的作品之一，映照出其对精准与掌控的追求。这道法术承载着创造者的秘法巧思，能远距离将矿物自大地中抽出，仿佛矿石自己也急着加入这位法师日渐丰厚的收藏"
+      },
+      {
+        "path": [
+          "name"
+        ],
+        "from": "Yuuki's Mineral Assimilator",
+        "to": "Yuuki 的矿物汲取器"
+      },
+      {
+        "path": [
+          "spellData",
+          "name"
+        ],
+        "from": "Yuuki's Mineral Assimilator",
+        "to": "Yuuki 的矿物汲取器"
+      }
+    ],
+    "baselineSha256": "a1c6c40039d917fd03b88bce07b0bd0cccc97a4ffdde7a71775c1805460ccb31",
+    "r1Sha256": "a4abea03951b823ab0f51eae89c0c517bf993498317b58abb637ad1d9b151e2b"
+  },
+  {
+    "path": "kubejs/data/silentgear/silentgear_traits/advanced_aquatic.json",
+    "jar": "mods/silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+    "entry": "data/silentgear/silentgear_traits/advanced_aquatic.json",
+    "source": "file",
+    "edits": [
+      {
+        "path": [
+          "description",
+          "text"
+        ],
+        "from": "Advanced Aquatic gives waterbreathing without a full set",
+        "to": "碧海新生无需穿戴全套即可获得水下呼吸效果"
+      },
+      {
+        "path": [
+          "name",
+          "text"
+        ],
+        "from": "Advanced Aquatic",
+        "to": "碧海新生"
+      }
+    ],
+    "baselineSha256": "1369cdde6d54c36fc7545e3408eb05ce62193343bda0102b801c97d6e8729c01",
+    "r1Sha256": "f8daa17b09da88d894c7c728a2f361f1ec1f4bf822ceb94c923ea15b29e2b5d4"
+  },
+  {
+    "path": "kubejs/data/silentgear/silentgear_traits/advanced_flame_ward.json",
+    "jar": "mods/silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+    "entry": "data/silentgear/silentgear_traits/advanced_flame_ward.json",
+    "source": "file",
+    "edits": [
+      {
+        "path": [
+          "description",
+          "text"
+        ],
+        "from": "Gives fire resistance without a full set",
+        "to": "无需穿戴全套即可获得抗火效果"
+      },
+      {
+        "path": [
+          "name",
+          "text"
+        ],
+        "from": "Advanced Flame Ward",
+        "to": "高级火焰守护"
+      }
+    ],
+    "baselineSha256": "19d2ce25c52803bcf1c0ce245daa1e4b9568963374b97cf7506e549a00dbb306",
+    "r1Sha256": "5546e45b7fac187a61d2357cd7572d26a2b4e015a32aec8ea5a3174dd960cc62"
+  },
+  {
+    "path": "kubejs/data/silentgear/silentgear_traits/cure_levitation.json",
+    "jar": "mods/silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+    "entry": "data/silentgear/silentgear_traits/cure_levitation.json",
+    "source": "file",
+    "edits": [
+      {
+        "path": [
+          "description",
+          "text"
+        ],
+        "from": "Removes levitation effect when equipped",
+        "to": "装备时移除飘浮效果"
+      },
+      {
+        "path": [
+          "name",
+          "text"
+        ],
+        "from": "Cure Levitation",
+        "to": "治愈浮空术"
+      }
+    ],
+    "baselineSha256": "d08edf9d2bd599efbfd2e2744dad136b60185c5195b1b654e29da283bf234cec",
+    "r1Sha256": "974a39b935da6c49a37c275eefb080dc0b75c9a7b3f4486c1385566badba1b5d"
+  },
+  {
+    "path": "kubejs/data/silentgear/silentgear_traits/cure_nausea.json",
+    "jar": "mods/silent-gear-1.21.1-neoforge-4.2.1.1.jar",
+    "entry": "data/silentgear/silentgear_traits/cure_nausea.json",
+    "source": "file",
+    "edits": [
+      {
+        "path": [
+          "description",
+          "text"
+        ],
+        "from": "Removes nausea effect when equipped",
+        "to": "装备时移除反胃效果"
+      },
+      {
+        "path": [
+          "name",
+          "text"
+        ],
+        "from": "Cure Nausea",
+        "to": "治愈反胃"
+      }
+    ],
+    "baselineSha256": "96aadcdc30d24dc5b4893f51836a7f095e1b4551332e792e5fe6682adeec04f1",
+    "r1Sha256": "396cb8b2222e62fb68a6e5c2bb459d40bfa31397b4170c1e3f29b90f30b1b0c8"
+  }
+]

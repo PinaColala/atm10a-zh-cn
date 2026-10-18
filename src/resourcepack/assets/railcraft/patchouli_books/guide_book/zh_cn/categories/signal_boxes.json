@@ -1,0 +1,5 @@
+{
+  "name": "信号盒",
+  "description": "盒子属于信号模块，可用于操控信号。",
+  "icon": "railcraft:signal_controller_box"
+}

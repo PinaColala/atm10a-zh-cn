@@ -1,0 +1,17 @@
+{
+  "name": "溶解成型机",
+  "icon": "industrialforegoing:dissolution_chamber",
+  "category": "industrialforegoing:basics",
+  "sortnum": 6,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种功能强大的合成机器，最多可同时使用$(6)8$()件物品和/或$(6)1$()种流体进行合成。该机器可产出物品和/或流体。$(br2)所有配方均为无序配方，即原料可放入任意槽位。$(br2)当配方存在时，机器将锁定全部槽位，防止额外物品被插入。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:dissolution_chamber"
+    }
+  ]
+}

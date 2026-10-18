@@ -1,0 +1,19 @@
+{
+  "name": "其他装饰性方块",
+  "icon": "merrymaking:quartz_platter",
+  "category": "merrymaking:other",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "石英托盘",
+      "item": "merrymaking:quartz_platter",
+      "text": "以下方块仅为装饰用途，但在大餐与食物托盘配方中有所应用：$(br2)$(li)石英托盘 $(li)木托盘"
+    },
+    {
+      "type": "crafting",
+      "title": "装饰性食盘",
+      "recipe": "merrymaking:quartz_platter",
+      "recipe2": "merrymaking:empty_tray"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "name": "甜点、点心与更多液体容器",
+  "icon": "merrymaking:fruitcake",
+  "category": "merrymaking:foods",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "可放置饮品",
+      "item": "merrymaking:hot_cocoa",
+      "text": "热可可、薄荷热可可与蛋奶酒均可作为装饰物放置。$(br2)按住Shift键点击可拾取；正常使用即可饮用；饮尽后将返还一只空杯。"
+    },
+    {
+      "type": "crafting",
+      "title": "饮品",
+      "recipe": "merrymaking:mug",
+      "recipe2": "merrymaking:egg_nog"
+    },
+    {
+      "type": "smelting",
+      "title": "饮品",
+      "recipe": "merrymaking:hot_cocoa_smelting",
+      "text": "加热一杯可可，即可制成热可可。"
+    },
+    {
+      "type": "crafting",
+      "title": "饮品",
+      "recipe": "merrymaking:mug_cocoa",
+      "recipe2": "merrymaking:peppermint_cocoa"
+    },
+    {
+      "type": "crafting",
+      "title": "材料配方",
+      "recipe": "merrymaking:ground_ginger",
+      "recipe2": "merrymaking:gingerbread_dough"
+    },
+    {
+      "type": "crafting",
+      "title": "材料配方",
+      "recipe": "merrymaking:cookie_dough",
+      "recipe2": "merrymaking:icing"
+    },
+    {
+      "type": "crafting",
+      "title": "材料配方",
+      "recipe": "merrymaking:mint_bottle",
+      "text": "制作胡椒薄荷油，需将薄荷瓶投入水中。"
+    },
+    {
+      "type": "crafting",
+      "title": "曲奇配方",
+      "recipe": "merrymaking:tree_cookie",
+      "recipe2": "merrymaking:stocking_cookie"
+    },
+    {
+      "type": "crafting",
+      "title": "材料配方",
+      "recipe": "merrymaking:mitten_cookie",
+      "recipe2": "merrymaking:gingerbread_cookie"
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:candy_cane"
+    },
+    {
+      "type": "crafting",
+      "title": "其他甜点",
+      "recipe": "merrymaking:fudge",
+      "recipe2": "merrymaking:fruitcake"
+    },
+    {
+      "type": "spotlight",
+      "item": "merrymaking:ham",
+      "text": "火腿是猪的新掉落物，可在熔炉或发烟器中烹饪。$(br2)可直接食用，亦可精心烹制成丰盛大餐，与身边的人共享。"
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "熟火腿",
+      "recipe": "merrymaking:ham_smelting"
+    },
+    {
+      "type": "spotlight",
+      "title": "正餐",
+      "item": "merrymaking:ham_dinner",
+      "text": "火腿大餐与填馅禽肉大餐现已成为可食用装饰品。$(br2)食用方式与蛋糕相同；待全部吃完后，你可取回托盘，用于下一次盛放。"
+    },
+    {
+      "type": "spotlight",
+      "title": "食物托盘",
+      "item": "merrymaking:cookie_tray",
+      "text": "饼干托盘与丰收托盘现已成为可交互装饰品。$(br2)每次点击托盘，你都将获得其最上方的物品；当所有物品取完后，你可取回托盘，用于下一次盛放。"
+    },
+    {
+      "type": "crafting",
+      "title": "食物托盘",
+      "recipe": "merrymaking:cookie_tray",
+      "recipe2": "merrymaking:harvest_tray"
+    },
+    {
+      "type": "crafting",
+      "title": "正餐",
+      "recipe": "merrymaking:poultry_dinner",
+      "recipe2": "merrymaking:ham_dinner"
+    }
+  ]
+}

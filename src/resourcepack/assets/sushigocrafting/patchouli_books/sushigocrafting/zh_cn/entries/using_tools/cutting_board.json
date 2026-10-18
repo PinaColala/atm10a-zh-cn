@@ -1,0 +1,18 @@
+{
+  "name": "刀砧板",
+  "icon": "sushigocrafting:cutting_board",
+  "category": "sushigocrafting:using_tools",
+  "sortnum": 3,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "text",
+      "text": "切配食材是烹饪过程中至关重要的一步：右击刀砧板放置食材，再手持$(6)砍刀$()右击这些食材，即可完成切配。$(br)如需移除食材，请潜行并右击刀砧板。$(br2)$(l:getting_started/effects)坚定的手$()将在你使用刀砧板时成为得力助手。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "sushigocrafting:cutting_board",
+      "recipe2": "sushigocrafting:cleaver_knife"
+    }
+  ]
+}

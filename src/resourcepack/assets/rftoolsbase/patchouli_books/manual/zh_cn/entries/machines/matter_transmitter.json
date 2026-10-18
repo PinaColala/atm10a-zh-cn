@@ -1,0 +1,14 @@
+{
+  "name": "物质传输器",
+  "icon": "rftoolsutility:matter_transmitter",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:matter_transmitter": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "物质传输器是一种可将玩家传送至任意其他$(l:rftoolsbase:machines/matter_receiver)物质接收器$(/l)的装置。请使用$(l:rftoolsbase:machines/dialing_device)坐标记录仪$(/l)将物质传输器拨号至接收器。$(br2)$(5)注魔$()该机器可降低能耗并提升传送速度。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "流体筛分机",
+  "icon": "industrialforegoing:fluid_sieving_machine",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 21,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "使用发酵矿物肉汤和沙子，这台机器会将该肉汤转化为最初对应矿石的粉。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fluid_sieving_machine"
+    }
+  ]
+}

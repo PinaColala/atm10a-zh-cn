@@ -1,0 +1,16 @@
+{
+  "name": "生狮子肉",
+  "icon": "livingthings:lion",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)可由雄狮掉落"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:lion",
+      "text": "$(br)$(bold)用途：$()$(li)可食用$(li)可冶炼为烤狮子肉"
+    }
+  ]
+}

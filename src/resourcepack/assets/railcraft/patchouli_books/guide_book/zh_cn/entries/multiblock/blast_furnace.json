@@ -1,0 +1,16 @@
+{
+  "name": "高炉",
+  "icon": "railcraft:blast_furnace_bricks",
+  "category": "railcraft:multiblock",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "高炉是一种3×3×4尺寸的砖砌结构，中间为空心，用于将铁锭冶炼成钢锭。$(br2)该烤炉由34块特殊砖块构成，原料为下界砖、灵魂沙与岩浆膏。若将其拆除，重建一座高炉需消耗36块下界砖、36份灵魂沙与9份岩浆膏。高炉之间不可相邻建造——两座高炉间至少需间隔一格空间。"
+    },
+    {
+      "type": "patchouli:multiblock",
+      "name": "高炉",
+      "multiblock_id": "railcraft:blast_furnace"
+    }
+  ]
+}

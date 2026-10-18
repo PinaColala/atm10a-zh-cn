@@ -1,0 +1,23 @@
+{
+  "name": "墙",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:fences",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:brick_garland_wall",
+      "text": "任意原版墙体方块均可使用花环进行装饰。$(br2)只需在工作台中将墙体与你选择的花环组合即可。"
+    },
+    {
+      "type": "crafting",
+      "title": "挂花饰的墙壁",
+      "recipe": "merrymaking:andesite_wall_garland",
+      "recipe2": "merrymaking:stone_brick_wall_garland_white"
+    },
+    {
+      "type": "crafting",
+      "title": "挂花饰的墙壁",
+      "recipe": "merrymaking:sandstone_wall_garland_multi"
+    }
+  ]
+}

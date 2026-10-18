@@ -1,0 +1,17 @@
+{
+  "name": "动物饲育机",
+  "icon": "industrialforegoing:animal_feeder",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 8,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一种用于$(6)填饱$()动物的机器，当机器内供应对应动物饲料时，动物将繁殖幼崽。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:animal_feeder"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pages": [
+    {
+      "type": "standard",
+      "summary": "葡萄藤的生长与结果方式和洞穴藤类似。\n\n把它种在方块下方，它会随时间向下生长并结果。",
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/grapes/grapes.png",
+          "caption": "herbsandharvest.guide_book.chapters.grapes.grapes_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          "type": "text",
+          "literal_text": "和洞穴藤一样，可以用骨粉催熟。\n\n村庄的藤架上长着葡萄，主世界的箱子里也能找到。",
+          "text": null
+        }
+      ]
+    }
+  ]
+}

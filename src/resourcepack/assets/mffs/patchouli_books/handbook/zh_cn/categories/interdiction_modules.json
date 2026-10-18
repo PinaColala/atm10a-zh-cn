@@ -1,0 +1,6 @@
+{
+  "name": "阻扰模块",
+  "description": "适用于干涉矩阵的升级模块。",
+  "sortnum": 5,
+  "icon": "mffs:anti_hostile_module"
+}

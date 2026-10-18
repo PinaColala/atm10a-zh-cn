@@ -1,0 +1,17 @@
+{
+  "name": "生物静滞室",
+  "icon": "industrialforegoing:stasis_chamber",
+  "category": "industrialforegoing:misc",
+  "sortnum": 5,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "当提供能量时，该机器会对其工作区域内的任意实体施加$(6)冰冻$()与$(6)治愈术$()效果。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:stasis_chamber"
+    }
+  ]
+}

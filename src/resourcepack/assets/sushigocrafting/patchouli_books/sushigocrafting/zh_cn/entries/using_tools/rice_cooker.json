@@ -1,0 +1,17 @@
+{
+  "name": "电饭煲",
+  "icon": "sushigocrafting:rice_cooker",
+  "category": "sushigocrafting:using_tools",
+  "sortnum": 2,
+  "read_by_default": false,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台专为将稻米烹煮至$(6)罗杰叔叔$()标准而设计的机器。烹煮时需准备稻米、水以及一定量的燃油。$(br2)输出槽中的重量无需担心，米饭将自动合并为 cooked rice（米饭）。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "sushigocrafting:rice_cooker"
+    }
+  ]
+}

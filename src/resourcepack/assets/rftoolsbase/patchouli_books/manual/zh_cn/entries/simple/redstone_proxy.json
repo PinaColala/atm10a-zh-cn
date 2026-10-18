@@ -1,0 +1,28 @@
+{
+  "name": "红石代理器",
+  "icon": "xnet:redstone_proxy",
+  "category": "rftoolsbase:category_xnet_simple",
+  "extra_recipe_mappings": {
+    "xnet:redstone_proxy": 0,
+    "xnet:redstone_proxy_upd": 0
+  },
+  "sortnum": 50,
+  "pages": [
+    {
+      "type": "text",
+      "text": "红石代理器是一种辅助型红石交互方块。当XNet系统需要一个简单且面向红石的方块时，请使用它。"
+    },
+    {
+      "type": "text",
+      "text": "更新变体还会发送邻接方块更新信号。当邻近红石元件需立即获知状态变化时，请选用此变体。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:redstone_proxy"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:redstoneproxy_update"
+    }
+  ]
+}

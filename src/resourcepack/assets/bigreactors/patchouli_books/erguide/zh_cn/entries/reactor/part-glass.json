@@ -1,0 +1,27 @@
+{
+  "name": "玻璃",
+  "icon": "bigreactors:reinforced_reactorglass",
+  "category": "bigreactors:reactor-parts",
+  "read_by_default": true,
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_reactorglass",
+      "link_recipe": true,
+      "title": "玻璃",
+      "text": "玻璃方块是装饰性元素，可以替代机壳方块使用，以展示反应堆内部。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础",
+      "recipe1": "bigreactors:reactor/basic/glass",
+      "title2": "加固",
+      "recipe2": "bigreactors:reactor/reinforced/glass"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面上（不在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()否"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "模仿拓展",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:mimic_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "此拓展仅可安装至$(l:modules/extruder_2)造桥模块 Mk2/$。$(p)安装后，模块所生成的伪装方块将继承对应真实方块的属性：例如$(item)黑曜石/$极难破坏，$(item)荧石/$会发出光源，而$(item)红石装饰方块/$则会输出红石信号。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:mimic_augment"
+    }
+  ]
+}

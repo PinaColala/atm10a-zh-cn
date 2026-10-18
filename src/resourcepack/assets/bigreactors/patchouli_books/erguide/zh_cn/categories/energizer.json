@@ -1,0 +1,6 @@
+{
+  "name": "物品充能站",
+  "description": "物品充能站是一种多方块机器，可让你储存海量能量，甚至可能比你能够生产的还要多！",
+  "icon": "bigreactors:energizerpowerport_fe",
+  "sortnum": 6
+}

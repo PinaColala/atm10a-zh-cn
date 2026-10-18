@@ -1,0 +1,49 @@
+{
+  "name": "注魔",
+  "icon": "rftoolsbase:machine_infuser",
+  "category": "rftoolsbase:category_machines",
+  "extra_recipe_mappings": {
+    "rftoolsbase:machine_infuser": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)机器注能机$()使用$(l:rftoolsbase:basics/dimensional_shards)次元裂片$()来$(thing)提高许多机器的效率$()。对大多数设备来说，注能会降低其能量消耗。有些设备还会从注能中获得额外收益。$(br2)$(thing)为注能机本身进行注能$()会使其消耗更少能量。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbase:machine_infuser",
+      "text": "请参见背页，了解机器注能机的更多用途，这些用途取决于你安装了哪些其他模组。"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsutility",
+      "title": "RF工具丨实用设备",
+      "text": "$(li)$(l:rftoolsutility:machines/environmental)环境控制器$() $(li)$(l:rftoolsutility:machines/dialing_device)坐标记录仪$() $(li)$(l:rftoolsutility:machines/matter_receiver)物质接收器$() $(li)$(l:rftoolsutility:machines/matter_transmitter)物质传输器$()（+速度） $(li)$(l:rftoolsutility:machines/spawner)生物生成器$() $(li)$(l:rftoolsutility:machines/matter_beamer)物质投影仪$()（+速度，-所需物品） $(li)$(l:rftoolsutility:machines/screen_controller)屏幕控制器$()（+作用范围） $(li)$(l:rftoolsutility:machines/crafter)合成器$()"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsstorage",
+      "title": "RF工具：存储",
+      "text": "$(li)$(l:rftoolsstorage:scanner/scanner)存储检测器$()"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolspower",
+      "title": "RF工具：能量",
+      "text": "$(li)$(l:rftoolspower:powergeneration/coalgenerator)煤炭发电机$() $(li)$(l:rftoolspower:powergeneration/endergenic)末影能$()（+发电量，持有珍珠时更少能量损耗） $(li)$(l:rftoolspower:powerstorage/dimensionalcell)维度能量单元$()（-远距离提取 RF 的成本，+ RF/t 输出） $(li)$(l:rftoolspower:powergeneration/blazingagitator)烈焰激活器$()（+烈焰棒品质） $(li)$(l:rftoolspower:powergeneration/blazinggenerator)烈焰发电机$()（+发电量）"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsdim",
+      "title": "RF工具丨维度",
+      "text": "$(li)$(l:rftoolsdim:dimlets/researcher)研究台$()（+速度） $(li)$(l:rftoolsdim:dimensions/dimension_builder)维度构建器$()（+速度）"
+    },
+    {
+      "type": "text",
+      "flag": "mod:rftoolsbuilder",
+      "title": "RF工具丨建筑机",
+      "text": "$(li)$(l:rftoolsbuilder:shield/shield_intro)护盾投射仪$()（+伤害） $(li)$(l:rftoolsbuilder:builder/builder_intro)建筑机$()（+速度）"
+    }
+  ]
+}

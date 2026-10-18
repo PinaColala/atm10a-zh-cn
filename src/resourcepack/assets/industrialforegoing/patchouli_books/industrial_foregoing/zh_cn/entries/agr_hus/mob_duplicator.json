@@ -1,0 +1,20 @@
+{
+  "name": "自动刷怪机",
+  "icon": "industrialforegoing:mob_duplicator",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台用于生成生物的机器。当提供能量、$(l:agr_hus/essence)精华液$() 以及装有任意实体的 $(l:tools/mib)生物捕捉工具$() 时，它会在周围生成这些生物。$(br2)它会统计附近的实体数量，过多时将停止工作。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_duplicator"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:mob_imprisonment_tool"
+    }
+  ]
+}

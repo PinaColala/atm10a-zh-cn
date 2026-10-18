@@ -1,0 +1,18 @@
+{
+  "name": "圣餐杯",
+  "icon": "merrymaking:chalice",
+  "category": "merrymaking:kwanzaa",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "圣餐杯",
+      "item": "merrymaking:chalice",
+      "text": "圣餐杯可单独放置，也可置于麦凯卡之上。"
+    },
+    {
+      "type": "crafting",
+      "title": "圣餐杯",
+      "recipe": "merrymaking:chalice"
+    }
+  ]
+}

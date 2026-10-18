@@ -1,0 +1,57 @@
+{
+  "pages": [
+    {
+      "type": "toc",
+
+      "title": "herbsandharvest.guide_book.title",
+
+      "summary": "选择一个章节开始阅读。",
+
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.chapters.intro",
+          "target_page": 0
+        },
+        {
+          "title": "herbsandharvest.guide_book.chapters.crops",
+          "target_page": 1
+        },
+        {
+          "title": "herbsandharvest.guide_book.chapters.herbs",
+          "target_page": 2
+        },
+        {
+          "title": "herbsandharvest.guide_book.chapters.trees",
+          "target_page": 3
+        },
+      
+        {
+          "title": "herbsandharvest.guide_book.chapters.basket",
+          "target_page": 4
+        },
+        {
+          "title": "herbsandharvest.guide_book.chapters.blocks",
+          "target_page": 5
+        },
+        {
+          "title": "herbsandharvest.guide_book.chapters.items",
+          "target_page": 6
+        },
+        {
+          "title": "herbsandharvest.guide_book.chapters.foods",
+          "target_page": 7
+        },
+        {
+          "title": "herbsandharvest.guide_book.chapters.cheese",
+          "target_page": 8
+        },
+		{
+          "title": "herbsandharvest.guide_book.chapters.outro",
+          "target_page": 9
+        }
+      ],
+
+      "elements": []
+    }
+  ]
+}

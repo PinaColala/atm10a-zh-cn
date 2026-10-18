@@ -1,0 +1,32 @@
+{
+  "name": "伪装模块",
+  "icon": "mffs:camouflage_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:camouflage_module",
+      "link_recipe": true,
+      "text": "$(5)伪装模块$()可用于$(l:mffs:machines/projector)力场投影仪$()，以改变力场自身的外观。安装$(5)伪装模块$()后，力场可被伪装成普通方块。例如，力场可被遮掩为一堵石墙。$(5)伪装模块$()可与所有投射器模式配合使用。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:camouflage_module",
+      "text": "合成$(5)伪装模块$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "使用",
+      "text": "投射器的这一功能可帮助玩家向他人隐藏物品，或为秘密基地入口实施伪装。请选取希望用作伪装的方块，并将其放置于投射器左侧物品矩阵的另一空槽中（与$(5)伪装模块$()位于同一矩阵）。随后以常规方式激活投射器。"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/pyramid_camo.png"
+      ],
+      "border": true,
+      "title": "投射",
+      "text": "一个伪装成去皮橡木原木的锥体力场。"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "没收模块",
+  "icon": "mffs:confiscation_module",
+  "category": "mffs:interdiction_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:confiscation_module",
+      "link_recipe": true,
+      "text": "$(5)没收模块$()是$(l:mffs:machines/interdiction_matrix)干涉矩阵$()的可选模块，赋予其自动没收玩家物品的能力。若玩家处于干涉矩阵的作用范围内，系统将扫描其物品栏，并没收所有被禁止的物品。该效果适用于所有物品，无论其是被携带、穿戴还是存放在物品栏中。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:confiscation_module",
+      "text": "合成$(5)没收模块$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "过滤模式",
+      "text": "$(l:mffs:machines/interdiction_matrix)干涉矩阵$()GUI界面底部的过滤模式设置及其关联的9个插槽，用于配置模块行为。过滤模式设置包含两种状态：“禁用”（默认）和“启用”。$(br2)被没收的物品将被收集至$(l:mffs:machines/interdiction_matrix)干涉矩阵$()相邻的容器中。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "禁用",
+      "text": "当切换按钮显示为“禁用”时，$(l:mffs:machines/interdiction_matrix)干涉矩阵$()将9个（红色）插槽视为必须没收的禁用物品列表。仅这些物品会被没收，玩家可保留其余所有物品。若全部9个物品插槽均为空，则干涉矩阵将默认没收玩家持有的所有物品。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "允许",
+      "text": "若切换按钮显示为“启用”，则干涉矩阵将9个（绿色）插槽视为允许玩家保留的物品列表。其余所有物品都将被没收。当全部9个插槽均为空时，$(l:mffs:machines/interdiction_matrix)干涉矩阵$()将默认允许所有物品，不执行任何没收操作。"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "红石拓展",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:redstone_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个增强件可以添加到任何模块中。$(p)通常情况下，模块会在路由器运行时直接执行，不作任何判断。不过，如果给模块添加了这个增强件，该模块就可以定义自己的红石行为；模块 GUI 中也会额外出现一个按钮用于控制这一点。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:redstone_augment"
+    }
+  ]
+}

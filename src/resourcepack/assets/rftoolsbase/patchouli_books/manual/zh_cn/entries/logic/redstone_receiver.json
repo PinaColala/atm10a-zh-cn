@@ -1,0 +1,18 @@
+{
+  "name": "红石信号接收器",
+  "icon": "rftoolsutility:redstone_receiver",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:redstone_receiver": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个方块会从已链接的红石发射器接收红石信号。要将此接收器与发射器链接，请用该方块对发射器（或另一个已链接的接收器）进行右键选择。启用“模拟模式”后，传输信号的功率等级会在接收端得到保留。"
+    },
+    {
+      "type": "text",
+      "text": "使用一个$(l:rftoolsbase:logic/redstone_transmitter)红石信号发信器$(/l)或一个按钮模块，将其放入$(l:rftoolsbase:machines/screen)屏幕$(/l)中以发送红石信号"
+    }
+  ]
+}

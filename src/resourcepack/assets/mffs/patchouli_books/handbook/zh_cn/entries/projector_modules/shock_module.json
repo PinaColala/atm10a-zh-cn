@@ -1,0 +1,18 @@
+{
+  "name": "电击模块",
+  "icon": "mffs:shock_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:shock_module",
+      "link_recipe": true,
+      "text": "在$(5)力场投影仪$()中放置$(l:mffs:machines/projector)电击模块$()，可使力场通电。当玩家或生物接触带电力场时，将受到电击并承受伤害。每向投射器中添加一个$(5)电击模块$()，对玩家或生物造成的伤害即增加半颗心。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:shock_module",
+      "text": "合成$(5)电击模块$()。"
+    }
+  ]
+}

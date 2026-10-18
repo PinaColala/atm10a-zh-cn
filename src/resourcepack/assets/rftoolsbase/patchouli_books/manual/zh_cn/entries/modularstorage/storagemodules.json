@@ -1,0 +1,35 @@
+{
+  "name": "存储模块",
+  "icon": "rftoolsstorage:storage_module0",
+  "category": "rftoolsbase:category_rftoolsstorage_modularstorage",
+  "extra_recipe_mappings": {
+    "rftoolsstorage:storage_module0": 0,
+    "rftoolsstorage:storage_module1": 0,
+    "rftoolsstorage:storage_module2": 0,
+    "rftoolsstorage:storage_module3": 0
+  },
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "存储模块是模块化存储器的实际物品存储单元。一阶模块可容纳100堆叠，二阶模块可容纳200堆叠，三阶模块可容纳300堆叠，四阶模块可容纳500堆叠。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:storage_module0"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:storage_module1",
+      "recipe2": "rftoolsstorage:storage_module2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsstorage:storage_module3"
+    },
+    {
+      "type": "text",
+      "text": "使用塑形NBT配方升级时，模块内容将被完整保留。在将珍贵模块迁移至其他系统前，请务必做好备份。"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "发酵站",
+  "icon": "industrialforegoing:fermentation_station",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 20,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "使用生矿物肉汤，这台机器会在内容物达到设定等级时将其密封，并根据所选的生产类型对该肉汤进行发酵。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:fermentation_station"
+    }
+  ]
+}

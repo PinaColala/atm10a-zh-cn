@@ -1,0 +1,16 @@
+{
+  "name": "FTB过滤系统",
+  "category": "modularrouters:filters",
+  "icon": "ftbfiltersystem:smart_filter",
+  "flag": "|mod:ftbfiltersystem",
+  "pages": [
+    {
+      "type": "text",
+      "text": "FTB过滤系统是一个功能强大的模组，它允许你以有趣的方式组合多种过滤条件，并配有直观易用的图形用户界面。如果已安装FTB过滤系统（既然你正在阅读本说明，那它肯定已安装！），该模组提供的$(item)智能过滤器/$物品可放置于模块的过滤槽中，并能正确地对物品进行过滤。"
+    },
+    {
+      "type": "text",
+      "text": "限制：FFS 智能过滤器不像物品路由器的过滤器那样能在安装状态下直接配置；你必须先把过滤器物品拿到自己的物品栏中，才能重新配置。"
+    }
+  ]
+}

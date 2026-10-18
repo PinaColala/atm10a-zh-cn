@@ -1,0 +1,30 @@
+{
+  "name": "聊天方块",
+  "icon": "advancedperipherals:chat_box",
+  "category": "advancedperipherals:peripherals",
+  "pages": [
+    {
+      "type": "text",
+      "text": "聊天方块外设允许你通过收发消息的方式与游戏聊天系统交互。$(p)你甚至可以发送仅对聊天方块可见的消息——只需在消息开头添加一个“$”符号即可。$(p)完整说明请参阅$(9)$(l:https://docs.advanced-peripherals.de/peripherals/chat_box/)官方维基页面$(/l)$()！"
+    },
+    {
+      "type": "crafting",
+      "recipe": "advancedperipherals:chat_box"
+    },
+    {
+      "type": "multiblock",
+      "multiblock": {
+        "mapping": {
+          "0": "computercraft:computer_advanced",
+          "P": "advancedperipherals:chat_box"
+        },
+        "pattern": [
+          [
+            "0P"
+          ]
+        ]
+      },
+      "text": "将你的聊天方块连接至计算机即可使用！"
+    }
+  ]
+}

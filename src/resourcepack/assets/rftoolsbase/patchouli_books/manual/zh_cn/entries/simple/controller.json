@@ -1,0 +1,23 @@
+{
+  "name": "控制器",
+  "icon": "xnet:controller",
+  "category": "rftoolsbase:category_xnet_simple",
+  "extra_recipe_mappings": {
+    "xnet:controller": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "控制器是XNet网络的核心。它负责编辑频道，并决定物品、流体、能量或红石信号如何经由已连接方块进行传输。"
+    },
+    {
+      "type": "text",
+      "text": "添加一个通道，选择其类型，再向该通道添加连接器。每个连接器均可独立设置侧面、优先级、过滤器及传输参数。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "xnet:controller"
+    }
+  ]
+}

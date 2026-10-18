@@ -1,0 +1,44 @@
+{
+  "name": "屋顶楼梯与台阶",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:roofs",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/stairs.png"
+      ],
+      "text": "覆雪的屋面瓦楼梯与台阶"
+    },
+    {
+      "type": "spotlight",
+      "title": "屋顶楼梯和台阶",
+      "item": "merrymaking:roof_acacia_stairs",
+      "text": "屋面瓦楼梯与台阶是特殊方块，随时间推移会自动覆盖积雪。$(br2)它们涵盖全部原版木材颜色，以及石砖、磨制黑石砖与深板岩砖变种。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": " $(br2)合成屋面瓦楼梯与屋面瓦台阶的方法：在工作台中将原版楼梯或台阶与屋面瓦块组合。$(br2)屋面瓦块的合成配方如下："
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:roof_tiles"
+    },
+    {
+      "type": "crafting",
+      "recipe": "merrymaking:roof_jungle_stairs",
+      "recipe2": "merrymaking:roof_bamboo_slab"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "若当前正在下雪，台阶与楼梯将随时间推移自动变为覆雪形态。$(br2)若身处无雪环境也无需担心：投掷雪球即可手动触发覆雪效果。"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "merrymaking:textures/gui/change.png"
+      ],
+      "text": "屋面瓦楼梯经雪球攻击后发生改变"
+    }
+  ]
+}

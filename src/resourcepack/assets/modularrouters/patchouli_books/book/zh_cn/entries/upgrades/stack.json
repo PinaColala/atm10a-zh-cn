@@ -1,0 +1,19 @@
+{
+  "name": "堆叠升级",
+  "category": "modularrouters:upgrades",
+  "icon": "modularrouters:stack_upgrade",
+  "pages": [
+    {
+      "type": "text",
+      "text": "路由器中的模块每次仅处理单个物品：例如，$(l:modules/sender_1)发送模块/$在每次路由器运行周期中，仅从路由器缓存中发送一个物品，无论缓存中实际包含多少物品。"
+    },
+    {
+      "type": "text",
+      "text": "通过给路由器添加堆叠升级，可以提高这个数量。每个堆叠升级都会使每个模块每次可处理的物品数量翻倍，最高可达 64 个，或物品自身的原生堆叠上限（例如$(item)末影珍珠/$为 16 个）。$(p)因此可知，一台路由器中有用的堆叠升级最多只能安装 6 个。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:stack_upgrade"
+    }
+  ]
+}

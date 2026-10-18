@@ -1,0 +1,11 @@
+{
+  "name": "鸣笛调谐器",
+  "icon": "railcraft:whistle_tuner",
+  "category": "railcraft:tools",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "正在寻找适合您机车的完美汽笛音调？这款工具能帮您实现！只需用它破坏机车即可。"
+    }
+  ]
+}

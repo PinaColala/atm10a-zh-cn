@@ -1,0 +1,387 @@
+{
+  "pages": [ 
+ 
+    {
+      "type": "standard",
+
+     
+
+      "summary": "自耕农奶酪制作指南\n\n",
+
+      "sub_sections": [
+        {
+          "title": "herbsandharvest.guide_book.cheese.wheels",
+          "target_page": 1
+        },
+		{
+          "title": "herbsandharvest.guide_book.cheese.wheelsc",
+          "target_page": 2
+        },		
+        {
+          "title": "herbsandharvest.guide_book.cheese.supp",
+          "target_page": 3
+        },
+        {
+          "title": "herbsandharvest.guide_book.cheese.mix",
+          "target_page": 4
+        },
+		 {
+          "title": "herbsandharvest.guide_book.cheese.milk",
+          "target_page": 5
+        },
+        {
+          "title": "herbsandharvest.guide_book.cheese.rennet",
+          "target_page": 6
+        },
+		 {
+          "title": "herbsandharvest.guide_book.cheese.curds",
+          "target_page": 7
+        },
+		{
+          "title": "herbsandharvest.guide_book.cheese.salt",
+          "target_page": 8
+        },
+		{
+          "title": "herbsandharvest.guide_book.cheese.raw",
+          "target_page": 9
+        },
+		{
+          "title": "herbsandharvest.guide_book.cheese.age",
+          "target_page": 10
+        },
+		{
+          "title": "herbsandharvest.guide_book.cheese.place",
+          "target_page": 11
+        },
+		{
+          "title": "herbsandharvest.guide_book.cheese.auto",
+          "target_page": 12
+        }
+		
+      ],
+
+      	"elements": [
+				
+				
+			]
+    },
+
+
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.cheese.wheels",
+
+		  "summary": "奶酪分两类：软质奶酪和硬质奶酪。软质奶酪轮做好就能直接用。",
+
+		  "elements": [	
+		  {
+			"type": "icon_list",
+			"entries": [
+				 
+				  {
+					"item": "herbsandharvest:caravane",
+					"text": "guide.herbsandharvest.caravane_desc"
+				  },
+				  {
+					"item": "herbsandharvest:chevre",
+					"text": "guide.herbsandharvest.chevre_desc"
+				  },
+				  {
+					"item": "herbsandharvest:feta",
+					"text": "guide.herbsandharvest.feta_desc"
+				  },
+				  {
+					"item": "herbsandharvest:ricotta",
+					"text": "guide.herbsandharvest.ricotta_desc"
+				  }
+			]
+		}
+						  
+
+			
+		  ]
+	  },
+	  	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.cheese.wheelsc",
+
+		  "summary": "硬质奶酪的生奶酪轮必须先在奶酪熟成架上「熟成」才能用。",
+
+		  "elements": [			
+
+			  {
+			"type": "icon_list",
+			"entries": [
+				 
+				  {
+					"item": "herbsandharvest:aged_cheddar",
+					"text": "guide.herbsandharvest.aged_cheddar_desc"
+				  },
+				  {
+					"item": "herbsandharvest:aged_gouda",
+					"text": "guide.herbsandharvest.aged_gouda_desc"
+				  },
+				  {
+					"item": "herbsandharvest:aged_parmesan",
+					"text": "guide.herbsandharvest.aged_parmesan_desc"
+				  },
+				  {
+					"item": "herbsandharvest:aged_swiss",
+					"text": "guide.herbsandharvest.aged_swiss_desc"
+				  }
+			]
+		}
+		  ]
+	  },
+	  
+	  
+	  
+	  
+
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.cheese.supp",
+
+		  "summary": "做奶酪需要备齐这些：\n-各种奶桶（不同奶酪用的奶不一样）\n-一口下方有热源的炼药锅\n-凝乳酶\n-盐\n-一个奶酪熟成架",
+
+		  "elements": [
+			 
+			  {
+				  "type": "text",
+				  "literal_text": "材料备齐后，先想好要做哪种奶酪。\n\n奶酪共有 8 种，每种所用的奶的配比都不一样。\n\n各奶酪配方的用奶如下：",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.cheese.mix",
+
+		  "summary": "硬质奶酪：\n\n- 切达干酪：牛奶\n- 高达奶酪：绵羊奶\n- 帕尔马干酪：牛奶 + 山羊奶\n- 瑞士奶酪：绵羊奶 + 山羊奶",
+
+		  "elements": [
+			 
+			  {
+				  "type": "text",
+				  "literal_text": "\n\n软质奶酪：\n\n- 卡拉瓦娜奶酪：骆驼奶\n- 山羊奶酪：山羊奶\n- 羊乳酪：骆驼奶 + 山羊奶\n- 里科塔奶酪：骆驼奶 + 绵羊奶",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	   
+	  
+	  	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.cheese.milk",
+
+		  "summary": "选好配方、备齐其他材料，就可以开始做奶酪了。",
+
+		  "elements": [
+		  
+				 {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/cheese/add_milk.png",
+				  "caption": "herbsandharvest.guide_book.chapters.cheese.add_milk_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				},
+			
+			  {
+				  "type": "text",
+				  "literal_text": "确认炼药锅下方已经加热，然后把奶倒进锅里。需要混合两种奶时，倒完一种要马上倒另一种。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  	 {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.cheese.rennet",
+
+		  "summary": "接着**迅速**加入凝乳酶。这一步很关键：凝乳酶加得不够快，奶就会变成奶油。",
+
+		  "elements": [
+		  
+				 {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/cheese/add_rennet.png",
+				  "caption": "herbsandharvest.guide_book.chapters.cheese.add_rennet_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				},
+			
+			  {
+				  "type": "text",
+				  "literal_text": "凝乳酶下锅后，锅里的混合物会立刻发生变化。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.cheese.curds",
+
+		  "summary": "混合物会开始翻动，过一会儿再次变化，成为凝乳与乳清。",
+
+		  "elements": [
+		  
+				 {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/cheese/curds.png",
+				  "caption": "herbsandharvest.guide_book.chapters.cheese.curds_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				},
+			
+			  {
+				  "type": "text",
+				  "literal_text": "那是一锅泛黄的液体，白色的絮状物浮在表面，就像图里这样，还会看到气泡。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.cheese.salt",
+
+		  "summary": "锅里装满凝乳与乳清后，下一步是对锅使用盐。",
+
+		  "elements": [
+		  						
+			  {
+				  "type": "text",
+				  "literal_text": "盐会与乳清结合，把奶酪凝固成一整轮。\n\n取走奶酪轮之后，锅应该就空了。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	   {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.cheese.raw",
+
+		  "summary": "接下来怎么做，取决于你做的是哪一类奶酪。\n\n如果是软质奶酪，那就到此为止，可以直接用了。 ",
+
+		  "elements": [
+		  
+				 {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/cheese/wheel.png",
+				  "caption": "herbsandharvest.guide_book.chapters.cheese.wheel_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				},
+			
+			  {
+				  "type": "text",
+				  "literal_text": "把它放下，点击即可取下一块奶酪。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	 
+	  {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.cheese.age",
+
+		  "summary": "如果做的是硬质奶酪，拿到的会是该种奶酪的「生」奶酪轮，还需要熟成。",
+
+		  "elements": [
+		  
+				 {
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/cheese/shelf.png",
+				  "caption": "herbsandharvest.guide_book.chapters.cheese.shelf_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				},
+			
+			  {
+				  "type": "text",
+				  "literal_text": "把生奶酪轮放上奶酪熟成架让它熟成。熟成完毕时，架子上的样子会发生变化。",
+				  "text": null
+			  }
+		  ]
+
+	  },
+	  
+	  {
+		  "type": "standard",
+		  
+		  "title": "herbsandharvest.guide_book.cheese.place",
+
+		  "summary": "做好的奶酪轮是可放置的方块。\n\n放下后点击就能取下一块奶酪，可以直接吃，也可以用于食物配方。",
+
+		  "elements": [			
+				{
+				  "type": "image",
+				  "image_path": "textures/gui/guide/chapters/cheese/wheel1.png",
+				  "caption": "herbsandharvest.guide_book.chapters.cheese.wheel1_caption",
+				  "image_width": 110,
+				  "image_height": 62
+
+				},
+				{
+				  "type": "text",
+				  "literal_text": "每轮可切 4 块。\n\n特别提醒：奶酪轮一旦放下就**捡不回来**了。",
+				  "text": null
+				}
+		  ]
+	  },
+	  
+	    {
+		  "type": "standard",
+		  "title": "herbsandharvest.guide_book.cheese.auto",
+
+		  "summary": "往锅里加凝乳酶或盐可以用发射器自动化。\n\n注意：往锅里加奶做不到自动化。",
+
+
+
+		  "elements": [
+		  						
+			  {
+				  "type": "text",
+				  "literal_text": "如果奶已经熬成了奶油，取奶油桶这一步同样可以自动化。",
+				  "text": null
+			  }
+		  ]
+
+	  }
+	  
+	  
+	   
+	  
+	 
+	  
+	
+	  
+	  
+	  
+	   
+	  
+	 
+	  
+	  
+	  
+	  
+	
+  ]
+}

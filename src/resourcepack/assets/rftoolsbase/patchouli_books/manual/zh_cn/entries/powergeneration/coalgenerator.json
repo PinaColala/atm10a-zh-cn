@@ -1,0 +1,23 @@
+{
+  "name": "热力发电机",
+  "icon": "rftoolspower:coalgenerator",
+  "category": "rftoolsbase:category_rftoolspower_powergeneration",
+  "extra_recipe_mappings": {
+    "rftoolspower:coalgenerator": 0
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "煤发电机是一种简易的早期FE发电机。插入煤炭或煤块后，它将燃烧这些燃料，为附近机器或已连接线缆提供电力。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolspower:coalgenerator"
+    },
+    {
+      "type": "text",
+      "text": "它具有内部缓冲区，因此即使输出暂时被阻塞，也能持续燃烧。煤炭方块便于长时间无人值守运行。"
+    }
+  ]
+}

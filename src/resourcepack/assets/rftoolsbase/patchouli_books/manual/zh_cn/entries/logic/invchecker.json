@@ -1,0 +1,25 @@
+{
+  "name": "物品检查器",
+  "icon": "rftoolsutility:invchecker",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:invchecker": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)物品检查器$()会在其后方的容器中，指定槽位内的物品数量超过某个值时发出$(thing)红石信号$()。你可以在 GUI 中定义槽位和物品，并可选填$(thing)物品标签$()，以及指定是忽略还是匹配该物品的耐久值。这些条件也都可以留空，以匹配放入该槽位的任意物品。"
+    },
+    {
+      "type": "text",
+      "title": "GUI",
+      "text": "GUI界面可选择插槽、物品堆叠、可选物品标签、伤害模式及阈值。当该插槽中任意有效物品均应被计入时，请留空物品或标签匹配项。"
+    },
+    {
+      "type": "crafting",
+      "heading": "数字",
+      "recipe": "rftoolsutility:invchecker",
+      "text": "记住，槽位计数从零开始！"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "生物生成器",
+  "icon": "rftoolsutility:spawner",
+  "category": "rftoolsbase:category_rftoolsutility_machines",
+  "extra_recipe_mappings": {
+    "rftoolsutility:spawner": 0,
+    "rftoolsutility:syringe": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "生物生成器利用装满药剂的注射器、FE及已链接$(l:rftoolsbase:machines/matter_beamer)物质投影仪$(/l)提供的材料生成生物。所选生物类型决定了可接受的材料种类。"
+    },
+    {
+      "type": "crafting",
+      "heading": "生物生成器",
+      "recipe": "rftoolsutility:spawner",
+      "recipe2": "rftoolsutility:syringe"
+    },
+    {
+      "type": "text",
+      "title": "注射器",
+      "text": "持续对同种生物使用注射器直至完全注入，随后将其放入生物生成器中。物品提示信息将显示已储存的生物类型及注入等级。"
+    },
+    {
+      "type": "text",
+      "title": "材料",
+      "text": "GUI界面显示三个物质缓冲区。物质投影仪必须向注射器中指定的生物发送所需材料；无关材料将被忽略。"
+    },
+    {
+      "type": "text",
+      "title": "效率",
+      "text": "确保供应充足FE并维持投影仪库存充足。$(5)注魔$()生物生成器可提升效率；注魔投影仪则可加快投送速度并降低投送成本。"
+    }
+  ]
+}

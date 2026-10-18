@@ -1,0 +1,7 @@
+{
+  "name": "反应堆部件",
+  "description": "反应堆由以下部件构成。$(br2)有些部件是必需的，而有些则是可选的。有些适用于所有反应堆变体，也有些并非如此。部件页面会说明目标反应堆可使用哪些部件。",
+  "icon": "bigreactors:basic_reactorcontroller",
+  "parent": "bigreactors:reactor",
+  "sortnum": 3
+}

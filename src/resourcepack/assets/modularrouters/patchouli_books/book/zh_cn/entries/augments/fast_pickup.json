@@ -1,0 +1,15 @@
+{
+  "name": "快速拾取拓展",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:fast_pickup_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "此拓展仅可安装至$(l:modules/vacuum)虚空模块/$。安装后，虚空模块将忽略拾取掉落物品时的常规延迟——玩家掉落的物品延迟为40刻，其他方式（如剪羊毛）掉落的物品延迟为10刻——从而在视野内一发现物品便立即拾取。$(p)最多只能安装一个快速拾取拓展。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:fast_pickup_augment"
+    }
+  ]
+}

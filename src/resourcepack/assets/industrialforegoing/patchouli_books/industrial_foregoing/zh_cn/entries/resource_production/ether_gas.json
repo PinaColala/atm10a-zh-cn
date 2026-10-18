@@ -1,0 +1,13 @@
+{
+  "name": "以太气体（桶）",
+  "icon": "industrialforegoing:ether_gas_bucket",
+  "category": "industrialforegoing:resource_production",
+  "sortnum": 13,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "由 $(l:resource_production/fluid_laser_base)流体镭射钻基座$() 在正上方放置于一只凋零上方时产出的流体。"
+    }
+  ]
+}

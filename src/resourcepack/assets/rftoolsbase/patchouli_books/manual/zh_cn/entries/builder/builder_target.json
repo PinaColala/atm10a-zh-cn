@@ -1,0 +1,20 @@
+{
+  "name": "目标",
+  "icon": "minecraft:compass",
+  "category": "rftoolsbase:category_rftoolsbuilder_builder",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "text",
+      "text": "控制建筑机影响目标区域的方式有多种。"
+    },
+    {
+      "type": "text",
+      "text": "你可直接在塑形卡片中输入尺寸与偏移量。$(br2)该偏移量始终相对于构建器。偏移量为0,0,0时，构建区域将以构建器为中心。"
+    },
+    {
+      "type": "text",
+      "text": "您也可潜行右键点击建筑机以启动区域选择，或在塑形卡片中设定尺寸后，利用GUI中的锚点按钮控制偏移量。"
+    }
+  ]
+}

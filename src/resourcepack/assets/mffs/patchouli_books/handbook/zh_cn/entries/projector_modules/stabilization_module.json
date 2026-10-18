@@ -1,0 +1,49 @@
+{
+  "name": "稳定模块",
+  "icon": "mffs:stabilization_module",
+  "category": "mffs:projector_modules",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "mffs:stabilization_module",
+      "link_recipe": true,
+      "text": "$(5)稳定模块$()可用于$(l:mffs:machines/projector)力场投影仪$()，将力场结晶为实体形态。投射器不再生成关闭后即消失的能量屏障，而是以玩家提供的真实方块来替代力场。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "通过这种方式，$(5)稳定模块$()使得力场图案能够以精确的物理复制品形式留存下来，即使投射器已被停用亦不例外。由于该结构由真实方块构建而成，其耐久度即等同于所用方块的耐久度。然而，只要投射器供电充足且备有足够替换方块，一旦结构受损，投射器便会持续再生修复该力场结构。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "稳定化（转置）过程需要更多的$(l:mffs:getting_started/fortron)力场子$()，且比普通力场投射更慢；但若与投射器的$(l:mffs:projector_modes/custom_mode)$(2)自定义模式$()功能结合使用，其潜在应用几乎是无限的。例如，玩家可以构建一种结构，当有$(2)苦力怕$()试图将其炸毁时，该结构会自动修复。在投射器中添加$(l:mffs:upgrade_modules/speed_module)$(5)速度模块$()，即可同时稳定多个方块。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "mffs:stabilization_module",
+      "text": "合成$(5)稳定模块$()。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "使用",
+      "text": "$(li)在$(l:mffs:machines/projector)力场投影仪$()旁（任意一侧）放置一个箱子，并确保箱内装有构建力场所需的方块。$(li)将力场稳定模块插入投射器的矩阵插槽中。按您的意愿设置力场，随后激活投射器。$(li)投射器将按相邻箱子中方块的排列顺序依次消耗方块。若箱子内混有多种方块，则目标结构也将由混合方块构成。$()"
+    },
+    {
+      "type": "patchouli:image",
+      "images": [
+        "mffs:textures/gui/handbook/stabilization_module.png"
+      ],
+      "border": true,
+      "title": "投射",
+      "text": "一个力场投影仪正使用$(5)稳定模块$()稳定一堵墙。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "自定义模式使用",
+      "text": "与其他适用于$(l:mffs:machines/projector)力场投影仪$()的模式不同，$(l:mffs:projector_modes/custom_mode)$(2)自定义模式$()物品会精确记录其所分析的每个方块的位置与类型。因此，$(l:mffs:projector_modes/custom_mode)$(2)自定义模式$()的固化过程运作方式亦不相同：投射器不会按方块出现顺序消耗方块并将其位移到任意位置，而是仅提取与原始图案相匹配的方块类型。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "每个方块都将严格按照其类型与位置精准放置。若投射器耗尽了复制图案所需的匹配方块类型，它将暂停操作，直至补足相应方块。"
+    }
+  ]
+}

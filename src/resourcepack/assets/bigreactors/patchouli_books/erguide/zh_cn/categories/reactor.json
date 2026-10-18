@@ -1,0 +1,6 @@
+{
+  "name": "反应堆",
+  "description": "反应堆是一种多方块机器，可以直接发电，也可以用于汽化冷却剂。产生的蒸汽之后可用于驱动涡轮机转子。",
+  "icon": "bigreactors:basic_reactorfuelrod",
+  "sortnum": 2
+}

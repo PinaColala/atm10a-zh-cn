@@ -1,0 +1,22 @@
+{
+  "name": "基座垫",
+  "icon": "merrymaking:mkeka",
+  "category": "merrymaking:kwanzaa",
+  "pages": [
+    {
+      "type": "spotlight",
+      "title": "基座垫",
+      "item": "merrymaking:mkeka",
+      "text": "Mkeka具有方向性，可与基纳拉、圣餐杯和玉米互动。$(br2)一个Mkeka最多可放置一件基纳拉，或：$(li)单独放置一个圣餐杯；$(li)最多放置3个玉米；$(li)同时放置一个圣餐杯及最多3个玉米。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "要从麦凯卡上移除物品，只需空手点击它即可。"
+    },
+    {
+      "type": "crafting",
+      "title": "基座垫",
+      "recipe": "merrymaking:mkeka"
+    }
+  ]
+}

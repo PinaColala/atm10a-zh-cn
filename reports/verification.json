@@ -1,0 +1,29 @@
+{
+  "target": "ATM10: Aeronautics 0.7.1",
+  "installer": "Windows PowerShell 5.1",
+  "checks": {
+    "client": {
+      "checks": "passed",
+      "payloadFiles": 102,
+      "scriptPatches": 23,
+      "dataFiles": 65,
+      "displayEdits": 161,
+      "fileWrites": 191
+    },
+    "server": {
+      "checks": "passed",
+      "payloadFiles": 87,
+      "scriptPatches": 3,
+      "dataFiles": 65,
+      "displayEdits": 161,
+      "fileWrites": 155
+    }
+  },
+  "questFiles": 73,
+  "questFields": 8447,
+  "resourceJsonFilesParsed": 1867,
+  "questImageRepairs": 2,
+  "gameStarted": false,
+  "multiplayerTested": false,
+  "runtimeTesting": "Deferred at user request; offline fixture directories only."
+}

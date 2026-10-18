@@ -1,0 +1,19 @@
+{
+  "name": "远程模块",
+  "icon": "rftoolsstorage:storage_module6",
+  "category": "rftoolsbase:category_rftoolsstorage_modularstorage",
+  "extra_recipe_mappings": {
+    "rftoolsstorage:storage_module6": 0
+  },
+  "sortnum": 30,
+  "pages": [
+    {
+      "type": "text",
+      "text": "远程存储模块在此版本中属于遗留/内部模块，不属于常规游戏进程的一部分。"
+    },
+    {
+      "type": "text",
+      "text": "对于常规远程访问，请使用一张$(l:rftoolsbase:scanner/modules)存储控制模块$(/l)，将其链接至存储检测器，并安装至平板电脑中。"
+    }
+  ]
+}

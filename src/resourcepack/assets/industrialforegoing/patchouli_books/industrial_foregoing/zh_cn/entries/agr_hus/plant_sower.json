@@ -1,0 +1,17 @@
+{
+  "name": "植物播种机",
+  "icon": "industrialforegoing:plant_sower",
+  "category": "industrialforegoing:agriculture_husbandry",
+  "sortnum": 4,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "text",
+      "text": "一台用于$(6)种植$()作物和树苗的机器。$(br2)其内部 9 个容器槽位采用$(6)颜色$()编码，并与植物播种机顶部的彩色标记一一对应。机器上方的工作区域被划分为 9 个区段，只有对应容器槽位中的种子才会种植在对应区域内。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "industrialforegoing:plant_sower"
+    }
+  ]
+}

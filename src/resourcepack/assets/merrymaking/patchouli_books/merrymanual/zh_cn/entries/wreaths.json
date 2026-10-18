@@ -1,0 +1,28 @@
+{
+  "name": "花环",
+  "icon": "minecraft:writable_book",
+  "category": "merrymaking:wreaths",
+  "pages": [
+    {
+      "type": "spotlight",
+      "item": "merrymaking:christmas_wreath",
+      "text": "花环用途极为广泛。你既可直接放置花环，也可将其用于灯柱，或与木门、尖桩篱栅门等方块组合以作装饰。$(br2)花环共分三种样式：$(li)素色款 $(li)白色灯款 $(li)多彩灯款"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "要合成花环，你需要8个云杉树叶和一张弓。"
+    },
+    {
+      "type": "crafting",
+      "title": "花环",
+      "recipe": "merrymaking:wreath",
+      "text": "获得花环后，你可为其增添灯光效果，使其更加亮眼。$(br2)要制作亮灯花环，请在工作台中将花环与你选择的树形灯具组合："
+    },
+    {
+      "type": "crafting",
+      "title": "点亮的花环",
+      "recipe": "merrymaking:wreath_white_lights",
+      "recipe2": "merrymaking:wreath_multi_lights"
+    }
+  ]
+}

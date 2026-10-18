@@ -1,0 +1,16 @@
+{
+  "name": "范围升级拓展",
+  "category": "modularrouters:augments",
+  "icon": "modularrouters:range_up_augment",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个增强件可以添加到任何具有范围的模块中（发送模块 $(l:modules/sender_1)Mk1/$ / $(l:modules/sender_2)Mk2/$，抽取模块 Mk1 $(l:modules/puller_1)Mk1/$ / $(l:modules/puller_2)Mk2/$，造桥模块 $(l:modules/extruder_1)Mk1/$ / $(l:modules/extruder_2)Mk2/$，$(l:modules/fluid_2)流体 Mk2/$，$(l:modules/vacuum)虚空模块/$）。$(p)它可以叠加；每个增强件都会使模块范围增加 1 格。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:range_up_augment",
+      "recipe2": "modularrouters:range_up_from_down"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "被动型生物",
+  "description": "这些生物永远不会伤害任何人！",
+  "icon": "minecraft:writable_book",
+  "sortnum": 0
+}

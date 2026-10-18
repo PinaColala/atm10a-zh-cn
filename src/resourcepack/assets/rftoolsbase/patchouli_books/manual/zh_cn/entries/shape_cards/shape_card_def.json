@@ -1,0 +1,23 @@
+{
+  "name": "默认样式卡",
+  "icon": "rftoolsbuilder:shape_card_def",
+  "category": "rftoolsbase:category_rftoolsbuilder_shape_cards",
+  "extra_recipe_mappings": {
+    "rftoolsbuilder:shape_card_def": 1
+  },
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "text",
+      "text": "默认塑形卡片用于存储形状、尺寸、偏移量及实心/空心模式。你可在构建器中使用它放置方块，或在护盾投射器中定义塑形护盾。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "rftoolsbuilder:shape_card_def"
+    },
+    {
+      "type": "text",
+      "text": "右键卡片可编辑盒状、球状、圆柱状、圆锥状、环状、棱柱状、扫描或复合等形状。潜行使用可辅助在世界中精确定位。"
+    }
+  ]
+}

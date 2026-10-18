@@ -1,0 +1,20 @@
+{
+  "name": "概览",
+  "icon": "minecraft:cake",
+  "category": "modularrouters:intro",
+  "priority": "true",
+  "pages": [
+    {
+      "type": "text",
+      "text": "欢迎使用物品路由器！$(p)这是一款高度灵活的模组，可采用多种方式在世界中搬运物品。仅需一个方块——$(thing)物品路由器/$，再搭配一个或多个插件式$(thing)模块/$，你便可从任意容器中抽取物品，向远近不一的其他容器发送物品，将物品放置为方块，破坏方块，将物品丢入世界，分拣物品，以及实现更多功能。"
+    },
+    {
+      "type": "image",
+      "text": "$(italic)可以把它想象成一个可配置程度极高、强化过的超级漏斗……/$",
+      "images": [
+        "modularrouters:textures/patchouli/modular_router.png"
+      ],
+      "border": "true"
+    }
+  ]
+}

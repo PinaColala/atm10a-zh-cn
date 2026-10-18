@@ -1,0 +1,31 @@
+{
+  "pages": [
+
+    {
+      "type": "standard",
+
+      "summary": "「妈妈的香草与丰收」是一个农业模组，同时也是「妈妈的小品」系列（如 MerryMaking、Happy Hallows）配方的基础。它加入了 32 种可种植作物，外加葡萄、8 种果树和 14 种香草。",
+
+      "elements": [
+        {
+          "type": "image",
+          "image_path": "textures/gui/guide/chapters/intro/crops.png",
+          "caption": "herbsandharvest.guide_book.chapters.intro.intro_caption",
+          "image_width": 110,
+          "image_height": 62
+        },
+        {
+          
+		  "type": "text",
+		  "literal_text": "加入了新方块、新物品与新食物的「食品储藏室更新」于 2026 年 2 月初发布。",
+		  "text": null
+			 
+
+        }
+      ]
+    }
+
+
+
+  ]
+}

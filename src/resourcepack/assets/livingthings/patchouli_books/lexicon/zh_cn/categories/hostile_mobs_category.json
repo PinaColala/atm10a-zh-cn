@@ -1,0 +1,6 @@
+{
+  "name": "敌对生物",
+  "description": "请留意这些生物，因为它们可能会主动攻击你！",
+  "icon": "minecraft:writable_book",
+  "sortnum": 2
+}

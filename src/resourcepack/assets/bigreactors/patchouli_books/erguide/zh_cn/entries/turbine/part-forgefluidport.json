@@ -1,0 +1,34 @@
+{
+  "name": "Forge流体端口",
+  "icon": "bigreactors:reinforced_turbinefluidport_forge_passive",
+  "category": "bigreactors:turbine-parts",
+  "read_by_default": true,
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "bigreactors:reinforced_turbinefluidport_forge_passive",
+      "link_recipe": true,
+      "title": "Forge流体端口",
+      "text": "Forge 流体端口允许你向涡轮机中插入或抽取流体。$(br2)该端口可以接收和输出原版流体，但前提是它们必须是有效的$(l:bigreactors:misc/coolantsystem)冷却液或蒸汽$(/l)。$(br2)可以使用$(l:bigreactors:misc/wrench)扳手$(/l)将端口从输入模式切换为输出模式。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础（被动）",
+      "recipe1": "bigreactors:turbine/basic/passivefluidport_forge",
+      "title2": "强化（被动）",
+      "recipe2": "bigreactors:turbine/reinforced/passivefluidport_forge"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "基础（主动）",
+      "recipe1": "bigreactors:turbine/basic/activefluidport_forge",
+      "title2": "加固 (主动)",
+      "recipe2": "bigreactors:turbine/reinforced/activefluidport_forge"
+    },
+    {
+      "type": "bigreactors:part_usage",
+      "text": "$(l)必需：$()否$(br)$(l)有效位置：$()任意面（不能在框架上）$(br)$(l)变种：$()全部$(br)$(l)图形界面：$()否$(br)$(l)扳手：$()可以使用$(l:bigreactors:misc/wrench)扳手$(/l)切换端口模式"
+    }
+  ]
+}

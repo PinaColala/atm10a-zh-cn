@@ -1,0 +1,23 @@
+{
+  "name": "破坏模块",
+  "category": "modularrouters:modules",
+  "icon": "modularrouters:breaker_module",
+  "pages": [
+    {
+      "type": "text",
+      "text": "这个模块会尝试破坏与$(l:router/item_router)路由器/$相邻、位于模块$(l:intro/modules#direction)设定方向/$上的方块。$(p)大多数方块都可以被破坏，但任何硬度不可破坏的方块（例如原版的$(item)基岩/$或$(item)末地传送门/$）都无法被破坏，流体方块也不行。如果方块被成功破坏，其主要掉落物会在可能的情况下自动放入物品路由器的缓冲区中。"
+    },
+    {
+      "type": "text",
+      "text": "破坏模块可使用任意类型的镐来合成（包括模组镐），但用于合成该模块的镐会决定它的挖掘等级。例如，如果你用$(item)铁镐/$制作破坏模块，它就无法破坏$(item)黑曜石/$。$(p)另外，用于合成的镐上带有的任何$(thing)附魔/$也会被记录到模块中（其中$(thing)精准采集/$和$(thing)时运/$特别有用）。"
+    },
+    {
+      "type": "text",
+      "text": "默认情况下，破坏模块的过滤器作用于$(thing)将会掉落的物品/$，而不是方块本身。例如，除非模块启用了$(thing)精准采集/$，否则用$(item)石头/$作为过滤条件并不能破坏石头。在这种情况下，你应该过滤$(item)圆石/$。$(p)你也可以通过模块 GUI 将模块设为按$(thing)方块/$匹配；这对于区分那些都会掉落为空的方块会很有用，例如$(item)冰/$和$(item)浮冰/$。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "modularrouters:breaker_module"
+    }
+  ]
+}

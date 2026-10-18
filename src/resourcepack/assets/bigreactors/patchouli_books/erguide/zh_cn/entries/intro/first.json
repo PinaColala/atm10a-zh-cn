@@ -1,0 +1,66 @@
+{
+  "name": "属于你的第一台反应堆",
+  "icon": "bigreactors:basic_reactorcasing",
+  "category": "bigreactors:intro",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "反应堆是一种多方块机器，它的主要任务是产生能量——而且是大量的能量。$(br2)多方块机器由许多不同的方块组成，你需要将它们彼此相邻地放置在世界中。$(br2)要合成并驱动反应堆，你需要黄铀锭，所以赶快去挖一些黄铀矿石并立刻把它冶炼出来吧！"
+    },
+    {
+      "type": "bigreactors:zcmultiblock",
+      "multiblock_id": "bigreactors:bookfirstbasicreactor"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "要建造你的第一座反应堆，你需要先合成以下基础反应堆方块：$(br2)$(li)22x 机壳$(li)1x 控制器$(li)1x 控制棒$(li)1x 燃料棒$(li)1x 固体访问端口$(li)1x 主动 Forge能量接口$(br2)玻璃方块是可选的，也可以用另一个机壳方块替代。"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "外壳",
+      "recipe1": "bigreactors:reactor/basic/casing",
+      "title2": "玻璃",
+      "recipe2": "bigreactors:reactor/basic/glass"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "控制器",
+      "recipe1": "bigreactors:reactor/basic/controller_ingots_uranium",
+      "title2": "控制杆",
+      "recipe2": "bigreactors:reactor/basic/controlrod"
+    },
+    {
+      "type": "bigreactors:crafting1x",
+      "title1": "燃料棒",
+      "recipe1": "bigreactors:reactor/basic/fuelrod_ingots_uranium",
+      "title2": "接入端口",
+      "recipe2": "bigreactors:reactor/basic/solidaccessport"
+    },
+    {
+      "type": "bigreactors:crafting-text",
+      "title": "Forge能量抽取端口",
+      "recipe": "bigreactors:reactor/basic/activetap_fe",
+      "text": "当你合成好所有必需方块后，就可以开始建造你的第一座反应堆了。$(br2)按照下图将这些方块放置到世界中，把燃料棒放在中央，并在其下方放置一个机壳。"
+    },
+    {
+      "type": "bigreactors:zcmultiblock",
+      "multiblock_id": "bigreactors:bookfirstbasicreactor"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "如果一切顺利，当你放下最后一个方块时，反应堆就会成型；随后你可以右键点击控制器方块来打开控制器界面。$(br2)如果什么都没发生，就右键点击你放置的任意一个方块：你会收到一条错误信息，说明问题所在。修正问题后，你应当会得到一座已成型的反应堆，或者另一条等待你的错误信息。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "现在你的反应堆已经准备就绪，是时候往里面加入燃料了。$(br2)拿起更多黄铀锭并右键点击固体访问端口。将端口设为入口模式，然后把锭放入输入槽。$(br2)这些锭会被反应堆迅速消耗并转化为燃料。$(br2)打开控制器界面，启动你的反应堆吧！"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "随着反应堆升温，能量会缓慢地产生，并填充其内部能量缓冲。$(br2)想要使用储存在反应堆内的能量，你需要将某种能量管道或机器连接到主动 Forge 能量接口上。$(br)能量接口会向连接的方块输出能量（如果它能够接收的话）。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "恭喜你，你已经建好了第一座反应堆！$(br2)用它来满足你游戏前期所需的全部能量，然后在阅读完本手册剩余内容后，再继续建造其他反应堆和涡轮机吧。"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "生螃蟹肉",
+  "icon": "livingthings:crab",
+  "category": "livingthings:item_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(br)$(bold)获取方式：$()$(br)可由螃蟹掉落"
+    },
+    {
+      "type": "spotlight",
+      "item": "livingthings:crab",
+      "text": "$(br)$(bold)用途：$()$(li)可食用$(li)可冶炼为烤螃蟹肉"
+    }
+  ]
+}

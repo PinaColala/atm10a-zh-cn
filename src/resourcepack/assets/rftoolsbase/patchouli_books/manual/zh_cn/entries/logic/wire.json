@@ -1,0 +1,19 @@
+{
+  "name": "连线",
+  "icon": "rftoolsutility:wire",
+  "category": "rftoolsbase:category_rftoolsutility_logic",
+  "extra_recipe_mappings": {
+    "rftoolsutility:wire": 0
+  },
+  "pages": [
+    {
+      "type": "text",
+      "text": "$(item)连线$()仅用于将$(thing)输入信号$()传输至$(thing)输出$()。简单直接，且无延迟。但其仅能沿直线铺设。$(br2)优点在于，与所有使用$(l:rftoolsbase:basics/machine_bases)机器基座$()制作的方块一样，它可被放置在墙壁或天花板上。"
+    },
+    {
+      "type": "crafting",
+      "heading": "连线",
+      "recipe": "rftoolsutility:wire"
+    }
+  ]
+}
