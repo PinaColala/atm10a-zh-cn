@@ -1,5 +1,9 @@
 ATM10A 0.7.1 简体中文适配 r2
 
+Linux 云端服务端请下载单独的 server-linux-r2.1 包，执行 sh install.sh "服务端目录"。
+支持 --check 检查和 --restore 还原；需要 Python 3.8+。详见 docs/LINUX.md。
+以下 BAT 说明适用于 Windows。
+
 客户端：退出游戏，解压 client ZIP，双击“双击安装-Windows.bat”，输入含 mods 和 config 的游戏目录。
 服务端：关服，解压 server ZIP，运行同名 BAT，输入含 mods 和 server.properties 的服务端目录。
 也可把整个解压文件夹放进实例根目录，让 BAT 自动识别父目录。

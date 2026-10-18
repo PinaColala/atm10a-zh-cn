@@ -2,9 +2,22 @@
 
 适配 **All the Mods 10: Aeronautics 0.7.1**，Minecraft 1.21.1 / NeoForge 21.1.250。基于[星野夢華的 ATM10 汉化](https://github.com/chiba233/atm10-zh-cn) r27-beta1（ATM10 8.2）制作的第三方衍生适配。
 
-**[下载客户端／服务端安装包](https://github.com/PinaColala/atm10a-zh-cn/releases/tag/r2-atm0.7.1)** · [安装说明](docs/INSTALL.txt) · [修复记录](reports/fixes.json) · [许可证与署名](CREDITS.txt)
+**[Windows 客户端 r2](https://github.com/PinaColala/atm10a-zh-cn/releases/tag/r2-atm0.7.1)** · **[Linux 服务端 r2.1](https://github.com/PinaColala/atm10a-zh-cn/releases/tag/r2.1-linux-atm0.7.1)** · [Linux 安装说明](docs/LINUX.md) · [修复记录](reports/fixes.json) · [许可证与署名](CREDITS.txt)
 
 ## 安装
+
+**Linux 云端服务器：**下载 [Linux 服务端包](https://github.com/PinaColala/atm10a-zh-cn/releases/tag/r2.1-linux-atm0.7.1)，解压后停服，用服务端文件的所属用户执行（Python 3.8+）：
+
+```sh
+sh install.sh --check "/srv/minecraft/ATM10A"
+sh install.sh "/srv/minecraft/ATM10A"
+# 需要还原时先停服：
+sh install.sh --restore "/srv/minecraft/ATM10A"
+```
+
+路径换成自己的实例目录。Linux 版兼容 FTB Quests 分散／合并语言文件，检查 Java 世界文件锁并保留文件权限，支持失败回滚。详见 [Linux 说明](docs/LINUX.md)与 [Ubuntu 自动测试](https://github.com/PinaColala/atm10a-zh-cn/actions/workflows/linux.yml)。r2.1 服务端译文与 r2 客户端一致，无需重装客户端。
+
+**Windows 客户端／Windows 服务端：**
 
 1. 在 Release 中下载 `atm10a-zh_cn-client-r2-atm0.7.1.zip`；专用服务端下载 `server` 包。
 2. 完全退出游戏／关闭服务器，将 ZIP 解压到独立文件夹。
@@ -41,6 +54,8 @@ Python 3.10+，仅用标准库：
 
 ```powershell
 python tools/build.py
+# Linux 服务端包（此构建脚本支持 Python 3.8+）：
+python tools/build_linux.py
 ```
 
 输出到 `dist/`，包括客户端／服务端 ZIP 和 `SHA256SUMS.txt`。使用官方 0.7.1 的 `overrides` 及 `src/guards.json` 指定的目标模组 JAR，可运行 Windows 离线安装测试：

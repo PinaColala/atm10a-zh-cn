@@ -1,0 +1,96 @@
+{
+  "pack": {
+    "url": "https://mediafilez.forgecdn.net/files/9022/977/ATM10AERO-0.7.1.zip",
+    "sha256": "75653ad3befc52b17cf1bcc8cd1f94aec882ad50f2a985382537eaa8dbe83028"
+  },
+  "mods": [
+    {
+      "slug": "ars-nouveau",
+      "projectID": 401955,
+      "fileID": 8993194,
+      "url": "https://cursemaven.com/curse/maven/ars-nouveau-401955/8993194/ars-nouveau-401955-8993194.jar",
+      "bytes": 19837868,
+      "sha256": "787b5e2ed6b0e5004285b27ab6c51f8b43edab6cb44c6eccf09452c4b3870dce"
+    },
+    {
+      "slug": "mcjtylib",
+      "projectID": 233105,
+      "fileID": 8256201,
+      "url": "https://cursemaven.com/curse/maven/mcjtylib-233105/8256201/mcjtylib-233105-8256201.jar",
+      "bytes": 699982,
+      "sha256": "b8eca900d4fe77a495c74137bd6be79c67281e5d7ae67ca55f59980c64960a0e"
+    },
+    {
+      "slug": "silent-gear",
+      "projectID": 297039,
+      "fileID": 8095210,
+      "url": "https://cursemaven.com/curse/maven/silent-gear-297039/8095210/silent-gear-297039-8095210.jar",
+      "bytes": 3147675,
+      "sha256": "d24d5f4794b069941845c1bde30475f8ea6066635ddb1139d706f6a627b4c0f3"
+    },
+    {
+      "slug": "rftools-builder",
+      "projectID": 347706,
+      "fileID": 8704384,
+      "url": "https://cursemaven.com/curse/maven/rftools-builder-347706/8704384/rftools-builder-347706-8704384.jar",
+      "bytes": 1054873,
+      "sha256": "d35029986064919cdebf93cebdbe6d6119e830cd0532a44b18bacfe75f4ebb4b"
+    },
+    {
+      "slug": "ars-elemental",
+      "projectID": 561470,
+      "fileID": 8999174,
+      "url": "https://cursemaven.com/curse/maven/ars-elemental-561470/8999174/ars-elemental-561470-8999174.jar",
+      "bytes": 2258694,
+      "sha256": "85dd29a711f2ae8b18ca33167e32136b3b1b608950f3dc5dd14f8d01aa20ec51"
+    },
+    {
+      "slug": "rftools-storage",
+      "projectID": 350006,
+      "fileID": 8256218,
+      "url": "https://cursemaven.com/curse/maven/rftools-storage-350006/8256218/rftools-storage-350006-8256218.jar",
+      "bytes": 398718,
+      "sha256": "4fe6241dc79421ee7bf129c476814e664c7dacb0d37005748474b2c08818a1e6"
+    },
+    {
+      "slug": "rftools-base",
+      "projectID": 326041,
+      "fileID": 8256204,
+      "url": "https://cursemaven.com/curse/maven/rftools-base-326041/8256204/rftools-base-326041-8256204.jar",
+      "bytes": 463973,
+      "sha256": "5195ba530e6cf9ba61c9954a3297679e6d29aa1b6182e27ae14ea43463dd4b00"
+    },
+    {
+      "slug": "rftools-power",
+      "projectID": 290209,
+      "fileID": 8256213,
+      "url": "https://cursemaven.com/curse/maven/rftools-power-290209/8256213/rftools-power-290209-8256213.jar",
+      "bytes": 579975,
+      "sha256": "259ebd617cc48e82bf0f1384ab661584829c6bcf0296273e338ceaa38a11f5d8"
+    },
+    {
+      "slug": "flux-networks",
+      "projectID": 248020,
+      "fileID": 6089446,
+      "url": "https://cursemaven.com/curse/maven/flux-networks-248020/6089446/flux-networks-248020-6089446.jar",
+      "bytes": 535938,
+      "sha256": "29e511b2d76f85bd247aa213a92bb059ecc037fcc3fed82baffcff97b638d3a6"
+    },
+    {
+      "slug": "productivebees",
+      "projectID": 377897,
+      "fileID": 8987967,
+      "url": "https://cursemaven.com/curse/maven/productivebees-377897/8987967/productivebees-377897-8987967.jar",
+      "bytes": 5377508,
+      "sha256": "2a7ecbcebb8bb91eca141261addfcdbc112f0be160b618ed47960c3b20ff0bf4"
+    },
+    {
+      "slug": "rftools-utility",
+      "projectID": 342466,
+      "fileID": 8256212,
+      "url": "https://cursemaven.com/curse/maven/rftools-utility-342466/8256212/rftools-utility-342466-8256212.jar",
+      "bytes": 1434987,
+      "sha256": "1fdbf7505c6d6f4ef93b8b15961c9c1a6a4d35a5d676297f8f647916238f4d2a"
+    }
+  ]
+}

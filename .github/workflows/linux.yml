@@ -1,0 +1,40 @@
+name: Linux server installer
+on:
+  push:
+    paths:
+      - 'installer/**'
+      - 'tools/build_linux.py'
+      - 'tests/**'
+      - 'src/**'
+      - '.github/workflows/linux.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  offline-install:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 20
+    strategy:
+      matrix:
+        python: ['3.8', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - name: Fetch pinned official test inputs
+        run: python tests/fetch_linux_inputs.py
+      - name: Build Linux package
+        run: python tools/build_linux.py
+      - name: Check shell syntax and run integration tests
+        run: |
+          sh -n dist/atm10a-zh_cn-server-linux-r2.1-atm0.7.1/install.sh
+          python tests/verify_linux.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: linux-verification-python-${{ matrix.python }}
+          path: reports/linux-verification.json

@@ -1,0 +1,772 @@
+[
+  {
+    "path": "config/ftbquests/quests/chapter_groups.snbt",
+    "accepted": [
+      "79f1150849b637ec8be6f8d4be0ec7d72292ce86e3963ed67d6ae73777482601"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/achapter_2r_6the_atm_star.snbt",
+    "accepted": [
+      "6b4563e64af250325fee727422ba89c4e1b4a7f85f4a50479d91bd2076ba831b"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/aeronautics.snbt",
+    "accepted": [
+      "fb3931a6d8a0ccd946a165f492ac04484a2233ac2f71508f60c72a59947bb782"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/aeronautics_addons.snbt",
+    "accepted": [
+      "1236019d5179deac5528ef334184750b1a3afb9ce01bc20460eba841a2ed3096"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/aether.snbt",
+    "accepted": [
+      "ef8f34750935b2c1fdba0e90ff87681bc308e5d26ddf77478e0249c527122d8e"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/allthemodium.snbt",
+    "accepted": [
+      "7504aeaa54149bad75ef72373dbd69dae0296044eb868deca290326704e5e49a"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/apotheosis_2.snbt",
+    "accepted": [
+      "726332e0aca5c540d5c9aa13c192a8a364a5aebc3edeee3ec95f37920b623799"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/apotheosis_gear.snbt",
+    "accepted": [
+      "1e2f2bbb5b3774db0511a38992db9253567f37be5483ce2187fe72679d2f5ff6"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/apothic_enchanting.snbt",
+    "accepted": [
+      "1a591efbf79692f4613b5412bba3ebbacef91dfcf12c78cf86cdce242eada953"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/applied_energistics_2.snbt",
+    "accepted": [
+      "7c4abf1f7acc9a3ca5797c66dd0c7acddef1fa4957e05636c176d5bbeb37cea5"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/ars_nouveau.snbt",
+    "accepted": [
+      "a0f1df41e80c413074f3cf56c3d2284e37c76d0e9f9cb62ac52a98f67a6d5b9d"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/artifacts.snbt",
+    "accepted": [
+      "37ae2a5c0ebe27b1a3c1c13825f29e22a3f68f199f6b79581d570af437c1fbd9"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/basic_armor.snbt",
+    "accepted": [
+      "66ce33a7a985b19a3161155af7a9abb60fbadf314e3374a083618b5366a264e9"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/basic_logistics.snbt",
+    "accepted": [
+      "1e96d6fd5e5521692e86ab424b255d118901c34aa9c920055015ad34ccb89071"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/basic_power.snbt",
+    "accepted": [
+      "c9011778f6ce7ec2654b5ee1bbf95eb21703882785d24fdba90a2f51205b693c"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/basic_tools.snbt",
+    "accepted": [
+      "8e3ab0ad2da0e195cd5a89fdb5528bb74f45be134b94c64b681de9498a39afdb"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/bounty_board.snbt",
+    "accepted": [
+      "dba1483353150b0fbcbb7d7cd783fff4ecbc01d3c5d0e2dddbfd4afe0a4acedb"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/building_tips.snbt",
+    "accepted": [
+      "5a716de5cac7e2f2493b0e7757d21c2ffa9565a667eb44b84fa4468a98325202"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/cataclysm.snbt",
+    "accepted": [
+      "30b670ec290ca09efa3f1cc5014b455020fa9992bd8bdea0ffe8b9982fa01c46"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/chapter_2_the_star.snbt",
+    "accepted": [
+      "781351b5d72a3dca50b1802f815ef282af8b31a7088c4cdb3bdb688ec97e3efe"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/create.snbt",
+    "accepted": [
+      "4caaf4c5b944fdd245f5c45c1c4629e35ef3493c1981a51eb0ee8a002496e69e"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/deeper_and_darker.snbt",
+    "accepted": [
+      "ea740a226f1b9526333bc26c92ccffc2cb1d11bfce98dcf936b90b6b80cda8df"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/draconic_evolution.snbt",
+    "accepted": [
+      "de4c8edd36e58353a10dc46c40154debc3b6dc51b8c81bc1d0d39ffe4ad94418"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/elmystical_agriculturerr.snbt",
+    "accepted": [
+      "988a98de1990a055cf37db7cff0af67877b0805a0db69e09b796d415b3ecb3bc"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/enderio.snbt",
+    "accepted": [
+      "05f11225a939b67e0841baa9cd6e87ff8dcca833d719c99c20a6999a0b2cd4d7"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/evilcraft.snbt",
+    "accepted": [
+      "6f585a573dc50343e80a76136a4cedd795aaca9b8798b01d3c91ba95fa28a41f"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/excessive_utilities.snbt",
+    "accepted": [
+      "9a319430b51a49eae6c4d8b12a9d5a7e3ff64072af697bfa3a1944bd669c4007"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/extended__advanced_ae.snbt",
+    "accepted": [
+      "8e1df823af34d1f9b59881cce60a54ccdb1337acb3dfdf6537b2a0eee4f7e20d"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/extreme_reactors.snbt",
+    "accepted": [
+      "3336a314e584ddc46fb848165b219ee8474d8fb4d44ecbe81a79f24f02c71b85"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/food_and_farming.snbt",
+    "accepted": [
+      "241b976514ccb228ba3717c2b804e52afd0a65fcb5a08762a2a943af450c0381"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/forbidden__arcanus.snbt",
+    "accepted": [
+      "d8b48518733cf4c6715c3b4fc74cb484e295d2de5835e1e0ff1351dbdf890c2c"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/generators.snbt",
+    "accepted": [
+      "293f29eb86704de3428b464df14db31c92e8e8b1e6ca6759f2e6b3b27f0e7a12"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/hostile_neural_networks.snbt",
+    "accepted": [
+      "1f0bc3262bf7cbb31b50646df62bf61dbcc74f40e764f72e97cdfe1f5d002328"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/ice__fire.snbt",
+    "accepted": [
+      "addd762319f55c59b82c20cc6a57b7d9345ee6c3565a86c23b21996cfe199cd0"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/immersive_engineering.snbt",
+    "accepted": [
+      "287f327d661945cbe6b85127927f0cb90e8386c25e1469fe19d9053995e9cf73"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/industrial_foregoing.snbt",
+    "accepted": [
+      "13b29416658868dded281a9bf15d99986b58cd9ed2e3ede7f77f9dc9c5043323"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/integrated_dynamics.snbt",
+    "accepted": [
+      "c97227b9408b68621796427f774523a54628c912d6b27281f85d0a0595693d47"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/justdirethings.snbt",
+    "accepted": [
+      "17ab1cee1e826904508f5df39470a8f76625e0bfba16575ceaee536d831fa90e"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/mahou_tsukai.snbt",
+    "accepted": [
+      "16af2fab4018ee61cddcc1dbcad9c61c69d713120419d0092e18e72d7ca51148"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/mainquestline_part_1.snbt",
+    "accepted": [
+      "a01d57e8af8921c262556f5450b63a593f82cd2692f4a1047fdd58390518e6dd"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/mekanism.snbt",
+    "accepted": [
+      "1b43ccec5f90d16a0193e6d15b8f558d17b997e2cfa80d66a9264f6b9580932a"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/mekanism_reactors.snbt",
+    "accepted": [
+      "b5974c202ee8cff116d072fe57e1a025f16d046beac9aadf99027eb0ba8f14bc"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/mi_digital.snbt",
+    "accepted": [
+      "47ed25b367201fa22f8899a43cbcbdc4417a6f679f2a6e4f864b58ec6eedee06"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/mi_electric.snbt",
+    "accepted": [
+      "ba19fe9c5de4d38392d2ab4234954f06c63b25ab82f1a0dae027b18edda9c722"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/mi_endgame.snbt",
+    "accepted": [
+      "857784c42f1f4efc4abf23cd1b02edfff791fea0632572c1bd0bcaba3774df11"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/mi_steam.snbt",
+    "accepted": [
+      "239d7f32b375e1cd169c7c09318a361bf3febd9db6b6e66535849743dbf14fff"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/modular_router.snbt",
+    "accepted": [
+      "add1eaa440fda4c049d5555950e0efd50ac114c9f32c35e1cfedcab5f4e85280"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/natures_aura.snbt",
+    "accepted": [
+      "ba3194b687bad88e18fb182c8f51c35bff03916db9569374e1639a882148c053"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/neo_vitae.snbt",
+    "accepted": [
+      "4381f29057c95227074bba6e25890c6a1be944e125d0317df731656e0f9b03b2",
+      "515b567261bb981f1691635396828a74f3bffd12768c2f1e6b21b77916a0abfb"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/occultism.snbt",
+    "accepted": [
+      "d98349a6f527d4c6bf2fd07043ec6c920c860fc8ec9e93403733c7df785fe0a8"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/oritech.snbt",
+    "accepted": [
+      "672ca21c27bc2a78f63a30cb99f1b1378246dae71dd4e6b28aad62e07aab0b27"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/pneumaticcraft.snbt",
+    "accepted": [
+      "58295614bc659bbf74bb37e4685751a3e517704b2ef8978dd4fdf7073bb1472c"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/powah.snbt",
+    "accepted": [
+      "15981b81d0fcfb28b0289575a7e784ff065a38361f8c5d5672a4d36d82fa1400"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/productive_bees.snbt",
+    "accepted": [
+      "f1a1572a520a66fd65cb5c810e11cf71160fa303af0c81e7c395ec77a2f509b7"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/productive_trees.snbt",
+    "accepted": [
+      "dafb97adaa3b2f210ccf9a284bad7e4e174afcca17da516186f3347d17bd73bf"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/pylons.snbt",
+    "accepted": [
+      "b6e4586c0366456635624a5a65dac797fdafd1160d9fa6617e42ac42a7c5c9bb"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/railcraft.snbt",
+    "accepted": [
+      "ce937297c8501127111d8d43d10cbd5845f6622005fdd6ca1aeabafb6ea46e94"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/refined_storage.snbt",
+    "accepted": [
+      "771d285c54e4481d76a3b508f126f9e3202b2aa7ae17802dfb276454ab094096"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/relics.snbt",
+    "accepted": [
+      "7cf9e409282b6b1e826b8572c2199e49e33cf0ec768b1cbd2a54e06afadc4a23"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/silent_gear.snbt",
+    "accepted": [
+      "40fa3a3ee64ed70ae61491707e00a411119c527cb21333aeb463bdce35139c4d"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/storage.snbt",
+    "accepted": [
+      "a105796d42fbb6c64005c55ff98f5dc3c4ffb9aa708fb7fc5c81ce94b7c8bbea"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/theurgy.snbt",
+    "accepted": [
+      "a1fac9796f901afbe9e3718077e34ae5d98d9dff979b8e4a25f4360aad876215"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/tips_and_tricks.snbt",
+    "accepted": [
+      "939084152f590c087c0628947bb1577611a1ce5d2ec673aeca15f6beb2ab2ddd",
+      "eff2775e825cbd4adef290060d43eff0d39011033ee6710ab548a7378febd4e6"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/twilight_forest.snbt",
+    "accepted": [
+      "313e64ecbcaa4bdc2f76854cff95b1e9d0a3f169eb042edbe3598d336a662fee"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/undergarden.snbt",
+    "accepted": [
+      "8cb2369407d97b293ea4d157fac042cc324bbf4c4c5ed83de19acf144f1a839e"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/welcome.snbt",
+    "accepted": [
+      "00df4968c760fe7b6624474017080f330ca20660283b0fe972616d47857b9237"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/chapters/xycraft.snbt",
+    "accepted": [
+      "64719b91a06950df1a3442c409923c3e609d5f46ac0668ef45d5b79a3a36585c"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/data.snbt",
+    "accepted": [
+      "5209af161a574901627a3e42134b1711d2a9a91369193034228873ddaad3347a"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/00E1FAFD0EF07752.snbt",
+    "accepted": [
+      "222978b41e7e993b79dd222513ac57bd85555cd3ba1a0df27efdcd2d64256d57"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/08F142CC52B97FF5.snbt",
+    "accepted": [
+      "6a8dc43044016fb1c10fbf50306e6d238347061bd242da5d6aad90a123fc8355"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/0C83C7A93ED80A36.snbt",
+    "accepted": [
+      "a476b82ecd1333f111bf891180927acc7bfa5355cf57d53ba3abd9c7d94fb77a"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/11204745E52B4C0C.snbt",
+    "accepted": [
+      "dd256e6cc64ae99b955e1593cb0395e0d3c5e4364bc375d3cc1142215afbb427"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/1AE4A39086CA5564.snbt",
+    "accepted": [
+      "6eaf062a8bae42edfe918b3068e611464d9d05e50379aa2e1c67ffa0ec4a3432"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/1DB1EEDA7B79672B.snbt",
+    "accepted": [
+      "1ebeafe7650af54d5948175e91fd3023f9244abff9c57fccda8faacfb6d31cc5"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/1EC6956FA2BB2B00.snbt",
+    "accepted": [
+      "66ea39556f27c867279901a15c3d13222b60a607c1e90357dabe9051fabc34ba"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/2B3CE3172F836885.snbt",
+    "accepted": [
+      "1ea204d39a6fe7c10f1841460dd1d0cff7a87b2e9629233a7802ba3f5416da99"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/3602F483568B92BA.snbt",
+    "accepted": [
+      "306d870d2096ac726598ae3b7813d746202d397785cd426e5219006ec7b79075"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/37F912BDB7C8E6B6.snbt",
+    "accepted": [
+      "5c8a85d709fd89d18d529a17769fc59998aed3568f611df426acee3b87c5f466"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/38EA3D35FF94DD47.snbt",
+    "accepted": [
+      "7481a73596ab1a2978b05985abfe30d632d561ecb221ed10b73ecb45b2b38aec"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/3EFA2A65D70FADCC.snbt",
+    "accepted": [
+      "9ca77ce0fd2f05a98b386fc0632bb17e95c555295be55b8d325af8b81f7ebe99"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/5832C9BCFDB476AF.snbt",
+    "accepted": [
+      "ca5481b257ce17859a4078d2b157de8ce7d94a254efd8c53abf674e26740b699"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/5958F7D688A0101D.snbt",
+    "accepted": [
+      "92cc5eafff7de604a3e65238585e51687c801e371cfed173074b4b1cf2296184"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/5F919CCD30D9E7F6.snbt",
+    "accepted": [
+      "b757dfb8144ecd36c97c13bbdd5268e281d8dab7228cbc695417151f6e30ef8e"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/636C0F2A58AD8FC1.snbt",
+    "accepted": [
+      "6db3fe1a0417730ede10ca300186e0a59a8628150fe97dbaa540ad9d84d15778"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/64E6D6A658988648.snbt",
+    "accepted": [
+      "8c289cb27af40d5801be010272621f8c19c0900b41a0db6307b48cf24af2d1b8"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/677C7D01E9C0064B.snbt",
+    "accepted": [
+      "5f07702b9f8135e3c263beb6018c0181a3e784f8dccdb81915fc82e5aa049095"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/74447919FD89521E.snbt",
+    "accepted": [
+      "71de4f8622c4001713c6cc24d3102766be8a96a78eead0137e911456c3b1ffa4"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/75FE7CDF68581EDE.snbt",
+    "accepted": [
+      "496dda244ad128c8a18289823b432bc6833b9df8a3e2807b7c5f5a31ea62b4b3"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/7609CF2A167B45C8.snbt",
+    "accepted": [
+      "9d191429dca655f250e030d8cc7db5c5d9bce230de9c5fbe243021ffdd188eb2"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/79C7738D7CEDABD4.snbt",
+    "accepted": [
+      "bac75d9060bb08e0ffc41384bd465a207a25ef7c44ac80b0385c7e728eaec2de"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/ae2_basic_reward_table.snbt",
+    "accepted": [
+      "cdc457ddd5951c9d48a3ee637231bd804115aae03f4c20063d1ad23d79bf134b"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/ae2_basic_rewards.snbt",
+    "accepted": [
+      "dcf0fdd7676e0b9d549528d4032b1d1697175b6a62f54d2d8bfaf86cbe1354c6"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/amekanismr_dadvanced_loot_boxr.snbt",
+    "accepted": [
+      "a7902085f04e16785d55ba83f95488d141737a01604fc00140d0ef80f406c3de"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/common.snbt",
+    "accepted": [
+      "951d363a7ad5c1e43e72af58a123ca3986361d094ae40ebcc783d30d27df0985"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/de_basic.snbt",
+    "accepted": [
+      "85650c9aae885d17db8bff036c03440fdbdd4ea6286c88aca929f1dd79f803a0"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/de_basic_2.snbt",
+    "accepted": [
+      "0c8c36e279246be447a6a68389e2a61b251c039efc2d41a57b40e9d4519a96c0"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/de_basic_3.snbt",
+    "accepted": [
+      "dbf9be9d1eb98a2a65451e7fcb731f943c19b30a3d4eb5766294861c55529ad1"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/de_basic_4.snbt",
+    "accepted": [
+      "c6761ad6ddd2e8cbc110e4b865e579de5ad4cb37dcd0f861be98bb40774ba038"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/epic.snbt",
+    "accepted": [
+      "2fb3e5d98d6b6f703178b20b2a32380841d3ccd720c9cf700b93b6ece9d1a108"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/evilcraft_basic_reward.snbt",
+    "accepted": [
+      "9f623d1c3d47b0375daf03f31632d84bfc7d6fdf604540faddfdd492d50a1658"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/immersive_alloys.snbt",
+    "accepted": [
+      "aafadf904a320c5d8e5e51517dd4ef847e79a8c13057adb46ffb2e60b7abe9a0"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/immersive_blocks.snbt",
+    "accepted": [
+      "d17ef426c5c0816c9c202310f3b046d59f8a17e6b2a68429ab094e5c7801b73d"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/immersive_resources.snbt",
+    "accepted": [
+      "d24fed315f929edba675e9f58a14066730d5cdfeddf1322b92d312066681f1f0"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/industrial_foregoing_advanced_bag.snbt",
+    "accepted": [
+      "a47be45ae2074ed318442578d95d58b5b1f1bae6a33d1921fd27959fcb4f2a3a"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/industrial_foregoing_plastic_bag.snbt",
+    "accepted": [
+      "4d480ab0bd7dcdb8c61915215e20980d114b15c68bdcd9c6ae9c40865beabfe8"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/legendary.snbt",
+    "accepted": [
+      "c26c1f46d60dae3a64a7b06c52482c7c23ad4a67cb13a6b431c552903f3538b4"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/mahou.snbt",
+    "accepted": [
+      "77a4859a6ae26019b3dee54df8f7184a45e3b752fb3456a0f18fcc0d4507d55d"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/mekanism.snbt",
+    "accepted": [
+      "a5c9f8ad029990893357af33c4c41cb3bc7d44aaafc9d4679141be6eebfc83b4"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/mythic.snbt",
+    "accepted": [
+      "f4ba53751eb9b519d747fa6d9b8411988bc5ceef3dcfc82748930b6aecca6faa"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/pnc_advanced_rewards.snbt",
+    "accepted": [
+      "981a5083cc6c01455dbe82d1ba97933a6d643bfa9aaa312c1895f887c791b859"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/pnc_basic_rewards.snbt",
+    "accepted": [
+      "b71c5257c6bafb0686992fc2c0bc93cbe16474b56f25ccfea8cb15a8acd70906"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/pnc_pcb_rewards.snbt",
+    "accepted": [
+      "54bf58e3ad275bceca623c8647edd79bc0d8171acff32764fc0bbbeea5c069a1"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/pnc_plastic_tier.snbt",
+    "accepted": [
+      "9e2e71685cc91fa1b20a629527dcdc6d039f2d21fa1d3e150d3ac8db90197424"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/powah_basic_loot.snbt",
+    "accepted": [
+      "d43bc0a6cc532595964b2ff8eaeb77d665e4450c4a8e2b5ea0352fdd6db67137"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/powah_blazing.snbt",
+    "accepted": [
+      "dd8ef47a82e302b972aae9ff9853bba0cf894faab419fcc077f210df07e6e284"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/powah_hardened.snbt",
+    "accepted": [
+      "ea24ec6d8ec9488dfe494c6a54485cb9e0f696a40d31eb7f0c1c52a05da67673"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/powah_mats.snbt",
+    "accepted": [
+      "3b143a05cd556fe4cdfd2725c12f7c278a5b61e847f18c3648867b37309dc118"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/powah_niotic.snbt",
+    "accepted": [
+      "ad15ae864ce54f65820de8c34d0cfe1e23d0c9d43522a15aad75bb9fa0aa95ed"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/powah_nitro.snbt",
+    "accepted": [
+      "3fcd4df7fb4729c5e4e8c82f7a07bac6edd068183bde5381bfce7036fd4e86bd"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/powah_orb.snbt",
+    "accepted": [
+      "e828e4cafc437d9aa7586939aaf3eaa6387cac9b2bc19aacc56ce2582bbf8e32"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/powah_spirited.snbt",
+    "accepted": [
+      "22cf97660ce31bb6b7fdc38bd5981c3847f2b824db6e7b1248b4cd9c0741c556"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/rare.snbt",
+    "accepted": [
+      "2bb9240cbbc4aadaf1ba435ea232d8197b5e656a65148bd19d565ab4be4b41d2"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/rs_base_materials.snbt",
+    "accepted": [
+      "87ec07c43e6ef82035013ff527440f0f513fbb58087c53f0d3babd88340e3a8e"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/rs_processors.snbt",
+    "accepted": [
+      "c51aa49a48064345bed8548955cad55c5692ea8b6940a5aac857678d46c25572"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/steam_age_reward_table.snbt",
+    "accepted": [
+      "817a466fba81d4ebfa4dd5c41d321356fa946fe1c898cacc26468ac1f5357b49"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/Tier1_Seed Bag.snbt",
+    "accepted": [
+      "1ae1c32fb2a21401b462ee2c8f90b8f4fb85b25505fc04bd870dff8e4fca74cf"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/Tier2_Seed Bag.snbt",
+    "accepted": [
+      "0310c4250f32af3aef10b20b200d1ebbf9f127b72e3518cd2b7054a654de7d4d"
+    ]
+  },
+  {
+    "path": "config/ftbquests/quests/reward_tables/uncommon.snbt",
+    "accepted": [
+      "91e183d1cc826c14e1d5bc1610e6a3b0988d942804969695ff222d951daca388"
+    ]
+  }
+]
