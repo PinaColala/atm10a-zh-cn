@@ -1,0 +1,57 @@
+{
+  "result": "passed",
+  "workflow": "https://github.com/PinaColala/atm10a-zh-cn/actions/runs/39084302204",
+  "testedCommit": "15bae99f248ee2294a9344e64ecdd2e50b591a60",
+  "runs": [
+    {
+      "platform": "Linux-6.8.0-1064-azure-x86_64-with-glibc2.34",
+      "python": "3.8.18",
+      "checks": [
+        "check writes no server files; shell handles Unicode and spaces",
+        "wrong version, custom script, wrong mod and changed quest rejected without writes",
+        "read-only destination rejected before backup or writes",
+        "symlink destination rejected",
+        "real Java FileChannel world lock prevents installation",
+        "install hashes; 65 data files preserve non-display values; merged quest text; modes and world preserved",
+        "repeat install is a no-op",
+        "restore rejects user edits and corrupted backups",
+        "restore is byte-exact and preserves original modes",
+        "mid-install write failure rolls back already-written files",
+        "post-launch merged SNBT and changed chapter order install and restore"
+      ],
+      "result": "passed",
+      "translatedQuestKeys": 8447,
+      "dataFiles": 65,
+      "displayEdits": 161,
+      "actualJavaFileLockTest": true,
+      "gameStarted": false,
+      "cloudServerAccessed": false
+    },
+    {
+      "platform": "Linux-6.8.0-1064-azure-x86_64-with-glibc2.35",
+      "python": "3.12.15",
+      "checks": [
+        "check writes no server files; shell handles Unicode and spaces",
+        "wrong version, custom script, wrong mod and changed quest rejected without writes",
+        "read-only destination rejected before backup or writes",
+        "symlink destination rejected",
+        "real Java FileChannel world lock prevents installation",
+        "install hashes; 65 data files preserve non-display values; merged quest text; modes and world preserved",
+        "repeat install is a no-op",
+        "restore rejects user edits and corrupted backups",
+        "restore is byte-exact and preserves original modes",
+        "mid-install write failure rolls back already-written files",
+        "post-launch merged SNBT and changed chapter order install and restore"
+      ],
+      "result": "passed",
+      "translatedQuestKeys": 8447,
+      "dataFiles": 65,
+      "displayEdits": 161,
+      "actualJavaFileLockTest": true,
+      "gameStarted": false,
+      "cloudServerAccessed": false
+    }
+  ],
+  "gameStarted": false,
+  "cloudServerAccessed": false
+}
